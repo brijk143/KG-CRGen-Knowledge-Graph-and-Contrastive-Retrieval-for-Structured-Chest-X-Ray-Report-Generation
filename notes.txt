@@ -11,3 +11,4 @@ other model = qwen2.5-vl-7b using Hf token
 llm_judge to compare other models = "gpt-4o-mini" using OpenAI API KEY
 
 https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university/data?select=indiana_reports.csv
+nrg
