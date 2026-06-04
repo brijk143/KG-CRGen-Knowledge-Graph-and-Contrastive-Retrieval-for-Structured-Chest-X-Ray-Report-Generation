@@ -1,0 +1,13 @@
+BiomedCLIP  model_name = 'hf-hub:microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224'. using Hf token
+KNOWLEDGE GRAPH  model_name= meta-llama/Meta-Llama-3-8B-Instruct using Hf token 
+Retrieval trainig model = 'hf-hub:microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224' using Hf token
+test_pipeline and batch_test_pipeline --> gpt-4o-mini
+evaluate_pipeline ->gpt-4o-mini
+ 
+Other MODEL = "meta-llama/llama-4-scout-17b-16e-instruct" using groq api KEY
+Other Model = Claude Sonnet 4.5 using OpenRouter api key 
+other model = qwen2.5-vl-7b using Hf token
+
+llm_judge to compare other models = "gpt-4o-mini" using OpenAI API KEY
+
+https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university/data?select=indiana_reports.csv
