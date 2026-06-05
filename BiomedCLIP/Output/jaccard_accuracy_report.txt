@@ -1,0 +1,176 @@
+Loading CSV files...
+
+Predictions CSV shape: (759, 118)
+Indiana Reports CSV shape: (759, 10)
+
+================================================================================
+PREDICTIONS CSV COLUMNS
+================================================================================
+['uid', 'frontal_image', 'lateral_image', 'gt_labels', 'fusion_mode', 'prob_Airspace Disease', 'prob_Bronchiectasis', 'prob_Bronchiolitis', 'prob_Bullous Disease', 'prob_Calcified Granuloma', 'prob_Calcinosis', 'prob_Cardiac Shadow (abnormal)', 'prob_Cardiomegaly', 'prob_Consolidation', 'prob_Degenerative Change', 'prob_Edema', 'prob_Effusion', 'prob_Emphysema', 'prob_Fibrosis', 'prob_Fractures', 'prob_Hernia', 'prob_Hyperinflation', 'prob_Increased Lung Markings', 'prob_Interstitial Lung Disease', 'prob_Kyphosis', 'prob_Lesion', 'prob_Mass', 'prob_Nodule', 'prob_Osteophyte', 'prob_Pleural Effusion', 'prob_Pleural Thickening', 'prob_Pneumothorax', 'prob_Pulmonary Artery Enlargement', 'prob_Pulmonary Fibrosis', 'prob_Rib Fracture', 'prob_Scoliosis', 'prob_Subcutaneous Emphysema', 'prob_Thickening', 'prob_Volume Loss', 'prob_normal', 'frontal_prob_Airspace Disease', 'frontal_prob_Bronchiectasis', 'frontal_prob_Bronchiolitis', 'frontal_prob_Bullous Disease', 'frontal_prob_Calcified Granuloma', 'frontal_prob_Calcinosis', 'frontal_prob_Cardiac Shadow (abnormal)', 'frontal_prob_Cardiomegaly', 'frontal_prob_Consolidation', 'frontal_prob_Degenerative Change', 'frontal_prob_Edema', 'frontal_prob_Effusion', 'frontal_prob_Emphysema', 'frontal_prob_Fibrosis', 'frontal_prob_Fractures', 'frontal_prob_Hernia', 'frontal_prob_Hyperinflation', 'frontal_prob_Increased Lung Markings', 'frontal_prob_Interstitial Lung Disease', 'frontal_prob_Kyphosis', 'frontal_prob_Lesion', 'frontal_prob_Mass', 'frontal_prob_Nodule', 'frontal_prob_Osteophyte', 'frontal_prob_Pleural Effusion', 'frontal_prob_Pleural Thickening', 'frontal_prob_Pneumothorax', 'frontal_prob_Pulmonary Artery Enlargement', 'frontal_prob_Pulmonary Fibrosis', 'frontal_prob_Rib Fracture', 'frontal_prob_Scoliosis', 'frontal_prob_Subcutaneous Emphysema', 'frontal_prob_Thickening', 'frontal_prob_Volume Loss', 'frontal_prob_normal', 'lateral_prob_Airspace Disease', 'lateral_prob_Bronchiectasis', 'lateral_prob_Bronchiolitis', 'lateral_prob_Bullous Disease', 'lateral_prob_Calcified Granuloma', 'lateral_prob_Calcinosis', 'lateral_prob_Cardiac Shadow (abnormal)', 'lateral_prob_Cardiomegaly', 'lateral_prob_Consolidation', 'lateral_prob_Degenerative Change', 'lateral_prob_Edema', 'lateral_prob_Effusion', 'lateral_prob_Emphysema', 'lateral_prob_Fibrosis', 'lateral_prob_Fractures', 'lateral_prob_Hernia', 'lateral_prob_Hyperinflation', 'lateral_prob_Increased Lung Markings', 'lateral_prob_Interstitial Lung Disease', 'lateral_prob_Kyphosis', 'lateral_prob_Lesion', 'lateral_prob_Mass', 'lateral_prob_Nodule', 'lateral_prob_Osteophyte', 'lateral_prob_Pleural Effusion', 'lateral_prob_Pleural Thickening', 'lateral_prob_Pneumothorax', 'lateral_prob_Pulmonary Artery Enlargement', 'lateral_prob_Pulmonary Fibrosis', 'lateral_prob_Rib Fracture', 'lateral_prob_Scoliosis', 'lateral_prob_Subcutaneous Emphysema', 'lateral_prob_Thickening', 'lateral_prob_Volume Loss', 'lateral_prob_normal', 'predicted_classes', 'resolved_classes', 'kg_classes', 'num_predicted', 'conflict_resolution', 'is_uncertain', 'uncertainty_reason', 'inference_time_s']
+
+First few rows of predictions:
+    uid              frontal_image  ... uncertainty_reason inference_time_s
+0  3219  3219_IM-1520-1001.dcm.png  ...                NaN           0.2868
+1  3220  3220_IM-1522-1001.dcm.png  ...                NaN           0.2875
+2  3221  3221_IM-1522-1002.dcm.png  ...                NaN           0.2889
+
+[3 rows x 118 columns]
+
+================================================================================
+INDIANA REPORTS CSV COLUMNS
+================================================================================
+['uid', 'MeSH', 'Problems', 'image', 'indication', 'comparison', 'findings', 'impression', 'labels', 'label']
+
+First few rows of indiana_reports (uid, labels, label):
+    uid                                  labels                         label
+0  3219  ['Hyperinflation', 'Lesion', 'Nodule']  Hyperinflation;Lesion;Nodule
+1  3220                              ['normal']                        normal
+2  3221                              ['normal']                        normal
+
+================================================================================
+MERGING DATAFRAMES
+================================================================================
+Total UIDs in predictions: 759
+Total UIDs in indiana_reports: 759
+Total UIDs matched: 759
+
+================================================================================
+CALCULATING JACCARD ACCURACY FOR EACH UID
+================================================================================
+
+================================================================================
+OVERALL JACCARD ACCURACY RESULTS
+================================================================================
+
+✓ Overall Jaccard Accuracy: 0.446708 (44.6708%)
+✓ Median Jaccard Accuracy: 0.250000 (25.0000%)
+✓ Min Jaccard Accuracy: 0.000000 (0.0000%)
+✓ Max Jaccard Accuracy: 1.000000 (100.0000%)
+✓ Standard Deviation: 0.460349
+✓ Total UIDs evaluated: 759
+
+================================================================================
+ACCURACY DISTRIBUTION
+================================================================================
+
+Perfect matches (100% accuracy): 296 UIDs (39.00%)
+High accuracy (≥80%): 296 UIDs (39.00%)
+Medium accuracy (50-80%): 327 UIDs (43.08%)
+Low accuracy (<50%): 432 UIDs (56.92%)
+
+================================================================================
+DETAILED CALCULATION EXAMPLES (First 5 UIDs)
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+UID: 3219
+Predicted classes: {'normal|Lesion'}
+Actual labels: {'Nodule', 'Hyperinflation', 'Lesion'}
+
+Calculation:
+  Intersection (both predicted AND actual): set()
+  Union (either predicted OR actual): {'Lesion', 'Nodule', 'Hyperinflation', 'normal|Lesion'}
+  Jaccard = |Intersection| / |Union|
+  Jaccard = 0 / 4
+  Jaccard = 0.250000 (25.0000%)
+
+────────────────────────────────────────────────────────────────────────────────
+UID: 3220
+Predicted classes: {'normal'}
+Actual labels: {'normal'}
+
+Calculation:
+  Intersection (both predicted AND actual): {'normal'}
+  Union (either predicted OR actual): {'normal'}
+  Jaccard = |Intersection| / |Union|
+  Jaccard = 1 / 1
+  Jaccard = 1.000000 (100.0000%)
+
+────────────────────────────────────────────────────────────────────────────────
+UID: 3221
+Predicted classes: {'normal'}
+Actual labels: {'normal'}
+
+Calculation:
+  Intersection (both predicted AND actual): {'normal'}
+  Union (either predicted OR actual): {'normal'}
+  Jaccard = |Intersection| / |Union|
+  Jaccard = 1 / 1
+  Jaccard = 1.000000 (100.0000%)
+
+────────────────────────────────────────────────────────────────────────────────
+UID: 3222
+Predicted classes: {'normal'}
+Actual labels: {'normal'}
+
+Calculation:
+  Intersection (both predicted AND actual): {'normal'}
+  Union (either predicted OR actual): {'normal'}
+  Jaccard = |Intersection| / |Union|
+  Jaccard = 1 / 1
+  Jaccard = 1.000000 (100.0000%)
+
+────────────────────────────────────────────────────────────────────────────────
+UID: 3223
+Predicted classes: {'normal'}
+Actual labels: {'normal'}
+
+Calculation:
+  Intersection (both predicted AND actual): {'normal'}
+  Union (either predicted OR actual): {'normal'}
+  Jaccard = |Intersection| / |Union|
+  Jaccard = 1 / 1
+  Jaccard = 1.000000 (100.0000%)
+
+================================================================================
+WORST PERFORMING UIDs (Lowest Accuracy)
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+UID: 3228
+Predicted: {'normal'}
+Actual: {'Fibrosis', 'Calcified Granuloma', 'Lesion'}
+Jaccard = 0 / 4 = 0.000000 (0.0000%)
+
+────────────────────────────────────────────────────────────────────────────────
+UID: 3229
+Predicted: {'Lesion'}
+Actual: {'Hyperinflation'}
+Jaccard = 0 / 2 = 0.000000 (0.0000%)
+
+────────────────────────────────────────────────────────────────────────────────
+UID: 3231
+Predicted: {'normal'}
+Actual: {'Thickening', 'Hyperinflation', 'Pulmonary Artery Enlargement'}
+Jaccard = 0 / 4 = 0.000000 (0.0000%)
+
+────────────────────────────────────────────────────────────────────────────────
+UID: 3232
+Predicted: {'normal'}
+Actual: {'Nodule'}
+Jaccard = 0 / 2 = 0.000000 (0.0000%)
+
+────────────────────────────────────────────────────────────────────────────────
+UID: 3237
+Predicted: {'normal'}
+Actual: {'Cardiomegaly', 'Lesion'}
+Jaccard = 0 / 3 = 0.000000 (0.0000%)
+
+================================================================================
+BEST PERFORMING UIDs (Highest Accuracy)
+================================================================================
+
+UID: 3220 | Accuracy: 1.000000 (100.0000%)
+
+UID: 3221 | Accuracy: 1.000000 (100.0000%)
+
+UID: 3222 | Accuracy: 1.000000 (100.0000%)
+
+UID: 3223 | Accuracy: 1.000000 (100.0000%)
+
+UID: 3224 | Accuracy: 1.000000 (100.0000%)
+
+================================================================================
+✓ Detailed results saved to 'BiomedCLIP/Output/jaccard_accuracy_results.csv'
+✓ Report saved to 'BiomedCLIP/Output/jaccard_accuracy_report.txt'
+================================================================================

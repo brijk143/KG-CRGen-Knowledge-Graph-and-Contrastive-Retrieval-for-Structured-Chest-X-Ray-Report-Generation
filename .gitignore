@@ -1,0 +1,26 @@
+# Model weights / checkpoints (too large for GitHub)
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+retriever/checkpoints/
+BiomedCLIP/*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Secrets / local config
+.env
+*.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.claude/
+
+# Archives / build artifacts
+*.zip

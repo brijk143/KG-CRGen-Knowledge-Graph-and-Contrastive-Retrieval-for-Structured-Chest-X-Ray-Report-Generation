@@ -1,0 +1,760 @@
+uid,predicted_classes,actual_labels,jaccard_accuracy
+3219,normal|Lesion,Hyperinflation;Lesion;Nodule,0.25
+3220,normal,normal,1.0
+3221,normal,normal,1.0
+3222,normal,normal,1.0
+3223,normal,normal,1.0
+3224,normal,normal,1.0
+3225,normal,normal,1.0
+3226,normal|Degenerative Change,Degenerative Change,0.5
+3227,normal,normal,1.0
+3228,normal,Calcified Granuloma;Fibrosis;Lesion,0.0
+3229,Lesion,Hyperinflation,0.0
+3230,Lesion|normal,Degenerative Change;Hyperinflation;Lesion;Volume Loss,0.2
+3231,normal,Hyperinflation;Pulmonary Artery Enlargement;Thickening,0.0
+3232,normal,Nodule,0.0
+3233,Degenerative Change|Lesion,Emphysema;Fibrosis;Hyperinflation;Lesion;Volume Loss,0.16666666666666666
+3234,normal,normal,1.0
+3235,normal,normal,1.0
+3236,normal,normal,1.0
+3237,normal,Cardiomegaly;Lesion,0.0
+3238,normal,Degenerative Change;Hernia;Hyperinflation;Increased Lung Markings;Lesion,0.0
+3239,normal,normal,1.0
+3240,normal,Degenerative Change;Emphysema;Hyperinflation,0.0
+3241,normal,Volume Loss,0.0
+3242,normal,Degenerative Change,0.0
+3243,normal,Lesion,0.0
+3244,normal,Airspace Disease;Hyperinflation;Lesion;Volume Loss,0.0
+3245,Cardiomegaly|Lesion|Edema|Hyperinflation|Airspace Disease,Calcinosis;Cardiomegaly;Edema;Pleural Effusion,0.2857142857142857
+3246,normal,Degenerative Change;Pulmonary Artery Enlargement,0.0
+3247,normal,normal,1.0
+3248,Lesion|Pleural Effusion|Volume Loss,Airspace Disease;Cardiomegaly;Degenerative Change;Pleural Effusion,0.16666666666666666
+3249,Pleural Effusion|Lesion,Edema;Increased Lung Markings;Pleural Effusion;Volume Loss,0.2
+3250,Lesion|Cardiomegaly|Degenerative Change,Degenerative Change;Hernia;Osteophyte,0.2
+3251,normal,Nodule,0.0
+3252,Lesion|normal,normal,0.5
+3253,normal,normal,1.0
+3254,normal,normal,1.0
+3255,normal,normal,1.0
+3256,Lesion|Cardiomegaly,Cardiomegaly;Degenerative Change;Lesion;Pleural Effusion;Volume Loss,0.4
+3257,normal,Degenerative Change,0.0
+3258,normal,normal,1.0
+3259,Cardiomegaly|Lesion|Hyperinflation,Calcified Granuloma;Degenerative Change;Lesion;Scoliosis,0.16666666666666666
+3260,Cardiomegaly|Lesion|Pleural Effusion|Hyperinflation|Airspace Disease,Airspace Disease;Cardiomegaly;Effusion;Lesion;Pleural Effusion;Volume Loss,0.5714285714285714
+3261,normal,normal,1.0
+3262,normal,normal,1.0
+3263,normal,normal,1.0
+3264,normal|Lesion,Calcified Granuloma;Degenerative Change;Fibrosis;Lesion,0.2
+3265,normal,normal,1.0
+3266,normal,normal,1.0
+3267,normal,normal,1.0
+3268,normal,normal,1.0
+3269,normal,normal,1.0
+3270,normal|Degenerative Change,Degenerative Change,0.5
+3271,normal,normal,1.0
+3272,Hyperinflation|normal,Fractures;Hyperinflation;Lesion;Thickening;Volume Loss,0.16666666666666666
+3273,Cardiomegaly|normal|Lesion,Cardiomegaly,0.3333333333333333
+3274,Lesion|Hyperinflation,Hyperinflation;Volume Loss,0.3333333333333333
+3275,normal,Degenerative Change,0.0
+3277,normal,Calcified Granuloma;Calcinosis,0.0
+3278,normal|Lesion,Degenerative Change,0.0
+3279,normal,normal,1.0
+3280,normal|Degenerative Change,Lesion,0.0
+3281,normal,Calcified Granuloma;Nodule,0.0
+3282,normal|Cardiomegaly,Hyperinflation,0.0
+3283,normal|Degenerative Change,normal,0.5
+3284,normal|Degenerative Change,normal,0.5
+3285,normal,normal,1.0
+3286,Cardiomegaly|normal,Cardiomegaly;Edema;Hyperinflation;Lesion;Pulmonary Artery Enlargement;Volume Loss,0.14285714285714285
+3287,normal,Lesion,0.0
+3288,normal,normal,1.0
+3289,normal,normal,1.0
+3290,normal,normal,1.0
+3291,normal,normal,1.0
+3292,Pleural Effusion|normal,Lesion,0.0
+3294,normal,Calcified Granuloma,0.0
+3296,normal,Calcinosis,0.0
+3297,normal,Emphysema,0.0
+3298,normal,normal,1.0
+3299,Degenerative Change|Cardiomegaly,Hyperinflation;Increased Lung Markings,0.0
+3300,normal,Degenerative Change;Scoliosis,0.0
+3301,normal,normal,1.0
+3302,normal,Hyperinflation,0.0
+3303,normal,Lesion,0.0
+3304,normal,Scoliosis,0.0
+3305,Lesion|Cardiomegaly,Cardiac Shadow (abnormal);Degenerative Change;Lesion;Volume Loss,0.2
+3306,normal,Cardiomegaly;Degenerative Change,0.0
+3307,normal,normal,1.0
+3309,normal,normal,1.0
+3310,Lesion|normal,normal,0.5
+3311,normal,normal,1.0
+3312,normal,Airspace Disease;Consolidation;Lesion,0.0
+3313,normal,Degenerative Change,0.0
+3314,normal,normal,1.0
+3315,normal,normal,1.0
+3316,Lesion|normal|Emphysema|Hyperinflation,Emphysema;Fibrosis;Lesion,0.4
+3317,normal,normal,1.0
+3318,normal,Calcified Granuloma,0.0
+3319,normal,Degenerative Change,0.0
+3320,normal,normal,1.0
+3321,normal,normal,1.0
+3322,normal,Calcified Granuloma,0.0
+3323,Degenerative Change|normal,normal,0.5
+3324,normal|Lesion,Degenerative Change;Lesion;Mass,0.25
+3325,normal,normal,1.0
+3326,normal,Cardiomegaly;Hyperinflation;Increased Lung Markings,0.0
+3327,Lesion|Cardiomegaly,Calcinosis;Cardiac Shadow (abnormal);Lesion,0.25
+3328,Lesion|Cardiomegaly,Cardiomegaly;Pleural Effusion,0.3333333333333333
+3329,normal,normal,1.0
+3330,normal,normal,1.0
+3331,normal,Calcified Granuloma;Degenerative Change,0.0
+3332,normal,Hyperinflation,0.0
+3333,normal,normal,1.0
+3334,Lesion,Airspace Disease;Lesion;Volume Loss,0.3333333333333333
+3335,normal,Degenerative Change,0.0
+3336,normal|Degenerative Change,Calcified Granuloma;Calcinosis;Degenerative Change;Fractures,0.2
+3337,normal,Calcinosis,0.0
+3338,normal,normal,1.0
+3339,normal,normal,1.0
+3340,normal,Degenerative Change;Hyperinflation;Lesion,0.0
+3341,normal,normal,1.0
+3342,Cardiomegaly|Lesion|Edema,Airspace Disease;Cardiomegaly;Interstitial Lung Disease;Lesion,0.4
+3343,normal,normal,1.0
+3344,normal,Lesion,0.0
+3345,normal,normal,1.0
+3346,normal,normal,1.0
+3347,Lesion,Hyperinflation,0.0
+3348,normal|Cardiomegaly,Calcinosis;Cardiomegaly,0.3333333333333333
+3349,normal,Calcified Granuloma;Calcinosis;Degenerative Change;Emphysema;Hyperinflation,0.0
+3350,normal,normal,1.0
+3352,normal,normal,1.0
+3353,normal,Cardiomegaly;Edema;Effusion,0.0
+3354,normal,Emphysema;Hyperinflation,0.0
+3355,Lesion|normal,Hyperinflation,0.0
+3356,normal,Calcified Granuloma,0.0
+3357,normal,normal,1.0
+3358,normal,normal,1.0
+3359,normal,normal,1.0
+3360,normal,Fibrosis;Lesion;Volume Loss,0.0
+3361,normal,normal,1.0
+3362,normal,normal,1.0
+3363,normal,Lesion,0.0
+3364,normal|Degenerative Change,Calcinosis;Cardiomegaly;Hyperinflation,0.0
+3365,normal,normal,1.0
+3366,normal,normal,1.0
+3367,normal,normal,1.0
+3368,normal,Hyperinflation;Increased Lung Markings,0.0
+3369,normal|Lesion,Lesion;Pneumothorax;Volume Loss,0.25
+3370,Lesion,normal,0.0
+3371,normal,Calcinosis,0.0
+3372,Cardiomegaly|Lesion|Hyperinflation,Cardiomegaly;Edema,0.25
+3373,normal,normal,1.0
+3374,normal,Nodule,0.0
+3375,normal,Degenerative Change,0.0
+3376,Lesion|Cardiomegaly|Hyperinflation,normal,0.0
+3377,normal,normal,1.0
+3378,normal,Fractures;Pneumothorax,0.0
+3379,normal,Airspace Disease;Cardiomegaly,0.0
+3380,normal,Degenerative Change,0.0
+3381,normal,normal,1.0
+3382,Lesion,Increased Lung Markings;Pleural Effusion,0.0
+3383,normal,Calcified Granuloma,0.0
+3384,normal,normal,1.0
+3385,normal,normal,1.0
+3386,normal,normal,1.0
+3387,normal,Airspace Disease;Lesion,0.0
+3388,normal,Calcified Granuloma;Calcinosis,0.0
+3389,normal,normal,1.0
+3390,normal,normal,1.0
+3391,normal,Calcified Granuloma,0.0
+3392,normal,normal,1.0
+3393,normal|Degenerative Change,Nodule,0.0
+3394,Degenerative Change|normal,Degenerative Change;Fibrosis;Lesion,0.25
+3395,normal,normal,1.0
+3396,Lesion,Fibrosis;Lesion;Pleural Effusion,0.3333333333333333
+3398,normal,Calcified Granuloma;Degenerative Change;Increased Lung Markings,0.0
+3399,normal,Airspace Disease;Consolidation;Lesion;Volume Loss,0.0
+3400,normal,normal,1.0
+3401,normal,Calcified Granuloma;Calcinosis,0.0
+3402,normal,Calcified Granuloma,0.0
+3403,normal,normal,1.0
+3404,normal,normal,1.0
+3405,normal,Degenerative Change,0.0
+3406,normal,Calcified Granuloma,0.0
+3407,normal,Calcified Granuloma;Degenerative Change,0.0
+3408,normal,Fractures,0.0
+3409,normal,normal,1.0
+3410,normal,Calcified Granuloma;Calcinosis;Emphysema;Hyperinflation;Interstitial Lung Disease,0.0
+3411,Lesion|Volume Loss,Airspace Disease;Degenerative Change;Hyperinflation;Increased Lung Markings;Lesion;Volume Loss,0.3333333333333333
+3412,normal,normal,1.0
+3413,normal,normal,1.0
+3414,normal|Lesion,Cardiomegaly;Hyperinflation;Increased Lung Markings;Volume Loss,0.0
+3415,normal,Degenerative Change;Volume Loss,0.0
+3416,normal,Calcinosis;Nodule;Volume Loss,0.0
+3417,normal|Degenerative Change,Cardiomegaly;Degenerative Change;Emphysema;Hyperinflation;Interstitial Lung Disease,0.16666666666666666
+3418,Lesion|Degenerative Change,Bronchiolitis;Increased Lung Markings,0.0
+3419,Hyperinflation|normal,Kyphosis;Scoliosis,0.0
+3420,normal,normal,1.0
+3421,normal,normal,1.0
+3422,normal,normal,1.0
+3423,normal,Degenerative Change,0.0
+3424,normal,Calcified Granuloma,0.0
+3426,normal,Degenerative Change,0.0
+3427,normal,normal,1.0
+3428,normal,Calcinosis;Osteophyte,0.0
+3429,normal,Hyperinflation,0.0
+3430,Lesion,Cardiomegaly;Edema,0.0
+3431,normal,normal,1.0
+3432,normal,Cardiomegaly;Hyperinflation;Lesion,0.0
+3433,normal,normal,1.0
+3434,Lesion|normal,normal,0.5
+3435,normal,Calcinosis;Cardiomegaly;Scoliosis,0.0
+3436,normal|Lesion,Calcified Granuloma;Hyperinflation,0.0
+3437,normal,Fibrosis;Lesion,0.0
+3438,normal,normal,1.0
+3439,normal,normal,1.0
+3440,normal,Scoliosis,0.0
+3441,normal,normal,1.0
+3442,normal,Airspace Disease;Hyperinflation;Lesion;Volume Loss,0.0
+3443,normal,normal,1.0
+3444,normal,normal,1.0
+3445,normal,normal,1.0
+3446,normal,normal,1.0
+3448,normal,Calcified Granuloma;Calcinosis;Hyperinflation;Lesion,0.0
+3449,normal,normal,1.0
+3450,normal,normal,1.0
+3451,normal,Calcinosis;Degenerative Change;Pleural Effusion;Pleural Thickening;Thickening,0.0
+3452,normal,normal,1.0
+3453,normal|Lesion,normal,0.5
+3454,normal,normal,1.0
+3455,Cardiomegaly|Lesion,Airspace Disease;Cardiomegaly;Edema;Lesion;Volume Loss,0.4
+3456,normal,Hyperinflation,0.0
+3457,normal|Degenerative Change,Osteophyte,0.0
+3458,normal,normal,1.0
+3459,normal,Calcified Granuloma;Calcinosis;Degenerative Change;Nodule,0.0
+3460,normal,normal,1.0
+3461,normal,normal,1.0
+3462,normal,Lesion,0.0
+3464,normal,normal,1.0
+3465,normal,normal,1.0
+3466,normal,Airspace Disease;Lesion;Thickening,0.0
+3467,normal,Calcinosis,0.0
+3468,normal,Degenerative Change;Emphysema;Hyperinflation;Lesion,0.0
+3469,Lesion|Degenerative Change|normal,Fibrosis;Hyperinflation;Lesion,0.2
+3470,normal,Degenerative Change,0.0
+3471,normal|Degenerative Change,Degenerative Change;Hernia;Lesion,0.25
+3472,normal,normal,1.0
+3473,normal,normal,1.0
+3474,Lesion|normal,Degenerative Change;Hyperinflation;Increased Lung Markings,0.0
+3475,normal,normal,1.0
+3477,normal,normal,1.0
+3478,normal,Scoliosis,0.0
+3479,Cardiomegaly|normal|Edema,Cardiomegaly;Consolidation;Edema;Pleural Effusion;Pleural Thickening,0.3333333333333333
+3480,normal,normal,1.0
+3481,normal,Degenerative Change;Hyperinflation,0.0
+3482,Lesion|normal|Emphysema,Emphysema;Fibrosis;Lesion,0.5
+3483,normal,normal,1.0
+3485,normal|Lesion|Degenerative Change|Emphysema,Calcified Granuloma;Calcinosis;Emphysema;Hyperinflation,0.14285714285714285
+3486,normal,Degenerative Change,0.0
+3487,normal,normal,1.0
+3488,normal,Degenerative Change,0.0
+3489,normal,normal,1.0
+3490,normal,Calcinosis;Hyperinflation,0.0
+3491,normal,Calcinosis;Degenerative Change;Hyperinflation,0.0
+3492,normal,Emphysema;Hyperinflation;Interstitial Lung Disease,0.0
+3493,normal,Hyperinflation,0.0
+3494,normal,Hyperinflation;Increased Lung Markings,0.0
+3495,normal,normal,1.0
+3496,normal,normal,1.0
+3497,normal,Calcified Granuloma,0.0
+3498,normal,Fractures;Pleural Effusion;Scoliosis,0.0
+3499,normal,normal,1.0
+3500,normal,normal,1.0
+3501,normal,normal,1.0
+3502,Lesion,Cardiomegaly;Edema,0.0
+3503,normal,normal,1.0
+3504,normal,normal,1.0
+3505,normal,normal,1.0
+3506,normal,normal,1.0
+3507,normal,Scoliosis,0.0
+3508,Lesion|Pleural Effusion,Degenerative Change;Fibrosis;Lesion;Pleural Effusion;Thickening;Volume Loss,0.3333333333333333
+3509,Lesion|Pleural Effusion|Hyperinflation,Pleural Effusion;Volume Loss,0.25
+3510,normal,Cardiomegaly;Increased Lung Markings,0.0
+3511,normal,normal,1.0
+3512,normal,Degenerative Change,0.0
+3513,normal,normal,1.0
+3514,normal,Lesion,0.0
+3515,normal,Calcified Granuloma,0.0
+3516,normal,Pleural Thickening,0.0
+3517,normal|Hyperinflation,Degenerative Change,0.0
+3518,normal,Osteophyte,0.0
+3519,Cardiomegaly|Pleural Effusion|Lesion,Cardiac Shadow (abnormal);Lesion;Pleural Effusion,0.5
+3520,normal,Degenerative Change;Volume Loss,0.0
+3521,normal,Bullous Disease;Degenerative Change;Emphysema,0.0
+3522,normal,normal,1.0
+3523,normal|Emphysema,Degenerative Change,0.0
+3524,normal,normal,1.0
+3525,normal,Calcified Granuloma,0.0
+3526,normal,Hyperinflation,0.0
+3527,normal,normal,1.0
+3528,normal,normal,1.0
+3529,normal,Cardiomegaly,0.0
+3530,Cardiomegaly|normal|Lesion,Cardiomegaly;Osteophyte,0.25
+3531,normal,normal,1.0
+3532,normal,normal,1.0
+3533,normal,Hyperinflation,0.0
+3534,normal,normal,1.0
+3535,normal,normal,1.0
+3536,Cardiomegaly|Lesion|Volume Loss|Pleural Effusion,Airspace Disease;Cardiomegaly;Degenerative Change;Pleural Effusion;Pleural Thickening;Volume Loss,0.42857142857142855
+3537,normal,normal,1.0
+3538,normal,normal,1.0
+3539,normal,normal,1.0
+3540,normal,Hyperinflation,0.0
+3541,normal|Lesion,Hyperinflation;Lesion;Volume Loss,0.25
+3542,normal,normal,1.0
+3543,normal,Calcified Granuloma,0.0
+3544,normal,Increased Lung Markings;Lesion;Volume Loss,0.0
+3545,Lesion|normal,Calcinosis;Hyperinflation;Lesion,0.25
+3546,Cardiomegaly|Lesion|Hyperinflation,Cardiomegaly;Hyperinflation;Lesion,1.0
+3547,normal,Degenerative Change,0.0
+3548,normal,normal,1.0
+3549,normal|Degenerative Change,normal,0.5
+3550,Degenerative Change|Cardiomegaly|normal,Degenerative Change,0.3333333333333333
+3551,normal,Lesion;Nodule,0.0
+3552,normal,normal,1.0
+3553,normal,normal,1.0
+3555,normal,Degenerative Change,0.0
+3556,Degenerative Change|Lesion,Degenerative Change,0.5
+3557,Lesion|normal,Pleural Effusion,0.0
+3559,normal,Nodule;Scoliosis,0.0
+3560,normal,normal,1.0
+3561,normal,normal,1.0
+3562,Lesion|Cardiomegaly,Calcified Granuloma;Degenerative Change;Hyperinflation;Increased Lung Markings;Volume Loss,0.0
+3563,normal,normal,1.0
+3564,normal|Degenerative Change,Hernia;Hyperinflation;Lesion,0.0
+3565,normal,Airspace Disease;Consolidation;Lesion,0.0
+3566,Lesion,Hyperinflation;Osteophyte;Volume Loss,0.0
+3567,Hyperinflation|Lesion,Airspace Disease;Consolidation;Pleural Effusion,0.0
+3568,normal|Degenerative Change,Calcinosis,0.0
+3569,Degenerative Change|normal,Hyperinflation,0.0
+3570,Volume Loss|Lesion,Fibrosis;Hyperinflation;Lesion;Volume Loss,0.5
+3571,normal,Degenerative Change,0.0
+3572,normal,Increased Lung Markings,0.0
+3573,normal,Calcinosis;Degenerative Change;Scoliosis,0.0
+3574,normal,normal,1.0
+3575,normal,Calcified Granuloma;Calcinosis,0.0
+3576,normal,normal,1.0
+3577,normal,normal,1.0
+3578,normal,normal,1.0
+3579,normal,normal,1.0
+3580,normal,normal,1.0
+3581,normal,Calcified Granuloma;Calcinosis;Degenerative Change,0.0
+3582,normal,normal,1.0
+3583,normal|Degenerative Change,Degenerative Change,0.5
+3584,Cardiomegaly|Lesion,Airspace Disease;Hyperinflation;Volume Loss,0.0
+3585,normal,normal,1.0
+3586,normal,Cardiomegaly,0.0
+3587,normal|Lesion,normal,0.5
+3588,normal,normal,1.0
+3589,Lesion|normal,Hyperinflation;Lesion,0.3333333333333333
+3590,normal,normal,1.0
+3591,Cardiomegaly|normal,Hernia,0.0
+3592,normal,Hernia;Hyperinflation,0.0
+3593,normal,normal,1.0
+3594,normal,normal,1.0
+3595,Lesion,Cardiomegaly;Increased Lung Markings;Pleural Effusion,0.0
+3596,normal|Lesion,Calcified Granuloma,0.0
+3597,normal,Degenerative Change,0.0
+3598,normal,normal,1.0
+3599,normal,Degenerative Change,0.0
+3600,normal|Lesion,Calcinosis;Fibrosis;Lesion,0.25
+3601,Degenerative Change,Calcinosis;Degenerative Change;Hernia,0.3333333333333333
+3602,normal,Calcified Granuloma,0.0
+3603,normal,normal,1.0
+3604,normal,normal,1.0
+3605,normal|Degenerative Change,normal,0.5
+3606,normal,normal,1.0
+3607,Lesion|Volume Loss|Hyperinflation,Degenerative Change;Fibrosis;Lesion;Volume Loss,0.4
+3608,Cardiomegaly|normal,Cardiomegaly,0.5
+3609,normal|Cardiomegaly|Lesion,Cardiomegaly,0.3333333333333333
+3610,normal,normal,1.0
+3611,Cardiomegaly|normal,Airspace Disease;Calcinosis;Consolidation;Degenerative Change;Scoliosis,0.0
+3612,normal,Calcinosis;Degenerative Change;Hyperinflation,0.0
+3613,normal,Calcified Granuloma,0.0
+3614,Cardiomegaly|Lesion|Hyperinflation,Cardiomegaly;Edema;Pleural Effusion;Volume Loss,0.16666666666666666
+3615,normal|Degenerative Change,normal,0.5
+3616,Lesion,Degenerative Change;Emphysema;Increased Lung Markings,0.0
+3617,normal,normal,1.0
+3618,normal|Degenerative Change,Emphysema,0.0
+3619,normal,normal,1.0
+3620,normal,Calcified Granuloma;Fibrosis;Lesion;Volume Loss,0.0
+3621,Lesion,Hyperinflation,0.0
+3623,normal,Calcinosis,0.0
+3624,normal,normal,1.0
+3625,normal,normal,1.0
+3626,normal,Pleural Effusion;Thickening,0.0
+3627,normal,Degenerative Change;Hyperinflation;Volume Loss,0.0
+3628,normal,Degenerative Change,0.0
+3629,normal,normal,1.0
+3630,Lesion|Volume Loss,Calcified Granuloma;Calcinosis,0.0
+3631,Cardiomegaly|Lesion|Hyperinflation,normal,0.0
+3632,normal,Calcinosis;Lesion;Pleural Effusion;Thickening;Volume Loss,0.0
+3633,normal,Degenerative Change;Hyperinflation,0.0
+3634,normal,normal,1.0
+3635,normal,Degenerative Change,0.0
+3636,normal,Emphysema;Fibrosis;Hyperinflation;Lesion,0.0
+3637,normal,normal,1.0
+3638,normal,Cardiomegaly,0.0
+3639,normal,normal,1.0
+3640,normal,Calcified Granuloma;Calcinosis,0.0
+3641,normal,Degenerative Change;Fibrosis;Lesion,0.0
+3642,normal,Degenerative Change,0.0
+3643,normal,normal,1.0
+3644,normal,Calcinosis,0.0
+3645,normal,Increased Lung Markings,0.0
+3646,normal|Lesion,normal,0.5
+3647,normal,normal,1.0
+3648,normal,normal,1.0
+3649,normal,normal,1.0
+3650,normal|Degenerative Change,Emphysema;Hyperinflation;Pulmonary Artery Enlargement,0.0
+3651,Lesion,Fibrosis;Lesion;Pleural Thickening,0.3333333333333333
+3652,normal,Calcified Granuloma;Scoliosis,0.0
+3653,Lesion|Cardiomegaly,Degenerative Change;Hyperinflation;Volume Loss,0.0
+3654,normal,Lesion,0.0
+3655,normal,Nodule;Osteophyte,0.0
+3656,Lesion,Calcified Granuloma;Cardiomegaly;Degenerative Change;Hyperinflation;Lesion,0.2
+3657,normal|Emphysema,Edema;Hyperinflation,0.0
+3658,normal,Degenerative Change;Fibrosis;Lesion;Nodule;Thickening,0.0
+3659,normal,Calcified Granuloma,0.0
+3660,normal,normal,1.0
+3661,normal,normal,1.0
+3662,normal|Degenerative Change,Calcified Granuloma;Calcinosis;Degenerative Change,0.25
+3663,normal,normal,1.0
+3664,normal,normal,1.0
+3665,normal,normal,1.0
+3666,Pleural Effusion|Lesion,Airspace Disease;Cardiomegaly;Pleural Effusion;Volume Loss,0.2
+3667,normal,Calcinosis;Degenerative Change;Lesion,0.0
+3668,normal,Airspace Disease;Lesion,0.0
+3669,normal,Emphysema,0.0
+3670,Degenerative Change|normal,Degenerative Change;Thickening,0.3333333333333333
+3671,normal,Airspace Disease;Lesion,0.0
+3672,Cardiomegaly|Lesion,Calcinosis;Cardiomegaly;Edema,0.25
+3673,normal|Lesion,Calcinosis;Emphysema;Lesion,0.25
+3674,normal,normal,1.0
+3675,normal,normal,1.0
+3676,Lesion|Cardiomegaly|Volume Loss|Pleural Effusion|Airspace Disease,Calcinosis;Cardiac Shadow (abnormal);Increased Lung Markings;Interstitial Lung Disease;Pulmonary Fibrosis,0.0
+3677,normal,normal,1.0
+3678,Degenerative Change|normal,Increased Lung Markings;Pleural Thickening,0.0
+3679,normal,normal,1.0
+3680,normal,Calcified Granuloma;Lesion;Volume Loss,0.0
+3681,,Hyperinflation;Increased Lung Markings,0.0
+3682,normal,Hyperinflation,0.0
+3683,normal,normal,1.0
+3684,Cardiomegaly|Edema|normal,Cardiomegaly;Hyperinflation;Scoliosis,0.2
+3685,normal|Degenerative Change,Calcinosis;Degenerative Change,0.3333333333333333
+3686,Lesion|Cardiomegaly,Airspace Disease;Cardiomegaly,0.3333333333333333
+3687,Lesion|Hyperinflation,Airspace Disease;Lesion;Volume Loss,0.25
+3688,Lesion|Pleural Effusion|Cardiomegaly,Hyperinflation;Lesion;Pleural Effusion;Volume Loss,0.4
+3689,normal,Calcified Granuloma;Calcinosis;Degenerative Change,0.0
+3690,normal,Cardiomegaly;Hyperinflation,0.0
+3691,Lesion|Degenerative Change,Degenerative Change,0.5
+3692,normal,normal,1.0
+3693,normal,normal,1.0
+3694,normal,Pneumothorax,0.0
+3695,Lesion,Edema,0.0
+3696,normal,Calcified Granuloma,0.0
+3697,Lesion|normal,Fibrosis;Lesion;Pulmonary Fibrosis,0.25
+3698,normal,normal,1.0
+3699,normal,Degenerative Change;Osteophyte,0.0
+3700,Cardiomegaly|normal,Cardiomegaly;Edema,0.3333333333333333
+3701,normal,normal,1.0
+3702,normal,Degenerative Change;Hyperinflation,0.0
+3703,normal,normal,1.0
+3704,normal,normal,1.0
+3705,normal,Degenerative Change,0.0
+3706,Lesion,normal,0.0
+3707,normal,normal,1.0
+3708,normal,Degenerative Change;Hyperinflation;Increased Lung Markings,0.0
+3709,normal,Mass,0.0
+3712,normal,Degenerative Change,0.0
+3713,normal,normal,1.0
+3714,normal,Hyperinflation,0.0
+3715,normal,Airspace Disease;Calcified Granuloma;Calcinosis;Lesion,0.0
+3716,normal,normal,1.0
+3717,normal,Hyperinflation,0.0
+3718,normal,Pulmonary Artery Enlargement,0.0
+3719,normal,normal,1.0
+3720,normal,normal,1.0
+3721,normal,Lesion;Volume Loss,0.0
+3722,normal,normal,1.0
+3723,normal,normal,1.0
+3724,normal,normal,1.0
+3725,normal,Calcified Granuloma,0.0
+3726,normal,normal,1.0
+3727,normal,Hyperinflation,0.0
+3728,normal,normal,1.0
+3729,normal,normal,1.0
+3730,normal|Lesion,Airspace Disease;Lesion,0.3333333333333333
+3731,normal,normal,1.0
+3732,normal,Calcinosis,0.0
+3733,normal|Cardiomegaly,Calcified Granuloma;Cardiomegaly;Fibrosis;Kyphosis;Lesion;Osteophyte;Pleural Thickening,0.125
+3734,normal,normal,1.0
+3735,normal,Degenerative Change,0.0
+3736,normal,Degenerative Change,0.0
+3737,normal,normal,1.0
+3738,normal,normal,1.0
+3739,normal,Calcified Granuloma;Pleural Thickening,0.0
+3740,Lesion|normal,Airspace Disease;Consolidation;Lesion,0.25
+3741,normal,normal,1.0
+3742,normal,Calcified Granuloma,0.0
+3743,normal,normal,1.0
+3744,normal,normal,1.0
+3745,normal,normal,1.0
+3746,normal,Degenerative Change;Hyperinflation,0.0
+3747,normal,normal,1.0
+3748,normal,Fibrosis;Lesion;Volume Loss,0.0
+3749,normal,normal,1.0
+3750,Cardiomegaly|Lesion|Edema|normal,Cardiomegaly;Edema;Hyperinflation;Pleural Effusion,0.3333333333333333
+3751,normal,normal,1.0
+3752,Lesion|Degenerative Change,Cardiomegaly,0.0
+3753,normal,Nodule;Volume Loss,0.0
+3754,normal,normal,1.0
+3755,normal,Osteophyte,0.0
+3756,Degenerative Change|normal,Fibrosis;Lesion,0.0
+3757,normal,normal,1.0
+3758,normal,normal,1.0
+3759,normal|Degenerative Change,Degenerative Change;Emphysema;Hyperinflation;Interstitial Lung Disease;Kyphosis,0.16666666666666666
+3760,normal,Degenerative Change,0.0
+3761,normal|Lesion,Cardiomegaly;Degenerative Change,0.0
+3762,normal,Calcinosis,0.0
+3763,normal,normal,1.0
+3764,normal,normal,1.0
+3765,normal,normal,1.0
+3766,normal,Degenerative Change,0.0
+3767,normal,normal,1.0
+3768,Pleural Effusion,Cardiomegaly;Kyphosis,0.0
+3769,normal|Cardiomegaly|Degenerative Change,Hyperinflation;Lesion;Scoliosis,0.0
+3770,normal,Degenerative Change,0.0
+3771,normal,normal,1.0
+3772,normal,Calcified Granuloma;Degenerative Change,0.0
+3773,normal,normal,1.0
+3774,normal,Calcified Granuloma;Degenerative Change,0.0
+3775,normal,normal,1.0
+3776,normal,Calcinosis,0.0
+3777,normal,Degenerative Change;Hyperinflation,0.0
+3778,normal,normal,1.0
+3779,normal,normal,1.0
+3780,normal,Calcified Granuloma;Lesion,0.0
+3781,normal,normal,1.0
+3782,Pleural Effusion|Lesion|Airspace Disease,normal,0.0
+3783,normal,normal,1.0
+3784,Cardiomegaly|Lesion|Hyperinflation,Hyperinflation,0.3333333333333333
+3785,normal,Increased Lung Markings;Lesion,0.0
+3786,Lesion,Airspace Disease;Cardiomegaly;Consolidation,0.0
+3787,normal,normal,1.0
+3789,normal,Cardiomegaly,0.0
+3790,Lesion|Pleural Effusion,Airspace Disease;Calcified Granuloma;Calcinosis;Degenerative Change;Hyperinflation;Lesion;Pleural Thickening,0.125
+3791,normal,Mass,0.0
+3792,normal,normal,1.0
+3793,Lesion|Hyperinflation|Degenerative Change,Airspace Disease;Degenerative Change;Increased Lung Markings;Lesion,0.4
+3794,normal,Lesion,0.0
+3795,normal,Scoliosis,0.0
+3796,normal,normal,1.0
+3797,normal,Lesion;Volume Loss,0.0
+3798,normal,Airspace Disease;Lesion,0.0
+3799,Lesion,Calcified Granuloma;Degenerative Change;Volume Loss,0.0
+3801,Cardiomegaly|Edema|Lesion,Cardiomegaly;Degenerative Change;Edema;Increased Lung Markings,0.4
+3802,normal,Degenerative Change;Lesion,0.0
+3803,Lesion|normal,Degenerative Change;Emphysema;Hyperinflation,0.0
+3804,normal,Calcified Granuloma;Degenerative Change;Lesion,0.0
+3805,normal,normal,1.0
+3806,normal,Scoliosis,0.0
+3807,,normal,0.0
+3808,normal,Calcified Granuloma;Degenerative Change,0.0
+3809,normal,normal,1.0
+3810,normal,normal,1.0
+3811,normal,Cardiomegaly;Edema;Lesion,0.0
+3812,normal,Degenerative Change;Emphysema;Fibrosis;Lesion,0.0
+3813,Lesion|normal|Cardiomegaly,Lesion,0.3333333333333333
+3814,normal,normal,1.0
+3815,normal,Airspace Disease;Hyperinflation,0.0
+3816,normal,Degenerative Change,0.0
+3817,normal,normal,1.0
+3818,normal,normal,1.0
+3819,Cardiomegaly|normal,Calcinosis;Cardiac Shadow (abnormal);Cardiomegaly;Effusion,0.2
+3820,normal,Kyphosis;Scoliosis,0.0
+3821,normal,normal,1.0
+3822,normal,Calcified Granuloma,0.0
+3823,normal,normal,1.0
+3824,Lesion|Pleural Effusion|Cardiomegaly|Airspace Disease,Airspace Disease;Consolidation;Hyperinflation;Lesion,0.3333333333333333
+3825,normal|Degenerative Change,Calcified Granuloma;Degenerative Change,0.3333333333333333
+3826,normal,normal,1.0
+3827,normal,normal,1.0
+3828,normal,normal,1.0
+3829,normal,Airspace Disease;Cardiomegaly;Edema;Increased Lung Markings;Lesion;Volume Loss,0.0
+3830,normal,normal,1.0
+3831,normal,normal,1.0
+3832,normal|Degenerative Change,Calcinosis,0.0
+3833,normal|Lesion,Calcified Granuloma;Calcinosis;Degenerative Change;Emphysema;Interstitial Lung Disease;Lesion;Pleural Thickening;Thickening,0.1111111111111111
+3834,normal,Scoliosis,0.0
+3835,normal,normal,1.0
+3836,normal,normal,1.0
+3837,normal,normal,1.0
+3838,normal,normal,1.0
+3839,normal|Cardiomegaly,Calcinosis;Cardiomegaly;Volume Loss,0.25
+3840,Cardiomegaly|Lesion|Edema,Airspace Disease;Cardiomegaly;Degenerative Change;Edema;Hyperinflation;Lesion;Pleural Effusion,0.42857142857142855
+3841,normal,Degenerative Change,0.0
+3842,normal|Cardiomegaly,Hyperinflation,0.0
+3843,normal,Degenerative Change,0.0
+3844,Cardiomegaly|Lesion,normal,0.0
+3845,normal,normal,1.0
+3846,Lesion|Pleural Effusion|Volume Loss,Lesion;Pleural Effusion;Scoliosis;Volume Loss,0.75
+3847,normal,Emphysema;Hyperinflation;Interstitial Lung Disease;Pneumothorax,0.0
+3848,Cardiomegaly|Lesion,Cardiomegaly;Degenerative Change;Edema;Lesion;Pleural Thickening;Pulmonary Artery Enlargement,0.3333333333333333
+3849,normal,Degenerative Change,0.0
+3850,normal,Pulmonary Fibrosis,0.0
+3851,normal,Calcified Granuloma;Lesion,0.0
+3852,Degenerative Change|normal,Degenerative Change;Hernia,0.3333333333333333
+3853,Lesion|Pleural Effusion|Volume Loss,Calcinosis;Cardiomegaly;Edema;Pleural Effusion;Pulmonary Artery Enlargement,0.14285714285714285
+3854,normal,normal,1.0
+3855,normal|Lesion,Nodule,0.0
+3856,normal,normal,1.0
+3857,normal,normal,1.0
+3858,Lesion,Calcinosis;Fractures,0.0
+3860,normal,normal,1.0
+3861,normal,normal,1.0
+3862,Degenerative Change,normal,0.0
+3863,normal,Cardiac Shadow (abnormal);Cardiomegaly,0.0
+3865,normal,Degenerative Change,0.0
+3866,Lesion|normal|Airspace Disease,Airspace Disease;Consolidation;Lesion,0.5
+3867,normal,normal,1.0
+3868,normal,normal,1.0
+3869,normal,Cardiomegaly,0.0
+3870,Pleural Effusion|Lesion|Volume Loss,Lesion;Pleural Effusion,0.6666666666666666
+3871,normal,normal,1.0
+3872,normal,Degenerative Change,0.0
+3873,normal,Lesion,0.0
+3874,normal,Calcinosis;Degenerative Change;Hyperinflation;Increased Lung Markings,0.0
+3875,Lesion|normal,Airspace Disease;Hyperinflation;Increased Lung Markings;Lesion;Pulmonary Fibrosis,0.16666666666666666
+3876,normal,Degenerative Change,0.0
+3877,Lesion,Degenerative Change;Edema;Lesion;Pleural Effusion,0.25
+3878,Lesion,Airspace Disease;Cardiomegaly;Degenerative Change;Lesion,0.25
+3879,,normal,0.0
+3880,normal|Cardiomegaly,Cardiomegaly;Edema;Lesion,0.25
+3881,normal,Degenerative Change,0.0
+3882,normal,Hernia;Hyperinflation,0.0
+3883,normal,normal,1.0
+3884,normal,Edema;Lesion,0.0
+3885,normal,normal,1.0
+3886,normal,Calcinosis,0.0
+3887,normal,Degenerative Change,0.0
+3888,normal,normal,1.0
+3889,normal,normal,1.0
+3890,normal,normal,1.0
+3891,Lesion|Degenerative Change|Volume Loss,Airspace Disease;Pleural Effusion;Pneumothorax;Volume Loss,0.16666666666666666
+3892,Lesion|Degenerative Change|Hyperinflation|Volume Loss,Consolidation;Degenerative Change;Fractures;Hyperinflation;Kyphosis;Lesion,0.42857142857142855
+3893,normal,Hyperinflation,0.0
+3894,normal,normal,1.0
+3895,Lesion,Airspace Disease;Consolidation;Hyperinflation;Lesion;Pulmonary Artery Enlargement,0.2
+3896,normal,Hyperinflation,0.0
+3897,normal,normal,1.0
+3898,normal,normal,1.0
+3899,Degenerative Change|normal|Hyperinflation,Hyperinflation,0.3333333333333333
+3900,normal,normal,1.0
+3901,normal,Hyperinflation;Lesion;Pleural Thickening;Volume Loss,0.0
+3902,normal,normal,1.0
+3903,normal,normal,1.0
+3904,normal,normal,1.0
+3905,normal|Cardiomegaly,Cardiomegaly,0.5
+3906,normal,normal,1.0
+3907,Cardiomegaly|Lesion,Cardiac Shadow (abnormal);Cardiomegaly;Degenerative Change;Hyperinflation;Increased Lung Markings;Lesion;Volume Loss,0.2857142857142857
+3908,normal|Degenerative Change,Degenerative Change,0.5
+3909,normal,Calcified Granuloma,0.0
+3910,normal,Degenerative Change;Hyperinflation,0.0
+3911,normal,normal,1.0
+3912,normal|Cardiomegaly,Cardiomegaly;Pleural Thickening,0.3333333333333333
+3913,normal,normal,1.0
+3914,normal,normal,1.0
+3915,normal,Cardiac Shadow (abnormal);Cardiomegaly;Edema;Interstitial Lung Disease,0.0
+3916,normal,normal,1.0
+3917,Cardiomegaly|Lesion,Cardiomegaly,0.5
+3918,normal,Hyperinflation,0.0
+3919,normal,Cardiomegaly,0.0
+3921,normal,normal,1.0
+3922,normal,normal,1.0
+3923,normal,normal,1.0
+3924,normal,Degenerative Change;Scoliosis,0.0
+3925,Degenerative Change|Lesion,Calcinosis;Degenerative Change,0.3333333333333333
+3926,Lesion|Cardiomegaly,Cardiomegaly;Hyperinflation;Increased Lung Markings;Volume Loss,0.2
+3927,normal,normal,1.0
+3928,normal,Calcified Granuloma;Calcinosis;Degenerative Change,0.0
+3929,normal,Cardiac Shadow (abnormal);Degenerative Change,0.0
+3930,normal,Emphysema;Hyperinflation;Interstitial Lung Disease,0.0
+3931,normal,normal,1.0
+3932,normal,normal,1.0
+3933,normal,normal,1.0
+3934,normal,Interstitial Lung Disease,0.0
+3935,normal|Lesion,Fibrosis;Lesion;Pleural Thickening,0.25
+3936,normal,normal,1.0
+3937,Degenerative Change|normal,Degenerative Change,0.5
+3938,normal,normal,1.0
+3939,normal,normal,1.0
+3940,Degenerative Change|normal,Fibrosis;Lesion,0.0
+3941,normal,Cardiomegaly;Scoliosis,0.0
+3942,normal,Kyphosis;Scoliosis,0.0
+3943,normal,Calcinosis,0.0
+3944,normal,normal,1.0
+3945,normal,Effusion;Pleural Effusion;Pneumothorax;Volume Loss,0.0
+3946,normal,normal,1.0
+3947,normal,normal,1.0
+3948,normal,normal,1.0
+3949,normal|Lesion,Cardiomegaly;Lesion;Nodule,0.25
+3950,normal,Rib Fracture,0.0
+3951,normal,Lesion;Mass,0.0
+3952,normal,Cardiomegaly;Degenerative Change;Osteophyte;Pulmonary Artery Enlargement,0.0
+3953,normal,normal,1.0
+3954,normal,normal,1.0
+3955,normal,normal,1.0
+3956,normal,Hyperinflation,0.0
+3957,normal,normal,1.0
+3958,normal,normal,1.0
+3959,normal,normal,1.0
+3960,normal,Degenerative Change;Osteophyte,0.0
+3961,Lesion|normal,Airspace Disease;Consolidation;Lesion,0.25
+3962,normal,normal,1.0
+3963,normal|Degenerative Change,normal,0.5
+3964,normal,Emphysema;Fibrosis;Hyperinflation;Lesion,0.0
+3965,normal,normal,1.0
+3966,normal|Degenerative Change,Degenerative Change,0.5
+3967,normal,Degenerative Change,0.0
+3968,normal,Airspace Disease;Consolidation,0.0
+3969,Degenerative Change|Lesion,Degenerative Change;Hyperinflation,0.3333333333333333
+3970,normal,normal,1.0
+3971,normal,normal,1.0
+3972,normal|Lesion,Fibrosis;Hyperinflation;Interstitial Lung Disease;Lesion,0.2
+3973,Lesion,normal,0.0
+3974,Lesion|normal,Airspace Disease;Degenerative Change;Emphysema;Hyperinflation,0.0
+3975,normal,normal,1.0
+3976,normal,normal,1.0
+3977,normal,Calcified Granuloma,0.0
+3978,normal,normal,1.0
+3979,normal,Degenerative Change,0.0
+3980,Lesion,Cardiomegaly;Hernia;Lesion;Pleural Effusion;Pleural Thickening;Thickening,0.16666666666666666
+3981,normal,normal,1.0
+3982,normal,normal,1.0
+3983,normal,Lesion;Volume Loss,0.0
+3984,normal|Degenerative Change,Calcinosis,0.0
+3985,normal,Calcified Granuloma,0.0
+3986,normal,normal,1.0
+3987,normal,Degenerative Change;Osteophyte,0.0
+3988,normal,Calcified Granuloma;Lesion,0.0
+3989,normal,Hernia,0.0
+3991,normal,Degenerative Change,0.0
+3992,normal|Lesion,Edema,0.0
+3993,normal,Cardiomegaly,0.0
+3994,normal,Cardiomegaly;Edema,0.0
+3995,Degenerative Change|Lesion,Emphysema;Fibrosis;Hyperinflation;Lesion;Volume Loss,0.16666666666666666
+3996,normal,Degenerative Change,0.0
+3997,Lesion|normal,Calcified Granuloma;Lesion,0.3333333333333333
+3998,normal,normal,1.0
+3999,normal,normal,1.0
