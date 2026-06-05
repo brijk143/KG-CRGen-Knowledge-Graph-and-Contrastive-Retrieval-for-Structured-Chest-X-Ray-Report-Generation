@@ -1,0 +1,906 @@
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Hemidiaphragms
+Costophrenic angles
+Trachea
+Osseous structures
+Mediastinal contours
+Pneumonia
+Congestive heart failure
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Silhouette sign
+Hemidiaphragm
+Pleural effusion
+Fever
+Productive cough
+Aspiration
+Pulmonary hemorrhage
+Organizing pneumonia
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Interstitial lung disease
+Pulmonary fibrosis
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary mass
+Pulmonary nodule
+Pulmonary fibrosis
+Interstitial lung disease
+Cardiothoracic ratio
+Pulmonary vasculature
+Lung fields
+Meniscus sign
+
+Chest radiograph
+Clear lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+
+Pleural effusion
+Costophrenic angle
+Hemidiaphragm
+Lower lung fields
+Decubitus view
+Congestive heart failure
+Parapneumonic process
+Malignancy
+Pulmonary embolism
+
+Chest radiograph
+Clear lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Enlarged cardiac silhouette
+Cardiac apex
+Left ventricular enlargement
+Right atrial enlargement
+Right heart border
+Congestive heart failure
+Pulmonary vascular redistribution
+Pleural effusion
+Consolidation
+Air bronchograms
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Posteroanterior view
+Meniscus sign
+Left mid-clavicular line
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Vascular cephalization
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Bat-wing pattern
+Cardiogenic pulmonary edema
+Perihilar infiltrates
+Interstitial fluid accumulation
+Peribronchial cuffing
+Upper lobes
+Vascular margins
+Interlobular septal thickening
+Interlobular septum
+Bronchial tree
+Pulmonary arteries
+Pulmonary veins
+Emphysema
+Hyperinflation
+Pneumothorax
+Pleura
+Lungs
+Interstitium
+Bullae
+Granuloma
+
+Chest radiograph
+Clear lung fields
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Tension pneumothorax
+Pleural space
+Visceral pleural line
+Hilum
+Lucency
+Lucency in the pleural space
+Mediastinal shift
+Tracheal deviation
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Lateral hemithorax
+Chest wall
+Visceral pleura
+Collapsed lung
+Lung markings
+Mediastinum
+Trachea
+Hemithorax
+Calcified lesion
+Granuloma
+Bronchiole 
+Pneumonia
+Pulmonary consolidation
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Parenchymal destruction
+Barrel-chest appearance
+Hyperlucency
+Flattened hemidiaphragms
+Vascular markings
+Anteroposterior diameter
+Lobes
+Hemidiaphragms
+Lung fields
+Upper lobes
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Hemidiaphragms
+Rib
+Anterior rib
+Retrosternal airspace
+Hyperlucent lung fields
+Peripheral vascular markings
+Pulmonary perfusion
+Calcification
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Fibrosis
+Reticular opacities
+Honeycombing pattern
+Lower lobes
+Architectural distortion
+Volume loss
+Traction bronchiectasis
+Lung damage
+
+Pulmonary consolidation 
+Pneumonia
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Reticulonodular opacities
+Ground-glass opacification
+Peribronchovascular thickening
+Irregular septal lines
+Lung zones
+Ground-glass
+Lung inflammation
+Lung septa
+Granuloma
+Opacities
+Pulmonary inflammation
+Chronic obstructive pulmonary disease
+Radiograph
+Inflammation
+Disease
+Mass
+Nodule
+Lung
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Opacity
+Solitary pulmonary nodule
+Malignancy
+Calcification pattern
+Etiology
+Lungs
+Pulmonary
+Vasculature
+Vasculature
+Thorax
+Cardiothoracic
+Area
+Margins
+Patterns
+Bronchograms
+Bronchi
+Parenchyma
+Bronchioles
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Hilar lymphadenopathy
+Bronchogenic carcinoma
+Opacity
+Margins
+Contours
+Focal opacity
+Lymphadenopathy
+
+Chest radiograph
+Chest X-ray
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Granuloma
+Calcification
+Popcorn calcification
+Target calcification
+Subcutaneous emphysema
+Bronchiectasis
+Bullous disease
+Pleura
+Lungs
+Heart
+Bronchi
+Nodule
+Mass
+Granulomas
+Infection
+Vasculature
+Disease
+Effusion
+Edema
+Lines
+Fibrosis 
+Lung tissue
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Parenchymal lesion
+Malignancy
+Infection
+Masses
+Nodules
+Borders
+Cavitation
+
+Chest radiograph
+Chest
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Thoracic spine
+Osteophyte
+Disc space narrowing
+Endplate sclerosis
+Degenerative spondylosis
+Pulmonary
+Pleura
+Bronchus
+Nodule
+Mass
+Granuloma
+Spine
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Vascular congestion
+Chronic bronchitis
+Bronchovascular markings
+Peripheral lung zones
+
+Chest radiograph
+Clear lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Aspiration
+Alveolar filling process
+Pneumonia
+Pulmonary hemorrhage
+Patchy bilateral airspace opacities
+Alveolar 
+Opacities 
+Lung fields 
+Bronchograms 
+Airspace disease
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Clear
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Volume loss
+Hemidiaphragm
+Mediastinal shift
+Atelectasis
+Linear atelectasis
+Lung bases
+Lung volume
+Linear densities
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Pulmonary fibrosis
+Lower lobe
+Bilateral
+Reticular opacities
+Honeycombing
+Lung volumes
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Calcifications
+Lymph nodes
+Vascular calcifications
+Pleural plaques
+Calcinoses
+
+Chest radiograph
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Pleural thickening
+Pleuritis
+Tuberculosis
+Chronic pleuritis
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Fractures
+Soft tissue swelling
+Callus formation
+Cortical disruption
+Pulmonary consolidation
+Bronchitis
+Chest radiograph
+Acute fracture
+Healing fractures
+
+Chest radiograph
+Clear lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Rib fracture
+Trauma
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Scoliosis
+Thoracic spine
+Vertebral rotation
+
+Chest radiograph
+Clear lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Kyphectasis 
+Thoracic spine
+Anterior curvature
+Thoracic spine
+Vertebral wedging
+Anterior vertebral height
+Pulmonary consolidation
+Disease
+Fibrosis
+Nodule
+Mass
+Granuloma
+Disease 
+Spine
+Vertebrae
+Curvature
+Height
+Bronchus
+Lung fields
+Effusion
+Edema 
+Lines 
+Pneumonia 
+
+fixed spelling error: disease
+
+Chest radiograph
+Clear lung fields
+Lung fields
+Pulmonary vasculature
+Vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Lung disease
+Pulmonary nodule
+Pulmonary mass
+Mass
+Calcified granuloma
+Granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Chest radiograph
+Degenerative spondylosis
+Vertebral endplates
+Endplates
+Bony spurs
+Spurs
+Spondylosis
+Osteophyte
+
+Chest radiograph
+Lung fields
+Pulmonary vasculature
+Cardiothoracic ratio
+Cardiomegaly
+Consolidation
+Air bronchograms
+Pleural effusion
+Meniscus sign
+Pulmonary edema
+Kerley B lines
+Pneumothorax
+Emphysema
+Hyperinflation
+Pulmonary fibrosis
+Interstitial lung disease
+Pulmonary nodule
+Pulmonary mass
+Calcified granuloma
+Bronchiectasis
+Bullous disease
+Subcutaneous emphysema
+Diaphragm
+Hemidiaphragm
+Bowel loops
+Gas
+Hiatal hernia
+

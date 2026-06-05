@@ -1,0 +1,1979 @@
+{"s": "consolidation", "p": "located_in", "o": "lower lobes"}
+{"s": "consolidation", "p": "located_in", "o": "right lower lobe"}
+{"s": "consolidation", "p": "suggests", "o": "infectious pneumonia"}
+{"s": "consolidation", "p": "suggests", "o": "aspiration"}
+{"s": "consolidation", "p": "suggests", "o": "pulmonary hemorrhage"}
+{"s": "consolidation", "p": "suggests", "o": "organizing pneumonia"}
+{"s": "pleural effusion", "p": "located_in", "o": "lateral chest wall"}
+{"s": "pleural effusion", "p": "located_in", "o": "lateral hemithorax"}
+{"s": "pleural effusion", "p": "requires", "o": "investigation for parapneumonic process"}
+{"s": "pleural effusion", "p": "requires", "o": "investigation for malignancy"}
+{"s": "pleural effusion", "p": "requires", "o": "investigation for pulmonary embolism with infarction"}
+{"s": "cardiomegaly", "p": "strongly_suggests", "o": "congestive heart failure"}
+{"s": "cardiomegaly", "p": "strongly_suggests", "o": "pulmonary vascular redistribution"}
+{"s": "cardiomegaly", "p": "strongly_suggests", "o": "pleural effusion"}
+{"s": "cardiogenic pulmonary edema", "p": "is_symptom_of", "o": "cardiomegaly"}
+{"s": "cardiogenic pulmonary edema", "p": "is_symptom_of", "o": "pleural effusion"}
+{"s": "joint space narrowing", "p": "is_finding_of", "o": "joint arthropathy"}
+{"s": "joint space narrowing", "p": "is_symptom_of", "o": "subchondral sclerosis"}
+{"s": "subchondral sclerosis", "p": "is_finding_of", "o": "joint arthropathy"}
+{"s": "age-related wear and tear", "p": "is_finding_of", "o": "joint arthropathy"}
+{"s": "age-related wear and tear", "p": "is_symptom_of", "o": "joint space narrowing"}
+{"s": "foraminal stenosis", "p": "is_finding_of", "o": "severe degenerative disease"}
+{"s": "foraminal stenosis", "p": "is_symptom_of", "o": "nerve root compression"}
+{"s": "foraminal stenosis", "p": "located_in", "o": "spine"}
+{"s": "severe degenerative disease", "p": "is_symptom_of", "o": "nerve root compression"}
+{"s": "calcification of costal cartilages", "p": "is_finding_of", "o": "generalized degenerative processes"}
+{"s": "calcification of costal cartilages", "p": "is_symptom_of", "o": "joint arthropathy"}
+{"s": "aortic atherosclerosis", "p": "is_finding_of", "o": "generalized degenerative processes"}
+{"s": "aortic atherosclerosis", "p": "is_symptom_of", "o": "joint arthropathy"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "acute fractures"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "fluid in pleural space or pericardial space"}
+{"s": "pleural effusion", "p": "located_in", "o": "pleural space or pericardial space"}
+{"s": "pericardial effusion", "p": "is_finding_of", "o": "fluid in pleural space or pericardial space"}
+{"s": "pericardial effusion", "p": "located_in", "o": "pericardial space"}
+{"s": "chronic obstructive pulmonary disease", "p": "suggests", "o": "right ventricular enlargement with upward cardiac apex displacement"}
+{"s": "lung fields", "p": "located_in", "o": "both lung fields"}
+{"s": "diffuse parenchymal destruction", "p": "is_finding_of", "o": "both lung fields"}
+{"s": "diffuse parenchymal destruction", "p": "located_in", "o": "both lung fields"}
+{"s": "large bullae", "p": "located_in", "o": "upper lobes"}
+{"s": "flattened hemidiaphragms", "p": "located_in", "o": "at or below the seventh anterior rib"}
+{"s": "hyperlucent lung fields", "p": "located_in", "o": "both lung fields"}
+{"s": "hyperlucent lung fields", "p": "located_in", "o": "with diminished peripheral vascular markings"}
+{"s": "hyperlucent lung fields", "p": "located_in", "o": "reflecting decreased pulmonary perfusion"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "located_in", "o": "all lung zones"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "is_finding_of", "o": "all lung zones"}
+{"s": "round or ovoid opacity", "p": "located_in", "o": "less than 3 cm in diameter"}
+{"s": "round or ovoid opacity", "p": "is_finding_of", "o": "less than 3 cm in diameter"}
+{"s": "solitary pulmonary nodule", "p": "located_in", "o": "upper lobes"}
+{"s": "solitary pulmonary nodule", "p": "is_finding_of", "o": "upper lobes"}
+{"s": "solitary pulmonary nodule", "p": "located_in", "o": "65% of dataset cases"}
+{"s": "joint space narrowing", "p": "is_finding_of", "o": "subchondral sclerosis"}
+{"s": "joint space narrowing", "p": "is_symptom_of", "o": "joint arthropathy"}
+{"s": "calcification of aortic atherosclerosis", "p": "is_finding_of", "o": "generalized degenerative processes"}
+{"s": "diffusely increased bronchovascular markings", "p": "located_in", "o": "lung fields"}
+{"s": "diffusely increased bronchovascular markings", "p": "located_in", "o": "peripheral lung zones"}
+{"s": "diffusely increased bronchovascular markings", "p": "suggests", "o": "vascular congestion"}
+{"s": "peribronchial thickening", "p": "is_finding_of", "o": "airway inflammation"}
+{"s": "pericardial effusion", "p": "located_in", "o": "pleural space or pericardial space"}
+{"s": "pulmonary vasculature", "p": "is_finding_of", "o": "well-defined pulmonary vasculature extending from the hila to the lung periphery"}
+{"s": "pulmonary vasculature", "p": "located_in", "o": "lung periphery"}
+{"s": "cardiothoracic ratio", "p": "is_finding_of", "o": "normal cardiac size"}
+{"s": "cardiothoracic ratio", "p": "located_in", "o": "posteroanterior view"}
+{"s": "hemidiaphragms", "p": "is_finding_of", "o": "sharp and well-defined at the costophrenic angles"}
+{"s": "hemidiaphragms", "p": "located_in", "o": "costophrenic angles"}
+{"s": "trachea", "p": "is_finding_of", "o": "midline position without deviation"}
+{"s": "trachea", "p": "located_in", "o": "midline"}
+{"s": "osseous structures", "p": "is_finding_of", "o": "no acute fracture, degenerative changes, or lytic lesions"}
+{"s": "osseous structures", "p": "located_in", "o": "chest radiograph"}
+{"s": "mediastinal contours", "p": "is_finding_of", "o": "normal without widening or mass effect"}
+{"s": "mediastinal contours", "p": "located_in", "o": "chest radiograph"}
+{"s": "finding", "p": "is_symptom_of", "o": "acute cardiopulmonary disease"}
+{"s": "finding", "p": "is_symptom_of", "o": "pneumonia"}
+{"s": "finding", "p": "is_symptom_of", "o": "congestive heart failure"}
+{"s": "finding", "p": "is_symptom_of", "o": "pneumothorax"}
+{"s": "joint arthropathy", "p": "is_symptom_of", "o": "elderly patients"}
+{"s": "age-related wear and tear", "p": "is_symptom_of", "o": "joint arthropathy"}
+{"s": "calcification of costal cartilages", "p": "is_finding_of", "o": "costal cartilages"}
+{"s": "aortic atherosclerosis", "p": "is_finding_of", "o": "aorta"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_finding_of", "o": "bronchovascular markings"}
+{"s": "peripheral lung zones", "p": "is_finding_of", "o": "lung zones"}
+{"s": "right ventricular enlargement", "p": "located_in", "o": "upward cardiac apex displacement"}
+{"s": "right ventricular enlargement", "p": "is_finding_of", "o": "cardiac apex displacement"}
+{"s": "cardiac apex displacement", "p": "is_symptom_of", "o": "pulmonary hypertension"}
+{"s": "homogeneous opacity", "p": "is_finding_of", "o": "fluid collection"}
+{"s": "fluid collection", "p": "is_finding_of", "o": "effusion"}
+{"s": "fluid collection", "p": "is_finding_of", "o": "pleural space"}
+{"s": "fluid collection", "p": "is_finding_of", "o": "pericardial space"}
+{"s": "posterior costophrenic angles", "p": "is_symptom_of", "o": "small effusions"}
+{"s": "cardiothoracic ratio", "p": "located_in", "o": "right lower lobe"}
+{"s": "cardiothoracic ratio", "p": "strongly_suggests", "o": "normal cardiac size"}
+{"s": "cardiothoracic ratio", "p": "suggests", "o": "congestive heart failure"}
+{"s": "finding", "p": "suggests", "o": "infectious pneumonia"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "infectious spondylitis"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_finding_of", "o": "vascular congestion"}
+{"s": "peripheral lung zones", "p": "located_in", "o": "lung"}
+{"s": "peripheral lung zones", "p": "located_in", "o": "lung periphery"}
+{"s": "cardiomegaly", "p": "is_symptom_of", "o": "chronic congestive heart failure"}
+{"s": "cardiomegaly", "p": "is_symptom_of", "o": "interstitial edema"}
+{"s": "symmetric bilateral increased markings", "p": "is_symptom_of", "o": "cardiac etiology"}
+{"s": "cardiothoracic ratio", "p": "located_in", "o": "thoracic cavity"}
+{"s": "right ventricular enlargement", "p": "is_finding_of", "o": "upward cardiac apex displacement"}
+{"s": "right ventricular enlargement", "p": "suggests", "o": "pulmonary hypertension"}
+{"s": "right ventricular enlargement", "p": "is_symptom_of", "o": "severe pulmonary hypertension"}
+{"s": "right ventricular enlargement", "p": "located_in", "o": "thoracic cavity"}
+{"s": "pleural effusion", "p": "located_in", "o": "pleural space"}
+{"s": "cardiomegaly", "p": "located_in", "o": "chest radiograph"}
+{"s": "cardiomegaly", "p": "suggests", "o": "congestive heart failure"}
+{"s": "cardiomegaly", "p": "is_symptom_of", "o": "congestive heart failure"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "chest radiograph"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "congestive heart failure"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "chest radiograph"}
+{"s": "pneumothorax", "p": "contradicts", "o": "increased lung markings"}
+{"s": "pneumothorax", "p": "located_in", "o": "chest radiograph"}
+{"s": "pneumothorax", "p": "suggests", "o": "anterior pneumothorax"}
+{"s": "pneumothorax", "p": "is_symptom_of", "o": "chest radiograph"}
+{"s": "consolidation", "p": "is_symptom_of", "o": "pneumonia"}
+{"s": "consolidation", "p": "suggests", "o": "pneumonia"}
+{"s": "consolidation", "p": "is_finding_of", "o": "chest radiograph"}
+{"s": "fibrosis", "p": "is_symptom_of", "o": "interstitial lung disease"}
+{"s": "fibrosis", "p": "located_in", "o": "chest radiograph"}
+{"s": "age-related wear and tear", "p": "is_symptom_of", "o": "elderly patients"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "right ventricular enlargement"}
+{"s": "right ventricular enlargement", "p": "located_in", "o": "heart"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "layers along dependent portion of pleural space"}
+{"s": "pericardial effusion", "p": "is_symptom_of", "o": "enlarges cardiac silhouette"}
+{"s": "pericardial effusion", "p": "located_in", "o": "heart"}
+{"s": "chest radiograph", "p": "confirmed_by", "o": "pericardial effusion"}
+{"s": "dilated bronchi", "p": "is_symptom_of", "o": "tram-track sign"}
+{"s": "dilated bronchi", "p": "is_symptom_of", "o": "thickened walls"}
+{"s": "cystic bronchiectasis", "p": "is_symptom_of", "o": "clustered ring shadows"}
+{"s": "crowding of bronchial markings", "p": "suggests", "o": "chronic inflammation and fibrosis"}
+{"s": "lower lobe predominance", "p": "is_symptom_of", "o": "post-infectious bronchiectasis"}
+{"s": "cardiogenic pulmonary edema", "p": "is_finding_of", "o": "chest radiograph"}
+{"s": "pneumothorax", "p": "is_finding_of", "o": "chest radiograph"}
+{"s": "age-related wear and tear", "p": "is_symptom_of", "o": "subchondral sclerosis"}
+{"s": "foraminal stenosis with nerve root compression", "p": "is_symptom_of", "o": "degenerative disease"}
+{"s": "calcification of costal cartilages", "p": "is_symptom_of", "o": "generalized degenerative processes"}
+{"s": "aortic atherosclerosis", "p": "is_symptom_of", "o": "generalized degenerative processes"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "airspace disease"}
+{"s": "air bronchograms", "p": "located_in", "o": "consolidated region"}
+{"s": "consolidation", "p": "is_finding_of", "o": "homogeneous opacification"}
+{"s": "consolidation", "p": "is_finding_of", "o": "increased radiodensity"}
+{"s": "consolidation", "p": "is_finding_of", "o": "vascular markings"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "fluid following the chest wall curvature"}
+{"s": "pleural effusion", "p": "located_in", "o": "chest wall"}
+{"s": "joint space narrowing", "p": "is_symptom_of", "o": "degenerative disease"}
+{"s": "degenerative disease", "p": "is_symptom_of", "o": "foraminal stenosis"}
+{"s": "foraminal stenosis", "p": "requires", "o": "nerve root compression"}
+{"s": "calcification of costal cartilages", "p": "is_symptom_of", "o": "aortic atherosclerosis"}
+{"s": "degenerative changes", "p": "contradicts", "o": "acute fractures"}
+{"s": "degenerative changes", "p": "contradicts", "o": "infectious spondylitis"}
+{"s": "peripheral lung zones", "p": "suggests", "o": "vascular congestion"}
+{"s": "peribronchial thickening", "p": "is_symptom_of", "o": "airway inflammation"}
+{"s": "bilateral increased markings", "p": "is_symptom_of", "o": "cardiac etiology"}
+{"s": "asymmetric distribution", "p": "suggests", "o": "chronic infection"}
+{"s": "asymmetric distribution", "p": "suggests", "o": "bronchiectasis"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "dilated bronchi"}
+{"s": "dilated bronchi", "p": "is_symptom_of", "o": "chronic inflammation and fibrosis"}
+{"s": "chronic inflammation and fibrosis", "p": "suggests", "o": "post-infectious bronchiectasis"}
+{"s": "post-infectious bronchiectasis", "p": "is_symptom_of", "o": "chronic productive cough"}
+{"s": "chronic productive cough", "p": "is_symptom_of", "o": "recurrent respiratory infections"}
+{"s": "recurrent respiratory infections", "p": "is_symptom_of", "o": "hemoptysis"}
+{"s": "hemoptysis", "p": "is_symptom_of", "o": "bronchiectasis"}
+{"s": "bronchiectasis", "p": "is_symptom_of", "o": "bullae"}
+{"s": "bullae", "p": "is_symptom_of", "o": "severe emphysema"}
+{"s": "bullous disease", "p": "is_symptom_of", "o": "spontaneous pneumothorax"}
+{"s": "subcutaneous emphysema", "p": "is_symptom_of", "o": "pneumothorax"}
+{"s": "tram-track sign", "p": "is_finding_of", "o": "thickened walls"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "blunting of the costophrenic angle"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "meniscus sign"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "layering of fluid"}
+{"s": "cardiomegaly", "p": "requires", "o": "investigation for parapneumonic process"}
+{"s": "cardiomegaly", "p": "requires", "o": "investigation for malignancy"}
+{"s": "cardiomegaly", "p": "requires", "o": "investigation for pulmonary embolism"}
+{"s": "cardiomegaly", "p": "located_in", "o": "enlarged cardiac silhouette"}
+{"s": "cardiomegaly", "p": "located_in", "o": "cardiothoracic ratio exceeding 0.5"}
+{"s": "cardiomegaly", "p": "located_in", "o": "left ventricular enlargement"}
+{"s": "cardiomegaly", "p": "located_in", "o": "right atrial enlargement"}
+{"s": "foraminal stenosis", "p": "is_symptom_of", "o": "severe degenerative disease"}
+{"s": "degenerative changes", "p": "is_symptom_of", "o": "acute fractures"}
+{"s": "degenerative changes", "p": "is_symptom_of", "o": "infectious spondylitis"}
+{"s": "peripheral lung zones", "p": "located_in", "o": "lung fields"}
+{"s": "pleural effusion", "p": "located_in", "o": "pericardial space"}
+{"s": "meniscus sign", "p": "is_finding_of", "o": "free-flowing pleural effusion"}
+{"s": "cardiomegaly", "p": "suggests", "o": "pulmonary vascular redistribution"}
+{"s": "cardiomegaly", "p": "suggests", "o": "pleural effusion"}
+{"s": "cardiomegaly", "p": "suggests", "o": "pulmonary edema"}
+{"s": "bilateral perihilar infiltrates", "p": "is_finding_of", "o": "cardiogenic pulmonary edema"}
+{"s": "peripheral lung zones", "p": "is_symptom_of", "o": "vascular congestion"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "effusion"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "fluid in pleural space or pericardial space"}
+{"s": "pericardial effusion", "p": "is_symptom_of", "o": "effusion"}
+{"s": "pericardial effusion", "p": "is_symptom_of", "o": "fluid in pleural space or pericardial space"}
+{"s": "chronic infection", "p": "suggests", "o": "bronchiectasis"}
+{"s": "pulmonary hypertension", "p": "located_in", "o": "right ventricle"}
+{"s": "right ventricular enlargement", "p": "located_in", "o": "right ventricle"}
+{"s": "right ventricular enlargement", "p": "located_in", "o": "cardiac apex"}
+{"s": "cardiac apex", "p": "located_in", "o": "thoracic cavity"}
+{"s": "thoracic cavity", "p": "located_in", "o": "chest"}
+{"s": "homogeneous opacity", "p": "located_in", "o": "thoracic cavity"}
+{"s": "fluid collection", "p": "located_in", "o": "thoracic cavity"}
+{"s": "fluid collection", "p": "located_in", "o": "pleural space"}
+{"s": "fluid collection", "p": "located_in", "o": "pericardial space"}
+{"s": "cardiomegaly", "p": "strongly_suggests", "o": "pulmonary edema"}
+{"s": "degenerative disease", "p": "requires", "o": "bronchoscopy"}
+{"s": "degenerative disease", "p": "is_finding_of", "o": "foraminal stenosis"}
+{"s": "degenerative disease", "p": "is_finding_of", "o": "nerve root compression"}
+{"s": "calcification of costal cartilages", "p": "is_finding_of", "o": "aortic atherosclerosis"}
+{"s": "calcification of costal cartilages", "p": "is_finding_of", "o": "degenerative processes"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_finding_of", "o": "airway inflammation"}
+{"s": "peribronchial thickening", "p": "is_finding_of", "o": "increased markings"}
+{"s": "cardiogenic pulmonary edema", "p": "is_symptom_of", "o": "pulmonary vascular redistribution"}
+{"s": "cardiac apex", "p": "located_in", "o": "chest"}
+{"s": "cardiomegaly", "p": "requires", "o": "investigation for pulmonary embolism with infarction"}
+{"s": "peripheral lung zones", "p": "is_finding_of", "o": "vascular congestion"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "chronic congestive heart failure"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "interstitial edema"}
+{"s": "patchy bilateral airspace opacities", "p": "is_finding_of", "o": "alveolar filling process"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_finding_of", "o": "left-to-right cardiac shunts"}
+{"s": "right ventricular enlargement", "p": "is_finding_of", "o": "pulmonary hypertension"}
+{"s": "fluid collection", "p": "is_finding_of", "o": "thoracic cavity"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "pleural space"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "pericardial space"}
+{"s": "pericardial effusion", "p": "is_finding_of", "o": "pericardial space"}
+{"s": "small effusions", "p": "located_in", "o": "lateral view"}
+{"s": "pleural effusion", "p": "located_in", "o": "lateral chest wall on decubitus view"}
+{"s": "bilateral perihilar infiltrates", "p": "located_in", "o": "upper lobes"}
+{"s": "calcification", "p": "is_finding_of", "o": "costal cartilages"}
+{"s": "calcification", "p": "is_finding_of", "o": "aortic atherosclerosis"}
+{"s": "cardiac etiology", "p": "is_finding_of", "o": "chronic congestive heart failure"}
+{"s": "cardiac etiology", "p": "is_finding_of", "o": "interstitial edema"}
+{"s": "symmetric bilateral increased markings", "p": "is_finding_of", "o": "cardiac etiology"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_symptom_of", "o": "left-to-right cardiac shunts"}
+{"s": "chest radiograph", "p": "confirmed_by", "o": "fluid collection in thoracic cavity"}
+{"s": "fluid collection in thoracic cavity", "p": "is_finding_of", "o": "homogeneous opacity"}
+{"s": "pleural effusion", "p": "located_in", "o": "dependent portion of pleural space"}
+{"s": "chest radiograph", "p": "confirmed_by", "o": "dilated bronchi"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "vascular congestion"}
+{"s": "chronic congestive heart failure", "p": "is_finding_of", "o": "vascular congestion"}
+{"s": "interstitial edema", "p": "is_finding_of", "o": "vascular congestion"}
+{"s": "cardiac apex", "p": "located_in", "o": "heart"}
+{"s": "pleural space", "p": "located_in", "o": "thoracic cavity"}
+{"s": "pericardial space", "p": "located_in", "o": "thoracic cavity"}
+{"s": "cardiac silhouette", "p": "located_in", "o": "heart"}
+{"s": "cardiac silhouette", "p": "is_finding_of", "o": "pericardial effusion"}
+{"s": "posterior costophrenic angles", "p": "located_in", "o": "lateral view"}
+{"s": "hemithorax", "p": "located_in", "o": "chest"}
+{"s": "mediastinum", "p": "located_in", "o": "chest"}
+{"s": "affected side", "p": "located_in", "o": "chest"}
+{"s": "pleural effusion", "p": "requires", "o": "investigation"}
+{"s": "pleural effusion", "p": "requires", "o": "parapneumonic process"}
+{"s": "pleural effusion", "p": "requires", "o": "malignancy"}
+{"s": "pleural effusion", "p": "requires", "o": "pulmonary embolism with infarction"}
+{"s": "asymmetric distribution", "p": "is_finding_of", "o": "chronic infection"}
+{"s": "dilated bronchi", "p": "is_finding_of", "o": "thickened walls appearing as parallel linear opacities"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "solitary pulmonary nodule"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "focal opacity"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "focal parenchymal lesion"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "well-defined calcified nodules"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "calcified granulomas"}
+{"s": "pulmonary nodule", "p": "is_symptom_of", "o": "spiculated margins"}
+{"s": "pulmonary nodule", "p": "is_symptom_of", "o": "irregular contours"}
+{"s": "pulmonary nodule", "p": "is_symptom_of", "o": "possible pleural tethering"}
+{"s": "pulmonary nodule", "p": "suggests", "o": "bronchogenic carcinoma"}
+{"s": "pulmonary nodule", "p": "strongly_suggests", "o": "malignancy"}
+{"s": "pulmonary nodule", "p": "weakly_suggests", "o": "malignancy"}
+{"s": "pulmonary nodule", "p": "contradicts", "o": "calcification patterns"}
+{"s": "pulmonary nodule", "p": "requires", "o": "further characterization with CT imaging"}
+{"s": "pulmonary nodule", "p": "located_in", "o": "upper lobes"}
+{"s": "pulmonary nodule", "p": "located_in", "o": "right lower lobe"}
+{"s": "pulmonary nodule", "p": "absence_weakens", "o": "calcification patterns"}
+{"s": "pulmonary nodule", "p": "confirmed_by", "o": "CT imaging"}
+{"s": "calcification of costal cartilages", "p": "is_symptom_of", "o": "degenerative disease"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_symptom_of", "o": "airway inflammation"}
+{"s": "dilated bronchi", "p": "is_finding_of", "o": "thickened walls"}
+{"s": "dilated bronchi", "p": "is_finding_of", "o": "parallel linear opacities"}
+{"s": "pulmonary mass", "p": "is_finding_of", "o": "right lower lobe"}
+{"s": "pulmonary mass", "p": "is_finding_of", "o": "upper lobes"}
+{"s": "pulmonary mass", "p": "is_symptom_of", "o": "hilar lymphadenopathy"}
+{"s": "pulmonary mass", "p": "is_symptom_of", "o": "pleural effusion"}
+{"s": "pulmonary mass", "p": "strongly_suggests", "o": "bronchogenic carcinoma"}
+{"s": "pulmonary mass", "p": "located_in", "o": "lung fields"}
+{"s": "pulmonary mass", "p": "located_in", "o": "pleura"}
+{"s": "pulmonary mass", "p": "contradicts", "o": "calcified granulomas"}
+{"s": "pulmonary mass", "p": "contradicts", "o": "benign etiology"}
+{"s": "pulmonary mass", "p": "requires", "o": "further characterization with CT imaging"}
+{"s": "pulmonary mass", "p": "requires", "o": "clinical correlation"}
+{"s": "pulmonary mass", "p": "absence_weakens", "o": "calcified granulomas"}
+{"s": "pulmonary mass", "p": "absence_weakens", "o": "benign etiology"}
+{"s": "pulmonary mass", "p": "confirmed_by", "o": "CT imaging"}
+{"s": "pulmonary mass", "p": "confirmed_by", "o": "clinical correlation"}
+{"s": "foraminal stenosis", "p": "is_finding_of", "o": "nerve root compression"}
+{"s": "calcification of costal cartilages", "p": "is_symptom_of", "o": "associated calcification of costal cartilages"}
+{"s": "associated calcification of costal cartilages", "p": "is_finding_of", "o": "generalized degenerative processes"}
+{"s": "chest radiograph", "p": "located_in", "o": "thoracic cavity"}
+{"s": "effusion", "p": "located_in", "o": "pleural space"}
+{"s": "effusion", "p": "located_in", "o": "pericardial space"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "healed granulomas from prior infection"}
+{"s": "calcified granuloma", "p": "located_in", "o": "both lung fields"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "popcorn pattern"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "target pattern"}
+{"s": "calcified granuloma", "p": "is_symptom_of", "o": "prior tuberculosis or histoplasmosis exposure"}
+{"s": "calcified granuloma", "p": "is_symptom_of", "o": "granulomatous disease"}
+{"s": "calcified granuloma", "p": "contradicts", "o": "calcified malignancies"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "fluid in pleural space"}
+{"s": "small effusions", "p": "is_finding_of", "o": "blunting of posterior costophrenic angles"}
+{"s": "large effusions", "p": "is_finding_of", "o": "hemithorax opacification"}
+{"s": "cardiomegaly", "p": "located_in", "o": "posteroanterior view"}
+{"s": "cardiomegaly", "p": "located_in", "o": "cardiothoracic ratio"}
+{"s": "cardiogenic pulmonary edema", "p": "located_in", "o": "upper lobes"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_finding_of", "o": "both lung fields"}
+{"s": "right ventricular enlargement", "p": "requires", "o": "pulmonary hypertension"}
+{"s": "fluid collection", "p": "is_finding_of", "o": "concave upper border"}
+{"s": "dilated bronchi", "p": "is_finding_of", "o": "tram-track sign"}
+{"s": "cystic bronchiectasis", "p": "is_finding_of", "o": "clustered ring shadows"}
+{"s": "bullous disease", "p": "strongly_suggests", "o": "spontaneous secondary pneumothorax"}
+{"s": "bullous disease", "p": "located_in", "o": "upper lobes"}
+{"s": "acute hyperinflation", "p": "requires", "o": "bronchodilator therapy"}
+{"s": "degenerative disease", "p": "strongly_suggests", "o": "foraminal stenosis"}
+{"s": "degenerative disease", "p": "strongly_suggests", "o": "nerve root compression"}
+{"s": "peripheral lung zones", "p": "is_finding_of", "o": "airway inflammation"}
+{"s": "airway inflammation", "p": "is_symptom_of", "o": "increased bronchovascular markings"}
+{"s": "bullous disease", "p": "is_finding_of", "o": "upper lobes"}
+{"s": "bullous disease", "p": "is_finding_of", "o": "bullae"}
+{"s": "bullous disease", "p": "is_symptom_of", "o": "chronic productive cough"}
+{"s": "bullous disease", "p": "is_symptom_of", "o": "recurrent respiratory infections"}
+{"s": "bullous disease", "p": "is_symptom_of", "o": "hemoptysis"}
+{"s": "bullous disease", "p": "is_finding_of", "o": "emphysema"}
+{"s": "bullous disease", "p": "is_finding_of", "o": "paraseptal bullae"}
+{"s": "subcutaneous emphysema", "p": "is_finding_of", "o": "subcutaneous air"}
+{"s": "subcutaneous emphysema", "p": "is_finding_of", "o": "soft tissues of chest wall"}
+{"s": "subcutaneous emphysema", "p": "is_finding_of", "o": "neck"}
+{"s": "subcutaneous emphysema", "p": "is_finding_of", "o": "abdominal wall"}
+{"s": "subcutaneous air", "p": "is_finding_of", "o": "streaky pattern"}
+{"s": "subcutaneous air", "p": "is_finding_of", "o": "muscle bundles"}
+{"s": "subcutaneous air", "p": "is_finding_of", "o": "fascial layers"}
+{"s": "subcutaneous emphysema", "p": "is_finding_of", "o": "pneumothorax"}
+{"s": "traumatic chest injury", "p": "strongly_suggests", "o": "subcutaneous emphysema"}
+{"s": "airway disruption", "p": "strongly_suggests", "o": "subcutaneous emphysema"}
+{"s": "subcutaneous emphysema", "p": "located_in", "o": "chest wall"}
+{"s": "subcutaneous emphysema", "p": "located_in", "o": "face"}
+{"s": "subcutaneous emphysema", "p": "located_in", "o": "neck"}
+{"s": "subcutaneous emphysema", "p": "located_in", "o": "abdominal wall"}
+{"s": "degenerative disease", "p": "is_symptom_of", "o": "nerve root compression"}
+{"s": "air bronchograms", "p": "is_symptom_of", "o": "airspace disease"}
+{"s": "homogeneous opacity", "p": "is_finding_of", "o": "thoracic cavity"}
+{"s": "fluid", "p": "is_finding_of", "o": "pleural space"}
+{"s": "fluid", "p": "is_finding_of", "o": "pericardial space"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "dependent portion of pleural space"}
+{"s": "blunting of posterior costophrenic angles", "p": "is_finding_of", "o": "lateral view"}
+{"s": "hemithorax opacification", "p": "is_finding_of", "o": "mediastinal shift"}
+{"s": "parallel linear opacities", "p": "is_finding_of", "o": "tram-track sign"}
+{"s": "clustered ring shadows", "p": "is_finding_of", "o": "bronchial dilatation"}
+{"s": "crowding of bronchial markings", "p": "is_finding_of", "o": "chronic inflammation and fibrosis"}
+{"s": "chronic inflammation and fibrosis", "p": "is_finding_of", "o": "lower lobe"}
+{"s": "consolidation", "p": "is_finding_of", "o": "air bronchograms"}
+{"s": "consolidation", "p": "is_finding_of", "o": "loss of the hemidiaphragm border"}
+{"s": "consolidation", "p": "is_finding_of", "o": "lower lobes"}
+{"s": "consolidation", "p": "is_finding_of", "o": "right lower lobe"}
+{"s": "consolidation", "p": "is_finding_of", "o": "pleural effusion"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "concave upper border of fluid"}
+{"s": "hemidiaphragms", "p": "located_in", "o": "thoracic spine"}
+{"s": "hemidiaphragms", "p": "is_finding_of", "o": "right ventricular enlargement"}
+{"s": "right ventricular enlargement", "p": "is_symptom_of", "o": "pulmonary hypertension"}
+{"s": "cardiac silhouette", "p": "is_symptom_of", "o": "pericardial effusion"}
+{"s": "pericardial effusion", "p": "is_finding_of", "o": "small effusions"}
+{"s": "costophrenic angles", "p": "absence_weakens", "o": "findings"}
+{"s": "costophrenic angles", "p": "located_in", "o": "thoracic spine"}
+{"s": "costophrenic angles", "p": "is_finding_of", "o": "small effusions"}
+{"s": "costophrenic angles", "p": "located_in", "o": "lateral view"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "meniscus sign"}
+{"s": "pericardial effusion", "p": "is_symptom_of", "o": "globular configuration"}
+{"s": "pericardial effusion", "p": "is_symptom_of", "o": "sharp borders"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_symptom_of", "o": "chronic productive cough"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_symptom_of", "o": "recurrent respiratory infections"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_symptom_of", "o": "hemoptysis"}
+{"s": "post-infectious bronchiectasis", "p": "is_symptom_of", "o": "chronic inflammation"}
+{"s": "trachea", "p": "located_in", "o": "midline position"}
+{"s": "aortic atherosclerosis", "p": "is_symptom_of", "o": "degenerative disease"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_symptom_of", "o": "vascular congestion"}
+{"s": "osseous structures", "p": "is_finding_of", "o": "no acute fracture"}
+{"s": "osseous structures", "p": "is_finding_of", "o": "degenerative changes"}
+{"s": "osseous structures", "p": "is_finding_of", "o": "lytic lesions"}
+{"s": "pleural effusion", "p": "located_in", "o": "chest radiograph"}
+{"s": "cardiomegaly", "p": "located_in", "o": "cardiac silhouette"}
+{"s": "mediastinal contours", "p": "is_finding_of", "o": "normal"}
+{"s": "mediastinal contours", "p": "located_in", "o": "mediastinum"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "enlarged cardiac silhouette"}
+{"s": "multiple consecutive rib fractures", "p": "requires", "o": "bronchoscopy for diagnosis and treatment"}
+{"s": "consolidation", "p": "is_finding_of", "o": "pneumonia"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "pneumonia"}
+{"s": "cardiomegaly", "p": "located_in", "o": "chest"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "congestive heart failure"}
+{"s": "cardiomegaly", "p": "contradicts", "o": "normal cardiac size"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "cardiac etiology"}
+{"s": "cystic bronchiectasis", "p": "is_finding_of", "o": "bronchial dilatation"}
+{"s": "chronic inflammation and fibrosis", "p": "is_symptom_of", "o": "lower lobe predominance"}
+{"s": "interstitial edema", "p": "is_finding_of", "o": "congestive heart failure"}
+{"s": "pleural effusion", "p": "located_in", "o": "hemidiaphragm"}
+{"s": "pleural effusion", "p": "located_in", "o": "lower lung fields"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "stable over time"}
+{"s": "pericardial effusion", "p": "is_finding_of", "o": "globular configuration"}
+{"s": "pericardial effusion", "p": "is_finding_of", "o": "sharp borders"}
+{"s": "pleural effusion", "p": "located_in", "o": "posterior costophrenic angles"}
+{"s": "lung fields", "p": "is_finding_of", "o": "clear lung fields"}
+{"s": "lung fields", "p": "is_finding_of", "o": "well-defined pulmonary vasculature"}
+{"s": "lung fields", "p": "is_finding_of", "o": "sharp and well-defined hemidiaphragms"}
+{"s": "lung fields", "p": "is_finding_of", "o": "trachea maintains midline position"}
+{"s": "lung fields", "p": "is_finding_of", "o": "osseous structures show no acute fracture"}
+{"s": "lung fields", "p": "is_finding_of", "o": "mediastinal contours are normal"}
+{"s": "lung fields", "p": "is_finding_of", "o": "normal cardiac size"}
+{"s": "lung fields", "p": "is_finding_of", "o": "absence of Increased Lung Markings"}
+{"s": "lung fields", "p": "is_finding_of", "o": "visceral pleural line displaced inward"}
+{"s": "lung fields", "p": "is_finding_of", "o": "collapsed lung appears retracted"}
+{"s": "lung fields", "p": "is_finding_of", "o": "increased lucency in the pleural space"}
+{"s": "lung fields", "p": "is_finding_of", "o": "deep sulcus sign"}
+{"s": "lung fields", "p": "is_finding_of", "o": "increased lucency and deepening of the costophrenic angle"}
+{"s": "lung fields", "p": "is_finding_of", "o": "diffuse parenchymal destruction"}
+{"s": "lung fields", "p": "is_finding_of", "o": "hyperlucency"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_finding_of", "o": "lung fields"}
+{"s": "peripheral lung zones", "p": "is_finding_of", "o": "lung fields"}
+{"s": "prominent vascular markings", "p": "is_finding_of", "o": "lung periphery"}
+{"s": "focal consolidation", "p": "contradicts", "o": "vascular congestion"}
+{"s": "cardiomegaly", "p": "is_symptom_of", "o": "vascular congestion"}
+{"s": "chronic congestive heart failure", "p": "is_symptom_of", "o": "vascular congestion"}
+{"s": "lung fields", "p": "is_finding_of", "o": "pulmonary hypertension"}
+{"s": "pulmonary vasculature", "p": "located_in", "o": "hila"}
+{"s": "cardiothoracic ratio", "p": "is_finding_of", "o": "less than 0.5"}
+{"s": "trachea", "p": "is_finding_of", "o": "midline position"}
+{"s": "trachea", "p": "is_finding_of", "o": "without deviation"}
+{"s": "mediastinal contours", "p": "is_finding_of", "o": "without widening or mass effect"}
+{"s": "cardiac silhouette", "p": "located_in", "o": "chest radiograph"}
+{"s": "posterior costophrenic angles", "p": "is_finding_of", "o": "small effusions"}
+{"s": "hemithorax", "p": "is_finding_of", "o": "large effusions"}
+{"s": "mediastinum", "p": "is_finding_of", "o": "large effusions"}
+{"s": "cardiothoracic ratio", "p": "located_in", "o": "lung"}
+{"s": "cardiothoracic ratio", "p": "is_finding_of", "o": "cardiac size"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "pulmonary edema"}
+{"s": "pneumothorax", "p": "contradicts", "o": "visceral pleural line"}
+{"s": "pneumothorax", "p": "suggests", "o": "deep sulcus sign"}
+{"s": "right ventricular enlargement", "p": "is_finding_of", "o": "severe pulmonary hypertension"}
+{"s": "cardiac apex", "p": "located_in", "o": "right ventricle"}
+{"s": "calcification of costal cartilages", "p": "is_symptom_of", "o": "age-related wear and tear"}
+{"s": "aortic atherosclerosis", "p": "is_symptom_of", "o": "age-related wear and tear"}
+{"s": "consolidation", "p": "located_in", "o": "thoracic cavity"}
+{"s": "consolidation", "p": "is_finding_of", "o": "homogeneous opacity"}
+{"s": "consolidation", "p": "is_symptom_of", "o": "infectious pneumonia"}
+{"s": "pleural effusion", "p": "strongly_suggests", "o": "congestive heart failure"}
+{"s": "pleural effusion", "p": "requires", "o": "investigation for pulmonary embolism"}
+{"s": "costal cartilages", "p": "is_symptom_of", "o": "generalized degenerative processes"}
+{"s": "dilated bronchi", "p": "located_in", "o": "thoracic cavity"}
+{"s": "dilated bronchi", "p": "strongly_suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "dilated bronchi", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "dilated bronchi", "p": "strongly_suggests", "o": "embolism"}
+{"s": "right ventricular enlargement", "p": "located_in", "o": "chest radiograph"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "fluid in pericardial space"}
+{"s": "unilateral effusions", "p": "requires", "o": "investigation for parapneumonic process"}
+{"s": "unilateral effusions", "p": "requires", "o": "investigation for malignancy"}
+{"s": "unilateral effusions", "p": "requires", "o": "investigation for pulmonary embolism"}
+{"s": "hemidiaphragm", "p": "located_in", "o": "costophrenic angles"}
+{"s": "hemidiaphragm", "p": "located_in", "o": "thoracic spine"}
+{"s": "facet joint arthropathy", "p": "is_finding_of", "o": "joint space narrowing"}
+{"s": "facet joint arthropathy", "p": "is_finding_of", "o": "subchondral sclerosis"}
+{"s": "pulmonary edema", "p": "is_symptom_of", "o": "vascular cephalization"}
+{"s": "pulmonary edema", "p": "is_symptom_of", "o": "peribronchial cuffing"}
+{"s": "pulmonary edema", "p": "is_symptom_of", "o": "indistinct vascular margins"}
+{"s": "foraminal stenosis", "p": "requires", "o": "bronchoscopy"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "chest wall"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "cardiothoracic ratio"}
+{"s": "bilateral perihilar infiltrates", "p": "is_finding_of", "o": "bat-wing pattern"}
+{"s": "pleural effusion", "p": "located_in", "o": "costophrenic angle"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "acute fractures or infectious spondylitis"}
+{"s": "degenerative changes", "p": "contradicts", "o": "acute fractures or infectious spondylitis"}
+{"s": "peripheral lung zones", "p": "located_in", "o": "vascular congestion"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "lower lobes"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "right lower lobe"}
+{"s": "pleural effusion", "p": "suggests", "o": "congestive heart failure"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "cardiothoracic ratio exceeding 0.5"}
+{"s": "subchondral sclerosis", "p": "is_symptom_of", "o": "joint arthropathy"}
+{"s": "age-related wear and tear", "p": "strongly_suggests", "o": "joint arthropathy"}
+{"s": "heart", "p": "located_in", "o": "chest"}
+{"s": "pericardial effusion", "p": "is_finding_of", "o": "fluid in pericardial space"}
+{"s": "pleural effusion", "p": "suggests", "o": "free-flowing pleural effusion"}
+{"s": "pulmonary nodule", "p": "is_symptom_of", "o": "hilar lymphadenopathy"}
+{"s": "pulmonary nodule", "p": "is_symptom_of", "o": "pleural effusion"}
+{"s": "pulmonary nodule", "p": "is_symptom_of", "o": "cavitation"}
+{"s": "pulmonary nodule", "p": "is_symptom_of", "o": "cavitary lesion"}
+{"s": "pulmonary nodule", "p": "is_symptom_of", "o": "irregular borders"}
+{"s": "pulmonary nodule", "p": "is_symptom_of", "o": "spiculation"}
+{"s": "pulmonary nodule", "p": "is_symptom_of", "o": "peripheral lesions"}
+{"s": "pulmonary nodule", "p": "is_symptom_of", "o": "metastasis"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_finding_of", "o": "peribronchial thickening"}
+{"s": "cardiogenic pulmonary edema", "p": "is_finding_of", "o": "cardiomegaly"}
+{"s": "cardiogenic pulmonary edema", "p": "is_finding_of", "o": "pleural effusion"}
+{"s": "cardiogenic pulmonary edema", "p": "is_finding_of", "o": "vascular cephalization"}
+{"s": "joint arthropathy", "p": "is_symptom_of", "o": "degenerative disease"}
+{"s": "right ventricular enlargement", "p": "requires", "o": "severe pulmonary hypertension"}
+{"s": "right ventricular enlargement", "p": "is_symptom_of", "o": "cardiac apex displacement"}
+{"s": "cardiomegaly", "p": "located_in", "o": "left mid-clavicular line"}
+{"s": "cardiomegaly", "p": "located_in", "o": "right heart border"}
+{"s": "cardiomegaly", "p": "located_in", "o": "cardiac apex"}
+{"s": "interstitial edema", "p": "is_symptom_of", "o": "vascular congestion"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "chronic obstructive pulmonary disease"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "left-to-right cardiac shunts"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "embolism"}
+{"s": "cardiogenic pulmonary edema", "p": "located_in", "o": "lung bases"}
+{"s": "age-related wear and tear", "p": "is_finding_of", "o": "joint space narrowing"}
+{"s": "foraminal stenosis", "p": "suggests", "o": "severe degenerative disease"}
+{"s": "calcification of costal cartilages", "p": "suggests", "o": "age-related wear and tear"}
+{"s": "aortic atherosclerosis", "p": "suggests", "o": "age-related wear and tear"}
+{"s": "degenerative changes", "p": "is_symptom_of", "o": "joint arthropathy"}
+{"s": "consolidation", "p": "is_finding_of", "o": "normal vascular markings"}
+{"s": "consolidation", "p": "is_symptom_of", "o": "fever"}
+{"s": "consolidation", "p": "is_symptom_of", "o": "productive cough"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "chest wall curvature"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "fever"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "productive cough"}
+{"s": "calcification", "p": "is_symptom_of", "o": "generalized degenerative processes"}
+{"s": "asymmetric distribution", "p": "is_symptom_of", "o": "chronic infection"}
+{"s": "asymmetric distribution", "p": "is_symptom_of", "o": "bronchiectasis"}
+{"s": "patchy bilateral airspace opacities", "p": "is_symptom_of", "o": "alveolar filling process"}
+{"s": "bullous disease", "p": "strongly_suggests", "o": "severe emphysema"}
+{"s": "bullous disease", "p": "located_in", "o": "lung parenchyma"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_finding_of", "o": "peripheral lung zones"}
+{"s": "subcutaneous air", "p": "located_in", "o": "soft tissues of chest wall and neck"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "pulmonary edema"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_finding_of", "o": "emphysema"}
+{"s": "chronic obstructive pulmonary disease", "p": "located_in", "o": "thoracic cavity"}
+{"s": "pericardial effusion", "p": "located_in", "o": "pleural space"}
+{"s": "bronchiectasis", "p": "is_finding_of", "o": "thickened walls"}
+{"s": "age-related wear and tear", "p": "is_finding_of", "o": "subchondral sclerosis"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "blunting of posterior costophrenic angles"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "lateral view"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "hemithorax opacification"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "mediastinal shift"}
+{"s": "dilated bronchi", "p": "is_finding_of", "o": "en face view"}
+{"s": "cystic bronchiectasis", "p": "is_finding_of", "o": "ring shadows"}
+{"s": "crowding of bronchial markings", "p": "suggests", "o": "chronic inflammation"}
+{"s": "crowding of bronchial markings", "p": "suggests", "o": "fibrosis"}
+{"s": "cardiogenic pulmonary edema", "p": "located_in", "o": "bat-wing pattern"}
+{"s": "dependent portion", "p": "located_in", "o": "pleural space"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "fluid"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_finding_of", "o": "chest radiograph"}
+{"s": "peripheral lung zones", "p": "is_finding_of", "o": "chest radiograph"}
+{"s": "peripheral lung zones", "p": "located_in", "o": "lung parenchyma"}
+{"s": "peripheral lung zones", "p": "located_in", "o": "lung tissue"}
+{"s": "pulmonary mass", "p": "is_finding_of", "o": "focal parenchymal lesion"}
+{"s": "pulmonary mass", "p": "is_finding_of", "o": "focal opacity"}
+{"s": "focal parenchymal lesion", "p": "is_finding_of", "o": "focal opacity"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "well-defined calcified nodules"}
+{"s": "well-defined calcified nodules", "p": "is_finding_of", "o": "healed granulomas"}
+{"s": "healed granulomas", "p": "is_finding_of", "o": "prior infection"}
+{"s": "prior infection", "p": "is_finding_of", "o": "tuberculosis or histoplasmosis exposure"}
+{"s": "tuberculosis or histoplasmosis exposure", "p": "is_finding_of", "o": "upper lobe predominance"}
+{"s": "upper lobe predominance", "p": "is_finding_of", "o": "calcified granulomas"}
+{"s": "calcified granulomas", "p": "is_finding_of", "o": "benign etiology"}
+{"s": "benign etiology", "p": "is_finding_of", "o": "calcified nodules"}
+{"s": "calcified nodules", "p": "is_finding_of", "o": "popcorn pattern"}
+{"s": "popcorn pattern", "p": "is_finding_of", "o": "irregular chunky calcification"}
+{"s": "calcified granulomas", "p": "is_finding_of", "o": "eggshell pattern"}
+{"s": "chest radiograph", "p": "confirmed_by", "o": "fluid collection"}
+{"s": "cardiac silhouette", "p": "located_in", "o": "chest"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "round or ovoid opacity"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "healed granulomas"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "masses"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "nodules"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "lesions"}
+{"s": "pulmonary nodule", "p": "strongly_suggests", "o": "bronchogenic carcinoma"}
+{"s": "pulmonary nodule", "p": "suggests", "o": "malignancy"}
+{"s": "pulmonary nodule", "p": "suggests", "o": "nodal metastasis"}
+{"s": "homogeneous opacity", "p": "is_symptom_of", "o": "effusion"}
+{"s": "cardiogenic pulmonary edema", "p": "located_in", "o": "perihilar infiltrates"}
+{"s": "severe degenerative disease", "p": "requires", "o": "bronchoscopy"}
+{"s": "calcification", "p": "is_finding_of", "o": "generalized degenerative processes"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "stability over time"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_symptom_of", "o": "peribronchial thickening"}
+{"s": "cardiothoracic ratio", "p": "suggests", "o": "pneumonia"}
+{"s": "cardiothoracic ratio", "p": "suggests", "o": "pneumothorax"}
+{"s": "cardiothoracic ratio", "p": "is_finding_of", "o": "consolidation"}
+{"s": "cardiothoracic ratio", "p": "is_finding_of", "o": "pleural effusion"}
+{"s": "cardiothoracic ratio", "p": "is_finding_of", "o": "pulmonary edema"}
+{"s": "cardiothoracic ratio", "p": "is_symptom_of", "o": "acute cardiopulmonary disease"}
+{"s": "cardiothoracic ratio", "p": "is_symptom_of", "o": "congestive heart failure"}
+{"s": "cardiothoracic ratio", "p": "is_symptom_of", "o": "pneumothorax"}
+{"s": "subchondral sclerosis", "p": "is_symptom_of", "o": "degenerative disease"}
+{"s": "calcification of costal cartilages", "p": "is_finding_of", "o": "degenerative changes"}
+{"s": "cardiothoracic ratio", "p": "is_finding_of", "o": "right ventricular enlargement"}
+{"s": "homogeneous opacity", "p": "is_symptom_of", "o": "fluid collection"}
+{"s": "fluid collection", "p": "is_symptom_of", "o": "effusion"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "fluid in pleural space"}
+{"s": "pericardial effusion", "p": "is_symptom_of", "o": "fluid in pericardial space"}
+{"s": "osseous structures", "p": "located_in", "o": "no acute fracture, degenerative changes, or lytic lesions"}
+{"s": "mediastinal contours", "p": "located_in", "o": "normal without widening or mass effect"}
+{"s": "consolidation", "p": "is_finding_of", "o": "homogeneous opacification with increased radiodensity"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_symptom_of", "o": "bronchiectasis"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_finding_of", "o": "thickened walls"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_finding_of", "o": "tram-track sign"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_finding_of", "o": "clustered ring shadows"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_finding_of", "o": "volume loss"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_finding_of", "o": "bullae"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_finding_of", "o": "thin-walled air-filled spaces"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_finding_of", "o": "avascular lucent areas"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_finding_of", "o": "linear lucencies"}
+{"s": "lung fields", "p": "located_in", "o": "right lower lobe"}
+{"s": "consolidation", "p": "is_symptom_of", "o": "aspiration"}
+{"s": "consolidation", "p": "is_symptom_of", "o": "pulmonary hemorrhage"}
+{"s": "consolidation", "p": "is_symptom_of", "o": "organizing pneumonia"}
+{"s": "pleural effusion", "p": "located_in", "o": "right hemithorax"}
+{"s": "pleural effusion", "p": "located_in", "o": "left hemithorax"}
+{"s": "diffusely increased bronchovascular markings", "p": "located_in", "o": "lung periphery"}
+{"s": "meniscus sign", "p": "located_in", "o": "chest wall curvature"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "fluid collection in thoracic cavity"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "homogeneous opacity"}
+{"s": "dilated bronchi", "p": "is_symptom_of", "o": "parallel linear opacities"}
+{"s": "cardiomegaly", "p": "is_symptom_of", "o": "pulmonary vascular redistribution"}
+{"s": "cardiomegaly", "p": "is_symptom_of", "o": "pleural effusion"}
+{"s": "cardiomegaly", "p": "is_symptom_of", "o": "pulmonary edema"}
+{"s": "cardiomegaly", "p": "located_in", "o": "left ventricle"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "age-related wear and tear"}
+{"s": "clear lung fields", "p": "is_finding_of", "o": "well-defined pulmonary vasculature"}
+{"s": "clear lung fields", "p": "located_in", "o": "lung periphery"}
+{"s": "focal consolidation", "p": "located_in", "o": "lower lobes"}
+{"s": "calcification of costal cartilages", "p": "is_symptom_of", "o": "associated calcification of costal cartilages and aortic atherosclerosis"}
+{"s": "aortic atherosclerosis", "p": "is_symptom_of", "o": "associated calcification of costal cartilages and aortic atherosclerosis"}
+{"s": "degenerative changes", "p": "is_symptom_of", "o": "degenerative changes remain stable over time"}
+{"s": "right ventricular enlargement", "p": "is_symptom_of", "o": "upward cardiac apex displacement"}
+{"s": "thoracic cavity", "p": "is_finding_of", "o": "concave upper border"}
+{"s": "pleural space", "p": "located_in", "o": "dependent portion of pleural space"}
+{"s": "pleural space", "p": "located_in", "o": "meniscus sign"}
+{"s": "cardiac silhouette", "p": "is_finding_of", "o": "globular configuration"}
+{"s": "cardiac silhouette", "p": "is_finding_of", "o": "sharp borders"}
+{"s": "posterior costophrenic angles", "p": "is_finding_of", "o": "blunting"}
+{"s": "hemithorax", "p": "is_finding_of", "o": "complete opacification"}
+{"s": "mediastinum", "p": "is_finding_of", "o": "mediastinal shift"}
+{"s": "mediastinum", "p": "located_in", "o": "affected side"}
+{"s": "bronchi", "p": "is_finding_of", "o": "dilated walls"}
+{"s": "emphysema", "p": "is_symptom_of", "o": "chronic productive cough"}
+{"s": "emphysema", "p": "is_symptom_of", "o": "recurrent respiratory infections"}
+{"s": "emphysema", "p": "is_symptom_of", "o": "hemoptysis"}
+{"s": "emphysema", "p": "is_finding_of", "o": "bullae"}
+{"s": "bullae", "p": "located_in", "o": "upper lobes"}
+{"s": "subcutaneous tissues", "p": "located_in", "o": "chest wall"}
+{"s": "cardiomegaly", "p": "located_in", "o": "right atrium"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "pulmonary vascular redistribution"}
+{"s": "pulmonary vascular redistribution", "p": "is_symptom_of", "o": "congestive heart failure"}
+{"s": "bronchiolar inflammation", "p": "is_symptom_of", "o": "bronchiolar impaction"}
+{"s": "bronchiolar impaction", "p": "is_symptom_of", "o": "mucus"}
+{"s": "bronchiolar impaction", "p": "is_symptom_of", "o": "pus"}
+{"s": "pleural effusion", "p": "located_in", "o": "lower lobes"}
+{"s": "pleural effusion", "p": "located_in", "o": "right lower lobe"}
+{"s": "right ventricular enlargement", "p": "suggests", "o": "cardiac apex displacement"}
+{"s": "cardiac apex displacement", "p": "located_in", "o": "cardiac apex"}
+{"s": "cardiac apex displacement", "p": "suggests", "o": "pulmonary hypertension"}
+{"s": "dilated bronchi", "p": "is_finding_of", "o": "thoracic cavity"}
+{"s": "cardiogenic pulmonary edema", "p": "is_symptom_of", "o": "vascular cephalization"}
+{"s": "pneumothorax", "p": "suggests", "o": "spontaneous secondary pneumothorax"}
+{"s": "prominent vascular markings", "p": "suggests", "o": "vascular congestion"}
+{"s": "peribronchial thickening", "p": "is_finding_of", "o": "increased bronchovascular markings"}
+{"s": "chronic infection or bronchiectasis", "p": "suggests", "o": "asymmetric distribution"}
+{"s": "patchy bilateral airspace opacities", "p": "suggests", "o": "alveolar filling process"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "focal opacity measuring 3 cm or greater in diameter"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "focal parenchymal lesion\u2014a general term encompassing any localized abnormality including masses, nodules, consolidations, and granulomas"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "focal opacity measuring less than 3 cm in diameter"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "round or ovoid opacity measuring less than 3 cm in diameter"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "well-defined calcified nodules scattered throughout both lung fields"}
+{"s": "pericardial effusion", "p": "is_finding_of", "o": "blunting of posterior costophrenic angles"}
+{"s": "pericardial effusion", "p": "is_finding_of", "o": "complete hemithorax opacification"}
+{"s": "pericardial effusion", "p": "is_finding_of", "o": "mediastinal shift away from affected side"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "thoracic cavity"}
+{"s": "chest radiograph", "p": "confirmed_by", "o": "thoracic cavity"}
+{"s": "pleural space", "p": "located_in", "o": "chest"}
+{"s": "pericardial space", "p": "located_in", "o": "chest"}
+{"s": "cardiac silhouette", "p": "is_finding_of", "o": "chest"}
+{"s": "dilated bronchi", "p": "is_finding_of", "o": "chest"}
+{"s": "cystic bronchiectasis", "p": "is_finding_of", "o": "chest"}
+{"s": "cystic bronchiectasis", "p": "is_finding_of", "o": "chest radiograph"}
+{"s": "crowding of bronchial markings", "p": "is_finding_of", "o": "chest radiograph"}
+{"s": "lower lung fields", "p": "located_in", "o": "lower lobes"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_finding_of", "o": "lower lung fields"}
+{"s": "peripheral lung zones", "p": "is_finding_of", "o": "lower lung fields"}
+{"s": "decubitus view", "p": "located_in", "o": "lateral chest wall"}
+{"s": "layering of fluid", "p": "located_in", "o": "lateral chest wall"}
+{"s": "cardiomegaly", "p": "requires", "o": "investigation for parapneumonic process, malignancy, or pulmonary embolism with infarction"}
+{"s": "cardiogenic pulmonary edema", "p": "is_symptom_of", "o": "peribronchial cuffing"}
+{"s": "cardiogenic pulmonary edema", "p": "is_symptom_of", "o": "indistinct vascular margins"}
+{"s": "cardiogenic pulmonary edema", "p": "is_symptom_of", "o": "interstitial fluid"}
+{"s": "cardiogenic pulmonary edema", "p": "is_symptom_of", "o": "edema"}
+{"s": "asymmetric distribution", "p": "is_finding_of", "o": "bronchiectasis"}
+{"s": "cardiomegaly", "p": "is_symptom_of", "o": "cardiac etiology"}
+{"s": "effusion", "p": "is_finding_of", "o": "fluid in pleural space or pericardial space"}
+{"s": "chronic productive cough", "p": "is_symptom_of", "o": "bronchiectasis"}
+{"s": "pulmonary vasculature", "p": "is_finding_of", "o": "well-defined pulmonary vasculature"}
+{"s": "symmetric bilateral increased markings", "p": "suggests", "o": "cardiac etiology"}
+{"s": "right ventricular enlargement", "p": "located_in", "o": "cardiac silhouette"}
+{"s": "pneumothorax", "p": "located_in", "o": "lateral hemithorax"}
+{"s": "pneumothorax", "p": "is_finding_of", "o": "deep sulcus sign"}
+{"s": "pneumothorax", "p": "is_symptom_of", "o": "mediastinal shift"}
+{"s": "severe degenerative disease", "p": "is_finding_of", "o": "nerve root compression"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "airway inflammation"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "consolidated region"}
+{"s": "calcification of costal cartilages", "p": "is_symptom_of", "o": "degenerative changes"}
+{"s": "peribronchial thickening", "p": "is_symptom_of", "o": "increased bronchovascular markings"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "thickened walls"}
+{"s": "air bronchograms", "p": "is_symptom_of", "o": "chronic productive cough"}
+{"s": "air bronchograms", "p": "is_symptom_of", "o": "recurrent respiratory infections"}
+{"s": "air bronchograms", "p": "is_symptom_of", "o": "hemoptysis"}
+{"s": "air bronchograms", "p": "located_in", "o": "thoracic cavity"}
+{"s": "air bronchograms", "p": "located_in", "o": "pleural space"}
+{"s": "air bronchograms", "p": "located_in", "o": "pericardial space"}
+{"s": "air bronchograms", "p": "contradicts", "o": "normal lung parenchyma"}
+{"s": "air bronchograms", "p": "requires", "o": "severe emphysema"}
+{"s": "air bronchograms", "p": "absence_weakens", "o": "normal lung function"}
+{"s": "air bronchograms", "p": "confirmed_by", "o": "chest radiograph"}
+{"s": "air bronchograms", "p": "confirmed_by", "o": "high-resolution CT"}
+{"s": "pulmonary edema", "p": "strongly_suggests", "o": "congestive heart failure"}
+{"s": "Kerley B lines", "p": "is_finding_of", "o": "interlobular septal thickening"}
+{"s": "Kerley B lines", "p": "is_finding_of", "o": "fluid accumulation"}
+{"s": "cardiomegaly", "p": "confirmed_by", "o": "pulmonary vascular redistribution"}
+{"s": "cardiomegaly", "p": "confirmed_by", "o": "pleural effusion"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "pneumonia"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "aspiration"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "pulmonary hemorrhage"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "organizing pneumonia"}
+{"s": "left mid-clavicular line", "p": "located_in", "o": "left ventricular enlargement"}
+{"s": "left mid-clavicular line", "p": "located_in", "o": "right atrial enlargement"}
+{"s": "left mid-clavicular line", "p": "located_in", "o": "cardiac apex"}
+{"s": "nerve root compression", "p": "requires", "o": "bronchoscopy"}
+{"s": "calcification", "p": "is_finding_of", "o": "lymph nodes"}
+{"s": "calcification", "p": "is_finding_of", "o": "vascular calcifications"}
+{"s": "calcification", "p": "is_finding_of", "o": "pleural plaques"}
+{"s": "calcification", "p": "is_finding_of", "o": "coronary artery calcification"}
+{"s": "left mid-clavicular line", "p": "is_finding_of", "o": "emboism"}
+{"s": "left mid-clavicular line", "p": "is_finding_of", "o": "chronic obstructive pulmonary disease"}
+{"s": "left mid-clavicular line", "p": "is_finding_of", "o": "left-to-right cardiac shunts"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "mobility"}
+{"s": "vascular congestion", "p": "is_finding_of", "o": "lung periphery"}
+{"s": "airway inflammation", "p": "is_finding_of", "o": "increased markings"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "increased markings"}
+{"s": "finding", "p": "suggests", "o": "aspiration"}
+{"s": "finding", "p": "suggests", "o": "pulmonary hemorrhage"}
+{"s": "finding", "p": "suggests", "o": "organizing pneumonia"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "calcification"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "chronic inflammation"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "necrosis"}
+{"s": "bronchovascular markings", "p": "is_finding_of", "o": "vascular congestion"}
+{"s": "pleural effusion", "p": "located_in", "o": "meniscus sign"}
+{"s": "pericardial effusion", "p": "located_in", "o": "globular configuration"}
+{"s": "pericardial effusion", "p": "located_in", "o": "sharp borders"}
+{"s": "peribronchial thickening", "p": "is_symptom_of", "o": "increased markings"}
+{"s": "vascular cephalization", "p": "is_finding_of", "o": "upper lobes"}
+{"s": "vascular cephalization", "p": "located_in", "o": "upper lobes"}
+{"s": "vascular cephalization", "p": "suggests", "o": "congestive heart failure"}
+{"s": "vascular cephalization", "p": "strongly_suggests", "o": "congestive heart failure"}
+{"s": "vascular cephalization", "p": "is_symptom_of", "o": "congestive heart failure"}
+{"s": "upper lobe vessels", "p": "is_finding_of", "o": "vascular cephalization"}
+{"s": "upper lobe vessels", "p": "located_in", "o": "upper lobes"}
+{"s": "upper lobe vessels", "p": "suggests", "o": "congestive heart failure"}
+{"s": "upper lobe vessels", "p": "strongly_suggests", "o": "congestive heart failure"}
+{"s": "upper lobe vessels", "p": "is_symptom_of", "o": "congestive heart failure"}
+{"s": "upper lobe vessels", "p": "is_symptom_of", "o": "pleural effusion"}
+{"s": "upper lobe vessels", "p": "is_symptom_of", "o": "pulmonary edema"}
+{"s": "calcification of aortic atherosclerosis", "p": "is_symptom_of", "o": "degenerative disease"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "joint arthropathy"}
+{"s": "degenerative changes", "p": "is_symptom_of", "o": "degenerative disease"}
+{"s": "vascular cephalization", "p": "suggests", "o": "left-to-right cardiac shunts"}
+{"s": "vascular cephalization", "p": "suggests", "o": "embolism"}
+{"s": "vascular cephalization", "p": "suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "right ventricular enlargement", "p": "located_in", "o": "chest"}
+{"s": "pericardial effusion", "p": "is_finding_of", "o": "enlarged cardiac silhouette"}
+{"s": "cardiomegaly", "p": "confirmed_by", "o": "pulmonary edema"}
+{"s": "costal cartilage calcification", "p": "is_finding_of", "o": "age-related wear and tear"}
+{"s": "age-related wear and tear", "p": "is_symptom_of", "o": "degenerative disease"}
+{"s": "degenerative disease", "p": "is_symptom_of", "o": "generalized degenerative processes"}
+{"s": "pulmonary nodule", "p": "is_finding_of", "o": "granulomas"}
+{"s": "pulmonary nodule", "p": "located_in", "o": "lower lobes"}
+{"s": "degenerative changes", "p": "is_symptom_of", "o": "subchondral sclerosis"}
+{"s": "degenerative changes", "p": "is_symptom_of", "o": "joint space narrowing"}
+{"s": "degenerative changes", "p": "is_symptom_of", "o": "foraminal stenosis"}
+{"s": "upper lobes", "p": "located_in", "o": "lung fields"}
+{"s": "upper lobes", "p": "located_in", "o": "both lung fields"}
+{"s": "upper lobes", "p": "located_in", "o": "bilateral lung fields"}
+{"s": "upper lobes", "p": "located_in", "o": "lung zones"}
+{"s": "upper lobes", "p": "located_in", "o": "all lung zones"}
+{"s": "upper lobes", "p": "located_in", "o": "lung periphery"}
+{"s": "upper lobes", "p": "located_in", "o": "lung bases"}
+{"s": "upper lobes", "p": "located_in", "o": "hemithorax"}
+{"s": "upper lobes", "p": "located_in", "o": "lateral hemithorax"}
+{"s": "upper lobes", "p": "located_in", "o": "chest wall"}
+{"s": "upper lobes", "p": "located_in", "o": "visceral pleural line"}
+{"s": "upper lobes", "p": "located_in", "o": "pleural space"}
+{"s": "upper lobes", "p": "located_in", "o": "hilum"}
+{"s": "vascular margins", "p": "located_in", "o": "lung periphery"}
+{"s": "vascular margins", "p": "is_finding_of", "o": "pulmonary vasculature"}
+{"s": "cardiothoracic ratio", "p": "requires", "o": "posteroanterior view"}
+{"s": "hemidiaphragms", "p": "is_finding_of", "o": "sharp and well-defined"}
+{"s": "trachea", "p": "is_finding_of", "o": "deviation"}
+{"s": "osseous structures", "p": "located_in", "o": "no acute fracture"}
+{"s": "mediastinal contours", "p": "located_in", "o": "normal"}
+{"s": "mediastinal contours", "p": "is_finding_of", "o": "widening"}
+{"s": "mediastinal contours", "p": "is_finding_of", "o": "mass effect"}
+{"s": "finding", "p": "is_finding_of", "o": "acute cardiopulmonary disease"}
+{"s": "finding", "p": "is_finding_of", "o": "pneumonia"}
+{"s": "finding", "p": "is_finding_of", "o": "congestive heart failure"}
+{"s": "finding", "p": "is_finding_of", "o": "pneumothorax"}
+{"s": "joint arthropathy", "p": "suggests", "o": "degenerative disease"}
+{"s": "joint arthropathy", "p": "is_finding_of", "o": "foraminal stenosis"}
+{"s": "cardiomegaly", "p": "located_in", "o": "pulmonary vascular redistribution"}
+{"s": "joint arthropathy", "p": "is_finding_of", "o": "elderly patients"}
+{"s": "calcification of costal cartilages", "p": "is_finding_of", "o": "associated calcification of costal cartilages"}
+{"s": "cystic bronchiectasis", "p": "is_finding_of", "o": "clustered ring shadows representing bronchial dilatation seen in cross-section"}
+{"s": "cardiomegaly", "p": "requires", "o": "investigation"}
+{"s": "pericardial effusion", "p": "located_in", "o": "pericardium"}
+{"s": "cardiomegaly", "p": "strongly_suggests", "o": "cardiac etiology"}
+{"s": "cardiogenic pulmonary edema", "p": "located_in", "o": "both lung fields"}
+{"s": "pulmonary hypertension", "p": "is_finding_of", "o": "upward cardiac apex displacement"}
+{"s": "cardiothoracic ratio", "p": "located_in", "o": "lung periphery"}
+{"s": "right ventricular enlargement", "p": "is_finding_of", "o": "emphysema"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "fluid-filled alveoli"}
+{"s": "pulmonary nodule", "p": "contradicts", "o": "benign granuloma"}
+{"s": "pulmonary nodule", "p": "requires", "o": "further characterization with CT imaging and clinical correlation"}
+{"s": "pulmonary nodule", "p": "absence_weakens", "o": "calcified granulomas"}
+{"s": "pulmonary nodule", "p": "confirmed_by", "o": "calcification patterns"}
+{"s": "pulmonary nodule", "p": "confirmed_by", "o": "CT imaging and clinical correlation"}
+{"s": "pleural effusion", "p": "confirmed_by", "o": "decubitus view"}
+{"s": "pleural effusion", "p": "located_in", "o": "hemithorax"}
+{"s": "cardiogenic pulmonary edema", "p": "located_in", "o": "hemithorax"}
+{"s": "cardiogenic pulmonary edema", "p": "located_in", "o": "lung fields"}
+{"s": "hemithorax", "p": "is_finding_of", "o": "effusion"}
+{"s": "hemithorax", "p": "located_in", "o": "thoracic cavity"}
+{"s": "pneumonia", "p": "strongly_suggests", "o": "right ventricular enlargement"}
+{"s": "pneumonia", "p": "strongly_suggests", "o": "upward cardiac apex displacement"}
+{"s": "tuberculosis", "p": "strongly_suggests", "o": "consolidation"}
+{"s": "tuberculosis", "p": "strongly_suggests", "o": "right ventricular enlargement"}
+{"s": "tuberculosis", "p": "strongly_suggests", "o": "upward cardiac apex displacement"}
+{"s": "calcified lesion", "p": "is_finding_of", "o": "well-defined calcified nodules"}
+{"s": "calcified lesion", "p": "is_finding_of", "o": "popcorn pattern"}
+{"s": "calcified lesion", "p": "is_finding_of", "o": "target pattern"}
+{"s": "calcified lesion", "p": "is_finding_of", "o": "eggshell pattern"}
+{"s": "calcified lesion", "p": "is_finding_of", "o": "calcified granulomas"}
+{"s": "calcified lesion", "p": "is_finding_of", "o": "calcified malignancies"}
+{"s": "calcified lesion", "p": "is_symptom_of", "o": "prior tuberculosis"}
+{"s": "calcified lesion", "p": "is_symptom_of", "o": "histoplasmosis exposure"}
+{"s": "calcified lesion", "p": "contradicts", "o": "calcified malignancies"}
+{"s": "calcified lesion", "p": "located_in", "o": "both lung fields"}
+{"s": "calcified lesion", "p": "located_in", "o": "upper lobe"}
+{"s": "calcified lesion", "p": "located_in", "o": "lung periphery"}
+{"s": "calcified lesion", "p": "located_in", "o": "lung bases"}
+{"s": "calcified lesion", "p": "located_in", "o": "lower lobes"}
+{"s": "calcified lesion", "p": "located_in", "o": "right lower lobe"}
+{"s": "calcified lesion", "p": "located_in", "o": "left lower lobe"}
+{"s": "calcified lesion", "p": "located_in", "o": "upper lobes"}
+{"s": "calcified lesion", "p": "located_in", "o": "lung fields"}
+{"s": "calcified lesion", "p": "located_in", "o": "lung zones"}
+{"s": "calcified lesion", "p": "located_in", "o": "all lung zones"}
+{"s": "calcified lesion", "p": "located_in", "o": "hemidiaphragm"}
+{"s": "calcified lesion", "p": "is_finding_of", "o": "bullae"}
+{"s": "bullae", "p": "is_finding_of", "o": "upper lobes"}
+{"s": "bullae", "p": "is_finding_of", "o": "subcutaneous air"}
+{"s": "subcutaneous air", "p": "is_finding_of", "o": "chest wall"}
+{"s": "subcutaneous air", "p": "is_finding_of", "o": "neck"}
+{"s": "subcutaneous air", "p": "is_finding_of", "o": "abdominal wall"}
+{"s": "diffuse bilateral peribronchiolar nodular opacities", "p": "is_finding_of", "o": "bronchiolar inflammation"}
+{"s": "diffuse bilateral peribronchiolar nodular opacities", "p": "is_finding_of", "o": "areas of patchy consolidation"}
+{"s": "diffuse bilateral peribronchiolar nodular opacities", "p": "is_finding_of", "o": "bronchiolar impaction"}
+{"s": "diffuse bilateral peribronchiolar nodular opacities", "p": "is_finding_of", "o": "mucus"}
+{"s": "diffuse bilateral peribronchiolar nodular opacities", "p": "is_finding_of", "o": "pus"}
+{"s": "diffuse bilateral peribronchiolar nodular opacities", "p": "is_finding_of", "o": "tree-in-bud appearance"}
+{"s": "diffuse bilateral peribronchiolar nodular opacities", "p": "is_finding_of", "o": "high-resolution CT"}
+{"s": "pleural effusion", "p": "located_in", "o": "decubitus view"}
+{"s": "degenerative disease", "p": "is_symptom_of", "o": "severe joint space narrowing"}
+{"s": "cardiac silhouette", "p": "located_in", "o": "thoracic cavity"}
+{"s": "affected side", "p": "is_finding_of", "o": "mediastinal shift"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "free-flowing pleural effusion"}
+{"s": "bilateral increased markings", "p": "is_finding_of", "o": "cardiac etiology"}
+{"s": "left-to-right cardiac shunts", "p": "is_finding_of", "o": "emphysema"}
+{"s": "pericardial effusion", "p": "is_finding_of", "o": "effusion"}
+{"s": "complete hemithorax opacification", "p": "is_symptom_of", "o": "large effusions"}
+{"s": "complete hemithorax opacification", "p": "is_symptom_of", "o": "mediastinal shift"}
+{"s": "consolidation", "p": "is_finding_of", "o": "predominantly the right lower lobe"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "pathognomonic for free-flowing pleural effusion"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "moderate to large effusions"}
+{"s": "cardiogenic pulmonary edema", "p": "is_symptom_of", "o": "pulmonary edema"}
+{"s": "pulmonary vasculature", "p": "is_finding_of", "o": "hila"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "patent airways surrounded by fluid-filled alveoli"}
+{"s": "silhouette sign", "p": "is_finding_of", "o": "loss of the hemidiaphragm border"}
+{"s": "calcification of costal cartilages", "p": "is_symptom_of", "o": "associated calcification of aortic atherosclerosis"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "diffusely increased bronchovascular markings"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "accentuation of peripheral lung zones"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "prominent vascular markings"}
+{"s": "degenerative changes", "p": "is_finding_of", "o": "peribronchial thickening"}
+{"s": "rib", "p": "is_finding_of", "o": "chronic obstructive pulmonary disease"}
+{"s": "rib", "p": "is_finding_of", "o": "left-to-right cardiac shunts"}
+{"s": "rib", "p": "is_finding_of", "o": "embolism"}
+{"s": "degenerative changes", "p": "is_symptom_of", "o": "age-related wear and tear"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_symptom_of", "o": "chronic congestive heart failure or interstitial edema"}
+{"s": "pleural effusion", "p": "confirmed_by", "o": "layering of fluid"}
+{"s": "degenerative changes", "p": "is_symptom_of", "o": "stable over time"}
+{"s": "pulmonary nodule", "p": "suggests", "o": "benign granuloma"}
+{"s": "pulmonary nodule", "p": "suggests", "o": "granuloma"}
+{"s": "pulmonary nodule", "p": "contradicts", "o": "calcified malignancies"}
+{"s": "pulmonary nodule", "p": "requires", "o": "further characterization"}
+{"s": "pulmonary nodule", "p": "requires", "o": "CT imaging"}
+{"s": "pulmonary nodule", "p": "requires", "o": "clinical correlation"}
+{"s": "pulmonary nodule", "p": "confirmed_by", "o": "chest radiograph"}
+{"s": "pleural effusion", "p": "located_in", "o": "thoracic cavity"}
+{"s": "pericardial effusion", "p": "located_in", "o": "thoracic cavity"}
+{"s": "dilated bronchi", "p": "is_finding_of", "o": "bronchi"}
+{"s": "bronchi", "p": "located_in", "o": "lung"}
+{"s": "bronchial dilatation", "p": "is_finding_of", "o": "bronchi"}
+{"s": "chronic inflammation", "p": "is_finding_of", "o": "lung"}
+{"s": "right ventricular enlargement", "p": "requires", "o": "chest radiograph"}
+{"s": "fluid collection in thoracic cavity", "p": "is_finding_of", "o": "concave upper border"}
+{"s": "fluid collection in thoracic cavity", "p": "is_finding_of", "o": "thoracic cavity"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_symptom_of", "o": "cardiomegaly"}
+{"s": "air bronchograms", "p": "suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "air bronchograms", "p": "suggests", "o": "left-to-right cardiac shunts"}
+{"s": "air bronchograms", "p": "suggests", "o": "embolism"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "fluid collection"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "homogeneous opacity"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "concave upper border"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "effusion"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "fluid in pleural space"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "fluid in pericardial space"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "pleural effusion"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "meniscus sign"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "pericardial effusion"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "cardiac silhouette"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "globular configuration"}
+{"s": "air bronchograms", "p": "is_finding_of", "o": "sharp borders"}
+{"s": "peripheral lung zones", "p": "is_finding_of", "o": "peribronchial thickening"}
+{"s": "bilateral perihilar infiltrates", "p": "located_in", "o": "lung bases"}
+{"s": "ground-glass", "p": "is_finding_of", "o": "bullae"}
+{"s": "ground-glass", "p": "is_symptom_of", "o": "chronic productive cough"}
+{"s": "ground-glass", "p": "is_symptom_of", "o": "recurrent respiratory infections"}
+{"s": "ground-glass", "p": "is_symptom_of", "o": "hemoptysis"}
+{"s": "ground-glass", "p": "is_finding_of", "o": "subcutaneous emphysema"}
+{"s": "ground-glass", "p": "is_finding_of", "o": "bronchiectasis"}
+{"s": "ground-glass", "p": "is_finding_of", "o": "chronic obstructive pulmonary disease"}
+{"s": "ground-glass", "p": "is_finding_of", "o": "left-to-right cardiac shunts"}
+{"s": "ground-glass", "p": "is_finding_of", "o": "pulmonary hypertension"}
+{"s": "ground-glass", "p": "is_finding_of", "o": "emphysema"}
+{"s": "ground-glass", "p": "is_finding_of", "o": "tuberculosis"}
+{"s": "ground-glass", "p": "is_finding_of", "o": "pneumonia"}
+{"s": "ground-glass", "p": "located_in", "o": "thoracic cavity"}
+{"s": "ground-glass", "p": "located_in", "o": "pleural space"}
+{"s": "ground-glass", "p": "located_in", "o": "pericardial space"}
+{"s": "meniscus sign", "p": "located_in", "o": "dependent portion of pleural space"}
+{"s": "bilateral perihilar infiltrates", "p": "is_symptom_of", "o": "cardiogenic pulmonary edema"}
+{"s": "Kerley B lines", "p": "is_symptom_of", "o": "interlobular septal thickening"}
+{"s": "vascular cephalization", "p": "is_symptom_of", "o": "redistribution of blood flow to upper lobes"}
+{"s": "peribronchial cuffing", "p": "is_symptom_of", "o": "interstitial fluid"}
+{"s": "calcification of aortic atherosclerosis", "p": "is_symptom_of", "o": "generalized degenerative processes"}
+{"s": "pulmonary nodule", "p": "located_in", "o": "solitary nodule"}
+{"s": "pulmonary nodule", "p": "located_in", "o": "focal opacity"}
+{"s": "pulmonary nodule", "p": "located_in", "o": "round or ovoid opacity"}
+{"s": "pulmonary nodule", "p": "located_in", "o": "focal parenchymal lesion"}
+{"s": "pulmonary nodule", "p": "weakly_suggests", "o": "bronchogenic carcinoma"}
+{"s": "pulmonary edema", "p": "located_in", "o": "lung bases"}
+{"s": "pulmonary edema", "p": "located_in", "o": "upper lobes"}
+{"s": "bronchi", "p": "located_in", "o": "thoracic cavity"}
+{"s": "bronchi", "p": "is_finding_of", "o": "homogeneous opacity"}
+{"s": "bronchi", "p": "is_finding_of", "o": "tram-track sign"}
+{"s": "bronchi", "p": "is_symptom_of", "o": "chronic productive cough"}
+{"s": "bronchi", "p": "is_symptom_of", "o": "recurrent respiratory infections"}
+{"s": "bronchi", "p": "is_symptom_of", "o": "hemoptysis"}
+{"s": "x-ray", "p": "confirmed_by", "o": "consolidation"}
+{"s": "x-ray", "p": "confirmed_by", "o": "pneumonia"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "homogeneous opacity"}
+{"s": "pneumothorax", "p": "is_finding_of", "o": "absence of Increased Lung Markings"}
+{"s": "parenchyma", "p": "located_in", "o": "thoracic cavity"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "homogeneous opacity"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "fluid collection"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "effusion"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "pleural space"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "pericardial space"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "fluid"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "opacity"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "blunting of posterior costophrenic angles"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "complete hemithorax opacification"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "mediastinal shift"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "dilated bronchi"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "thickened walls"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "tram-track sign"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "clustered ring shadows"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "bronchial dilatation"}
+{"s": "parenchyma", "p": "is_finding_of", "o": "crowding of bronchial markings"}
+{"s": "consolidation", "p": "located_in", "o": "predominantly the right lower lobe"}
+{"s": "blunting of the costophrenic angle", "p": "located_in", "o": "meniscus sign"}
+{"s": "blunting of the costophrenic angle", "p": "located_in", "o": "pathognomonic for free-flowing pleural effusion"}
+{"s": "layering of fluid", "p": "confirmed_by", "o": "decubitus view"}
+{"s": "cardiomegaly", "p": "strongly_suggests", "o": "congestive heart failure when accompanied by pulmonary vascular redistribution (cephalization"}
+{"s": "contours", "p": "located_in", "o": "thoracic cavity"}
+{"s": "contours", "p": "is_finding_of", "o": "homogeneous opacity"}
+{"s": "contours", "p": "is_finding_of", "o": "concave upper border"}
+{"s": "contours", "p": "is_finding_of", "o": "fluid collection"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "consolidation"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "pleural effusion"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "cardiomegaly"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "pulmonary edema"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "emphysema"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "fibrosis"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "interstitial lung disease"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "solitary pulmonary nodule"}
+{"s": "focal opacity", "p": "is_symptom_of", "o": "pneumonia"}
+{"s": "focal opacity", "p": "is_symptom_of", "o": "aspiration"}
+{"s": "focal opacity", "p": "is_symptom_of", "o": "pulmonary hemorrhage"}
+{"s": "focal opacity", "p": "is_symptom_of", "o": "organizing pneumonia"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "homogeneous opacity"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "fluid collection"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "effusion"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "pericardial effusion"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "dilated bronchi"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "cystic bronchiectasis"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "bronchiectasis"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "bullae"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "subcutaneous emphysema"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "diffuse bilateral peribronchiolar nodular opacities"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "bronchiolar inflammation"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "centrilobular nodules"}
+{"s": "focal opacity", "p": "is_finding_of", "o": "hyperinflation"}
+{"s": "focal opacity", "p": "located_in", "o": "thoracic cavity"}
+{"s": "cardiomegaly", "p": "requires", "o": "occupational history"}
+{"s": "cardiomegaly", "p": "suggests", "o": "chronic congestive heart failure"}
+{"s": "cardiomegaly", "p": "suggests", "o": "interstitial edema"}
+{"s": "bilateral increased markings", "p": "suggests", "o": "cardiac etiology"}
+{"s": "mass", "p": "is_finding_of", "o": "thoracic cavity"}
+{"s": "bronchial dilatation", "p": "is_finding_of", "o": "cross-section"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "pleural effusion"}
+{"s": "cystic bronchiectasis", "p": "is_finding_of", "o": "clustered ring shadows representing bronchial dilatation"}
+{"s": "joint space narrowing", "p": "strongly_suggests", "o": "degenerative disease"}
+{"s": "pulmonary nodule", "p": "is_symptom_of", "o": "malignancy"}
+{"s": "pulmonary nodule", "p": "confirmed_by", "o": "clinical correlation"}
+{"s": "upper lobe predominance", "p": "is_finding_of", "o": "prior tuberculosis or histoplasmosis exposure"}
+{"s": "pulmonary mass", "p": "is_symptom_of", "o": "fever and productive cough"}
+{"s": "fever and productive cough", "p": "is_symptom_of", "o": "infectious pneumonia"}
+{"s": "infectious pneumonia", "p": "is_symptom_of", "o": "aspiration, pulmonary hemorrhage, or organizing pneumonia"}
+{"s": "pulmonary mass", "p": "suggests", "o": "bronchogenic carcinoma"}
+{"s": "bronchogenic carcinoma", "p": "suggests", "o": "malignancy"}
+{"s": "peribronchial thickening", "p": "is_finding_of", "o": "chest radiograph"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "post-infectious bronchiectasis"}
+{"s": "post-infectious bronchiectasis", "p": "located_in", "o": "lower lobe"}
+{"s": "bullae", "p": "is_finding_of", "o": "severe emphysema"}
+{"s": "pulmonary edema", "p": "requires", "o": "bronchodilator therapy"}
+{"s": "bullous disease", "p": "is_finding_of", "o": "severe emphysema"}
+{"s": "paraseptal bullae", "p": "located_in", "o": "pleural surface or interlobar fissures"}
+{"s": "pulmonary fibrosis", "p": "is_finding_of", "o": "interstitial lung disease"}
+{"s": "pulmonary fibrosis", "p": "is_symptom_of", "o": "interstitial lung disease"}
+{"s": "pulmonary fibrosis", "p": "is_finding_of", "o": "usual interstitial pneumonia pattern"}
+{"s": "pulmonary fibrosis", "p": "is_symptom_of", "o": "usual interstitial pneumonia pattern"}
+{"s": "pulmonary fibrosis", "p": "is_finding_of", "o": "idiopathic pulmonary fibrosis"}
+{"s": "pulmonary fibrosis", "p": "is_symptom_of", "o": "idiopathic pulmonary fibrosis"}
+{"s": "pulmonary fibrosis", "p": "is_finding_of", "o": "sarcoidosis"}
+{"s": "pulmonary fibrosis", "p": "is_symptom_of", "o": "sarcoidosis"}
+{"s": "pulmonary fibrosis", "p": "is_finding_of", "o": "hypersensitivity pneumonitis"}
+{"s": "pulmonary fibrosis", "p": "is_symptom_of", "o": "hypersensitivity pneumonitis"}
+{"s": "pulmonary fibrosis", "p": "is_finding_of", "o": "drug-induced pneumonitis"}
+{"s": "pulmonary fibrosis", "p": "is_symptom_of", "o": "drug-induced pneumonitis"}
+{"s": "pulmonary fibrosis", "p": "is_finding_of", "o": "connective tissue disease"}
+{"s": "pulmonary fibrosis", "p": "is_symptom_of", "o": "connective tissue disease"}
+{"s": "pulmonary fibrosis", "p": "located_in", "o": "lung fields"}
+{"s": "pulmonary fibrosis", "p": "suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "left lower lobe"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "cardiac apex extending beyond the left mid-clavicular line"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "left ventricular enlargement"}
+{"s": "pulmonary nodule", "p": "located_in", "o": "lung fields"}
+{"s": "pulmonary nodule", "p": "contradicts", "o": "healed granulomas"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_finding_of", "o": "emboism"}
+{"s": "bullous disease", "p": "suggests", "o": "emphysema"}
+{"s": "emphysema", "p": "requires", "o": "bronchodilator therapy"}
+{"s": "emphysema", "p": "is_finding_of", "o": "hyperinflation"}
+{"s": "hyperinflation", "p": "located_in", "o": "lung fields"}
+{"s": "hyperinflation", "p": "suggests", "o": "decreased pulmonary perfusion"}
+{"s": "hyperinflation", "p": "is_symptom_of", "o": "air trapping"}
+{"s": "air trapping", "p": "located_in", "o": "lung fields"}
+{"s": "air trapping", "p": "suggests", "o": "flattened hemidiaphragms"}
+{"s": "air trapping", "p": "is_finding_of", "o": "increased retrosternal airspace"}
+{"s": "flat hemidiaphragms", "p": "located_in", "o": "mid-clavicular line"}
+{"s": "flat hemidiaphragms", "p": "suggests", "o": "air trapping"}
+{"s": "flat hemidiaphragms", "p": "is_finding_of", "o": "hyperinflation"}
+{"s": "hyperlucent lung fields", "p": "located_in", "o": "lung fields"}
+{"s": "hyperlucent lung fields", "p": "suggests", "o": "decreased pulmonary perfusion"}
+{"s": "bullous disease", "p": "strongly_suggests", "o": "progressive alveolar wall destruction"}
+{"s": "bullous disease", "p": "strongly_suggests", "o": "coalescence of air spaces"}
+{"s": "paraseptal bullae", "p": "located_in", "o": "interlobar fissures"}
+{"s": "paraseptal bullae", "p": "located_in", "o": "pleural surface"}
+{"s": "subcutaneous emphysema", "p": "is_finding_of", "o": "streaky pattern"}
+{"s": "subcutaneous emphysema", "p": "strongly_suggests", "o": "pneumothorax"}
+{"s": "subcutaneous emphysema", "p": "is_symptom_of", "o": "crepitus on palpation"}
+{"s": "cardiac silhouette", "p": "located_in", "o": "pericardial space"}
+{"s": "mediastinum", "p": "located_in", "o": "chest radiograph"}
+{"s": "affected side", "p": "located_in", "o": "chest radiograph"}
+{"s": "parallel linear opacities", "p": "is_finding_of", "o": "bronchi"}
+{"s": "ring shadows", "p": "is_finding_of", "o": "bronchial dilatation"}
+{"s": "ring shadows", "p": "is_finding_of", "o": "cross-section"}
+{"s": "diffuse parenchymal destruction", "p": "is_finding_of", "o": "alveolar wall destruction"}
+{"s": "large bullae", "p": "is_finding_of", "o": "avascular lucent areas"}
+{"s": "flattened hemidiaphragms", "p": "is_finding_of", "o": "chronic air trapping"}
+{"s": "increased anteroposterior diameter", "p": "is_finding_of", "o": "barrel-chest appearance"}
+{"s": "hyperlucent lung fields", "p": "is_finding_of", "o": "decreased pulmonary perfusion"}
+{"s": "diaphragmatic domes", "p": "is_finding_of", "o": "flattened convex shape"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "honeycombing pattern"}
+{"s": "architectural distortion", "p": "is_finding_of", "o": "volume loss"}
+{"s": "traction bronchiectasis", "p": "is_finding_of", "o": "chronic scarring"}
+{"s": "subpleural reticulation", "p": "is_finding_of", "o": "peripheral distribution"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "is_finding_of", "o": "interstitial lung disease"}
+{"s": "peribronchovascular thickening", "p": "is_finding_of", "o": "interstitial involvement"}
+{"s": "solitary pulmonary nodule", "p": "is_finding_of", "o": "smooth or slightly lobulated margins"}
+{"s": "bullae", "p": "located_in", "o": "lung volume"}
+{"s": "bullous disease", "p": "located_in", "o": "lung"}
+{"s": "subcutaneous air", "p": "located_in", "o": "soft tissues of chest wall"}
+{"s": "subcutaneous air", "p": "located_in", "o": "neck"}
+{"s": "centrilobular nodules", "p": "is_finding_of", "o": "bronchiolar impaction"}
+{"s": "centrilobular nodules", "p": "located_in", "o": "small airways"}
+{"s": "centrilobular nodules", "p": "located_in", "o": "lung"}
+{"s": "diffuse bilateral peribronchiolar nodular opacities", "p": "located_in", "o": "lung"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_finding_of", "o": "cardiomegaly"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_finding_of", "o": "interstitial edema"}
+{"s": "patchy bilateral airspace opacities", "p": "is_finding_of", "o": "airspace disease"}
+{"s": "confluent areas of consolidation", "p": "is_finding_of", "o": "bronchopneumonia pattern"}
+{"s": "cardiomegaly", "p": "located_in", "o": "chest wall"}
+{"s": "diffusely increased bronchovascular markings", "p": "located_in", "o": "both lung fields"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "clustered cystic airspaces with thick walls"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "lower lobes"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "fibrotic regions"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "traction bronchiectasis"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "chronic scarring"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "irreversible lung damage"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "subpleural reticulation"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "peripheral distribution"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "usual interstitial pneumonia pattern"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "idiopathic pulmonary fibrosis"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "connective tissue disease"}
+{"s": "bilateral reticular opacities", "p": "is_finding_of", "o": "chronic hypersensitivity pneumonitis"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "bilateral reticular opacities"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "honeycombing pattern"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "clustered cystic airspaces"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "thick walls"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "3-10 mm"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "lower lobes"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "architectural distortion"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "volume loss"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "elevation of hemidiaphragms"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "crowding of ribs"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "traction bronchiectasis"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "dilated bronchi"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "fibrotic regions"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "chronic scarring"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "irreversible lung damage"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "subpleural reticulation"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "peripheral distribution"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "post-infectious bronchiectasis"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "severe emphysema"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "paraseptal bullae"}
+{"s": "honeycombing", "p": "is_finding_of", "o": "subcutaneous emphysema"}
+{"s": "bronchovascular markings", "p": "located_in", "o": "lung fields"}
+{"s": "bronchovascular markings", "p": "located_in", "o": "peripheral lung zones"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "peribronchial thickening"}
+{"s": "heart", "p": "located_in", "o": "thoracic cavity"}
+{"s": "chest", "p": "located_in", "o": "body"}
+{"s": "body", "p": "located_in", "o": "human"}
+{"s": "cardiomegaly", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "cardiomegaly", "p": "is_symptom_of", "o": "pulmonary hypertension"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "upward cardiac apex displacement"}
+{"s": "cardiomegaly", "p": "is_finding_of", "o": "fluid collection"}
+{"s": "calcification of costal cartilages", "p": "strongly_suggests", "o": "generalized degenerative processes"}
+{"s": "aortic atherosclerosis", "p": "strongly_suggests", "o": "generalized degenerative processes"}
+{"s": "lower lobe predominance", "p": "is_symptom_of", "o": "severe pneumonia"}
+{"s": "severe pneumonia", "p": "is_finding_of", "o": "bullae"}
+{"s": "severe emphysema", "p": "is_finding_of", "o": "paraseptal bullae"}
+{"s": "subcutaneous air", "p": "is_finding_of", "o": "soft tissues of chest wall"}
+{"s": "pulmonary edema", "p": "is_finding_of", "o": "bat-wing pattern"}
+{"s": "pulmonary edema", "p": "is_finding_of", "o": "Kerley B lines"}
+{"s": "pulmonary edema", "p": "is_finding_of", "o": "vascular cephalization"}
+{"s": "pulmonary edema", "p": "is_finding_of", "o": "peribronchial cuffing"}
+{"s": "pulmonary edema", "p": "is_finding_of", "o": "indistinct vascular margins"}
+{"s": "pulmonary edema", "p": "located_in", "o": "lower lobes"}
+{"s": "effusion", "p": "is_finding_of", "o": "pleural space"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "chronic obstructive pulmonary disease"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "left-to-right cardiac shunts"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "embolism"}
+{"s": "right ventricular enlargement", "p": "is_finding_of", "o": "right ventricular enlargement with upward cardiac apex displacement"}
+{"s": "fluid collection", "p": "is_symptom_of", "o": "homogeneous opacity with concave upper border"}
+{"s": "fluid collection", "p": "is_symptom_of", "o": "thoracic cavity"}
+{"s": "pericardial effusion", "p": "is_symptom_of", "o": "cardiac silhouette with globular configuration and sharp borders"}
+{"s": "diffusely increased bronchovascular markings", "p": "is_symptom_of", "o": "prominent vascular markings"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_symptom_of", "o": "emphysema"}
+{"s": "left-to-right cardiac shunts", "p": "is_symptom_of", "o": "emphysema"}
+{"s": "embolism", "p": "is_finding_of", "o": "emphysema"}
+{"s": "embolism", "p": "is_symptom_of", "o": "emphysema"}
+{"s": "right ventricular enlargement", "p": "is_symptom_of", "o": "emphysema"}
+{"s": "homogeneous opacity", "p": "located_in", "o": "chest"}
+{"s": "fluid collection", "p": "is_finding_of", "o": "emphysema"}
+{"s": "fluid collection", "p": "is_symptom_of", "o": "emphysema"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "emphysema"}
+{"s": "pleural effusion", "p": "is_symptom_of", "o": "emphysema"}
+{"s": "cardiac apex displacement", "p": "is_finding_of", "o": "upward cardiac apex displacement"}
+{"s": "cardiomegaly", "p": "located_in", "o": "maximum transverse cardiac diameter"}
+{"s": "cardiomegaly", "p": "located_in", "o": "maximum internal thoracic diameter"}
+{"s": "vascular congestion", "p": "is_finding_of", "o": "vascular markings"}
+{"s": "aortic atherosclerosis", "p": "is_symptom_of", "o": "associated calcification of costal cartilages"}
+{"s": "airspace opacities", "p": "is_finding_of", "o": "alveolar filling process"}
+{"s": "consolidation", "p": "is_finding_of", "o": "airspace disease"}
+{"s": "nodule", "p": "is_finding_of", "o": "bullae"}
+{"s": "nodule", "p": "is_finding_of", "o": "bronchiectasis"}
+{"s": "nodule", "p": "is_finding_of", "o": "emphysema"}
+{"s": "chronic obstructive pulmonary disease", "p": "is_finding_of", "o": "bronchiectasis"}
+{"s": "emphysema", "p": "is_finding_of", "o": "bronchiectasis"}
+{"s": "joint space narrowing", "p": "is_symptom_of", "o": "elderly patients"}
+{"s": "subchondral sclerosis", "p": "is_symptom_of", "o": "elderly patients"}
+{"s": "mass", "p": "is_finding_of", "o": "effusion"}
+{"s": "mass", "p": "is_finding_of", "o": "bullae"}
+{"s": "mass", "p": "located_in", "o": "thoracic cavity"}
+{"s": "pleural effusion", "p": "is_finding_of", "o": "effusion"}
+{"s": "vascular congestion", "p": "suggests", "o": "vascular markings"}
+{"s": "cardiac etiology", "p": "suggests", "o": "vascular congestion"}
+{"s": "cardiac etiology", "p": "suggests", "o": "airway inflammation"}
+{"s": "alveolar filling process", "p": "suggests", "o": "airspace disease"}
+{"s": "alveolar filling process", "p": "suggests", "o": "interstitial disease"}
+{"s": "right ventricle", "p": "located_in", "o": "heart"}
+{"s": "meniscus sign", "p": "is_finding_of", "o": "dependent portion of pleural space"}
+{"s": "pulmonary mass", "p": "located_in", "o": "lung field"}
+{"s": "pulmonary mass", "p": "is_finding_of", "o": "consolidation"}
+{"s": "consolidation", "p": "located_in", "o": "lower lobe"}
+{"s": "pericardial effusion", "p": "requires", "o": "fluid in pericardial space"}
+{"s": "pleural effusion", "p": "strongly_suggests", "o": "fluid in pleural space"}
+{"s": "pleural effusion", "p": "strongly_suggests", "o": "pericardial space"}
+{"s": "pericardial effusion", "p": "strongly_suggests", "o": "fluid in pericardial space"}
+{"s": "pleural effusion", "p": "contradicts", "o": "absence of fluid in pleural space"}
+{"s": "mass", "p": "is_finding_of", "o": "focal parenchymal lesion"}
+{"s": "mass", "p": "is_finding_of", "o": "focal opacity"}
+{"s": "mass", "p": "located_in", "o": "lung fields"}
+{"s": "mass", "p": "suggests", "o": "bronchogenic carcinoma"}
+{"s": "multiple consecutive Rib Fracture", "p": "requires", "o": "bronchoscopy"}
+{"s": "abnormal cardiac silhouette", "p": "requires", "o": "echocardiography"}
+{"s": "boot-shaped heart", "p": "suggests", "o": "tetralogy of Fallot"}
+{"s": "straightening of left heart border", "p": "suggests", "o": "left atrial enlargement"}
+{"s": "pulmonary artery enlargement", "p": "suggests", "o": "pulmonary hypertension"}
+{"s": "pleural_effusion", "p": "located_in", "o": "pleural space"}
+{"s": "pericardial_effusion", "p": "located_in", "o": "pericardial space"}
+{"s": "pleural_effusion", "p": "located_in", "o": "dependent portion of pleural space"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "calcifications"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "calcified nodules"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "granulomas"}
+{"s": "calcified granuloma", "p": "located_in", "o": "lung fields"}
+{"s": "calcified granuloma", "p": "strongly_suggests", "o": "benign etiology"}
+{"s": "calcified granuloma", "p": "strongly_suggests", "o": "granulomatous disease"}
+{"s": "calcified granuloma", "p": "strongly_suggests", "o": "benign granuloma"}
+{"s": "calcified granuloma", "p": "strongly_suggests", "o": "granuloma"}
+{"s": "calcified granuloma", "p": "contradicts", "o": "malignancy"}
+{"s": "calcified granuloma", "p": "contradicts", "o": "calcification patterns"}
+{"s": "foraminal stenosis", "p": "suggests", "o": "nerve root compression"}
+{"s": "calcification of costal cartilages", "p": "suggests", "o": "aortic atherosclerosis"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "bullae"}
+{"s": "calcified granuloma", "p": "is_symptom_of", "o": "chronic productive cough"}
+{"s": "calcified granuloma", "p": "is_symptom_of", "o": "recurrent respiratory infections"}
+{"s": "calcified granuloma", "p": "is_symptom_of", "o": "hemoptysis"}
+{"s": "calcified granuloma", "p": "located_in", "o": "upper lobes"}
+{"s": "calcified granuloma", "p": "located_in", "o": "lower lobe"}
+{"s": "calcified granuloma", "p": "strongly_suggests", "o": "post-infectious bronchiectasis"}
+{"s": "calcified granuloma", "p": "strongly_suggests", "o": "severe pneumonia"}
+{"s": "calcified granuloma", "p": "strongly_suggests", "o": "tuberculosis"}
+{"s": "calcified granuloma", "p": "contradicts", "o": "emphysema"}
+{"s": "calcified granuloma", "p": "contradicts", "o": "pneumothorax"}
+{"s": "calcified granuloma", "p": "requires", "o": "chest radiograph"}
+{"s": "calcified granuloma", "p": "confirmed_by", "o": "chest radiograph"}
+{"s": "calcified granuloma", "p": "is_finding_of", "o": "subcutaneous emphysema"}
+{"s": "calcified granuloma", "p": "is_symptom_of", "o": "crepitus"}
+{"s": "calcified granuloma", "p": "is_symptom_of", "o": "bronchiolar inflammation"}
+{"s": "calcified granuloma", "p": "is_symptom_of", "o": "bronchiolar impaction"}
+{"s": "cardiomegaly", "p": "requires", "o": "investigation for cardiogenic etiology"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "is_finding_of", "o": "interstitial involvement"}
+{"s": "solitary pulmonary nodule", "p": "is_finding_of", "o": "round or ovoid opacity"}
+{"s": "Airspace Disease", "p": "suggests", "o": "infectious pneumonia"}
+{"s": "Airspace Disease", "p": "suggests", "o": "pulmonary edema"}
+{"s": "Airspace Disease", "p": "suggests", "o": "pulmonary hemorrhage"}
+{"s": "Airspace Disease", "p": "suggests", "o": "aspiration"}
+{"s": "Airspace Disease", "p": "located_in", "o": "lung fields"}
+{"s": "Bronchiectasis", "p": "suggests", "o": "post-infectious bronchiectasis"}
+{"s": "Bronchiectasis", "p": "suggests", "o": "cystic fibrosis"}
+{"s": "Bronchiectasis", "p": "located_in", "o": "lower lobes"}
+{"s": "Bullous Disease", "p": "suggests", "o": "spontaneous pneumothorax"}
+{"s": "Calcified Granuloma", "p": "suggests", "o": "prior tuberculosis"}
+{"s": "Calcified Granuloma", "p": "suggests", "o": "histoplasmosis"}
+{"s": "Calcified Granuloma", "p": "suggests", "o": "healed granulomatous infection"}
+{"s": "Calcified Granuloma", "p": "located_in", "o": "upper lobe"}
+{"s": "Calcified Granuloma", "p": "located_in", "o": "hilar lymph nodes"}
+{"s": "Cardiomegaly", "p": "requires", "o": "echocardiography"}
+{"s": "Edema", "p": "suggests", "o": "congestive heart failure"}
+{"s": "Edema", "p": "suggests", "o": "fluid overload"}
+{"s": "Edema", "p": "suggests", "o": "renal failure"}
+{"s": "Edema", "p": "located_in", "o": "lung bases"}
+{"s": "Emphysema", "p": "located_in", "o": "upper lobes"}
+{"s": "Emphysema", "p": "suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "Emphysema", "p": "suggests", "o": "alpha-1 antitrypsin deficiency"}
+{"s": "Mass", "p": "suggests", "o": "primary lung cancer"}
+{"s": "Mass", "p": "suggests", "o": "lymphoma"}
+{"s": "Mass", "p": "suggests", "o": "metastasis"}
+{"s": "Mass", "p": "requires", "o": "biopsy"}
+{"s": "Mass", "p": "requires", "o": "CT imaging for confirmation"}
+{"s": "Pleural Effusion", "p": "suggests", "o": "malignancy"}
+{"s": "Pleural Effusion", "p": "suggests", "o": "parapneumonic process"}
+{"s": "Pleural Effusion", "p": "requires", "o": "investigation for underlying cause"}
+{"s": "Pneumothorax", "p": "suggests", "o": "tension pneumothorax"}
+{"s": "Pneumothorax", "p": "suggests", "o": "spontaneous pneumothorax"}
+{"s": "Pneumothorax", "p": "suggests", "o": "traumatic pneumothorax"}
+{"s": "Pneumothorax", "p": "requires", "o": "emergency decompression"}
+{"s": "clear lung fields", "p": "located_in", "o": "lung fields"}
+{"s": "clear lung fields", "p": "contradicts", "o": "acute cardiopulmonary disease"}
+{"s": "clear lung fields", "p": "contradicts", "o": "pneumonia"}
+{"s": "clear lung fields", "p": "contradicts", "o": "congestive heart failure"}
+{"s": "clear lung fields", "p": "contradicts", "o": "pneumothorax"}
+{"s": "focal consolidation", "p": "located_in", "o": "right lower lobe"}
+{"s": "focal consolidation", "p": "suggests", "o": "infectious pneumonia"}
+{"s": "focal consolidation", "p": "suggests", "o": "aspiration"}
+{"s": "focal consolidation", "p": "suggests", "o": "pulmonary hemorrhage"}
+{"s": "focal consolidation", "p": "suggests", "o": "organizing pneumonia"}
+{"s": "blunting of the costophrenic angle", "p": "located_in", "o": "chest wall"}
+{"s": "chronic congestive heart failure", "p": "suggests", "o": "cardiomegaly"}
+{"s": "interstitial edema", "p": "suggests", "o": "cardiomegaly"}
+{"s": "right ventricular enlargement", "p": "requires", "o": "cardiac apex displacement"}
+{"s": "cardiothoracic ratio", "p": "located_in", "o": "thoracic spine"}
+{"s": "cardiothoracic ratio", "p": "strongly_suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "cardiothoracic ratio", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "hemidiaphragms", "p": "located_in", "o": "thoracic cavity"}
+{"s": "hemidiaphragms", "p": "located_in", "o": "pleural space"}
+{"s": "costophrenic angles", "p": "located_in", "o": "lateral chest wall"}
+{"s": "morgagni hernia", "p": "located_in", "o": "right cardiophrenic angle"}
+{"s": "bochdalek hernia", "p": "located_in", "o": "posterior diaphragm"}
+{"s": "hiatal hernia", "p": "located_in", "o": "retrocardiac region"}
+{"s": "chest radiograph", "p": "confirmed_by", "o": "vascular congestion"}
+{"s": "chest radiograph", "p": "confirmed_by", "o": "peribronchial thickening"}
+{"s": "pleural effusion", "p": "suggests", "o": "malignancy"}
+{"s": "pleural effusion", "p": "suggests", "o": "pulmonary embolism"}
+{"s": "pneumothorax", "p": "located_in", "o": "right hemithorax"}
+{"s": "pneumothorax", "p": "suggests", "o": "emphysema"}
+{"s": "osseous structures", "p": "located_in", "o": "elderly patients"}
+{"s": "osseous structures", "p": "suggests", "o": "age-related wear and tear"}
+{"s": "osseous structures", "p": "contradicts", "o": "acute fractures"}
+{"s": "osseous structures", "p": "contradicts", "o": "infectious spondylitis"}
+{"s": "osseous structures", "p": "located_in", "o": "thoracic cavity"}
+{"s": "osseous structures", "p": "located_in", "o": "chest wall"}
+{"s": "osseous structures", "p": "located_in", "o": "neck"}
+{"s": "osseous structures", "p": "located_in", "o": "abdominal wall"}
+{"s": "osseous structures", "p": "located_in", "o": "face"}
+{"s": "cardiomegaly", "p": "requires", "o": "investigation for infarction"}
+{"s": "hemidiaphragm border", "p": "suggests", "o": "chronic inflammation and fibrosis"}
+{"s": "hemidiaphragm border", "p": "suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "hemidiaphragm border", "p": "suggests", "o": "left-to-right cardiac shunts"}
+{"s": "hemidiaphragm border", "p": "suggests", "o": "post-infectious bronchiectasis"}
+{"s": "hemidiaphragm border", "p": "suggests", "o": "pneumonia"}
+{"s": "hemidiaphragm border", "p": "suggests", "o": "tuberculosis"}
+{"s": "hemidiaphragm border", "p": "located_in", "o": "thoracic cavity"}
+{"s": "hemidiaphragm border", "p": "located_in", "o": "pleural space"}
+{"s": "hemidiaphragm border", "p": "located_in", "o": "pericardial space"}
+{"s": "right ventricular enlargement", "p": "located_in", "o": "right lobe"}
+{"s": "pulmonary hypertension", "p": "located_in", "o": "right lobe"}
+{"s": "right lower lobe", "p": "located_in", "o": "thoracic cavity"}
+{"s": "pleural effusion", "p": "contradicts", "o": "acute cardiopulmonary disease"}
+{"s": "pleural effusion", "p": "contradicts", "o": "pneumonia"}
+{"s": "pleural effusion", "p": "contradicts", "o": "pneumothorax"}
+{"s": "pleural effusion", "p": "confirmed_by", "o": "chest radiograph"}
+{"s": "pleural effusion", "p": "located_in", "o": "anteroposterior diameter"}
+{"s": "pleural effusion", "p": "located_in", "o": "lateral view"}
+{"s": "osteoporosis", "p": "requires", "o": "mechanical support"}
+{"s": "osteoporosis", "p": "requires", "o": "bronchoscopy"}
+{"s": "osteoporosis", "p": "requires", "o": "abdominal imaging"}
+{"s": "osteoporosis", "p": "requires", "o": "echocardiography"}
+{"s": "pleural_effusion", "p": "located_in", "o": "thoracic cavity"}
+{"s": "diaphragmatic hernia", "p": "located_in", "o": "thoracic spine"}
+{"s": "lower lobe predominance", "p": "suggests", "o": "post-infectious bronchiectasis"}
+{"s": "decubitus view", "p": "strongly_suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "decubitus view", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "fluid", "p": "located_in", "o": "lung periphery"}
+{"s": "fluid", "p": "located_in", "o": "alveoli"}
+{"s": "fluid", "p": "located_in", "o": "pleural space"}
+{"s": "fluid", "p": "located_in", "o": "pericardial space"}
+{"s": "cardiogenic pulmonary edema", "p": "confirmed_by", "o": "cardiomegaly"}
+{"s": "cardiogenic pulmonary edema", "p": "confirmed_by", "o": "pleural effusion"}
+{"s": "dataset cases", "p": "strongly_suggests", "o": "cardiomegaly"}
+{"s": "cardiomegaly", "p": "suggests", "o": "cardiac etiology"}
+{"s": "cardiac etiology", "p": "suggests", "o": "chronic infection"}
+{"s": "cardiac etiology", "p": "suggests", "o": "bronchiectasis"}
+{"s": "cardiac etiology", "p": "suggests", "o": "asymmetric distribution"}
+{"s": "airspace disease", "p": "suggests", "o": "infectious pneumonia"}
+{"s": "airspace disease", "p": "suggests", "o": "aspiration"}
+{"s": "airspace disease", "p": "suggests", "o": "pulmonary hemorrhage"}
+{"s": "airspace disease", "p": "suggests", "o": "acute respiratory distress syndrome"}
+{"s": "airspace disease", "p": "suggests", "o": "aggressive infection"}
+{"s": "airspace disease", "p": "suggests", "o": "noncardiogenic pulmonary edema"}
+{"s": "volume loss", "p": "located_in", "o": "lung"}
+{"s": "volume loss", "p": "located_in", "o": "hemidiaphragm"}
+{"s": "volume loss", "p": "located_in", "o": "mediastinal shift"}
+{"s": "volume loss", "p": "requires", "o": "bronchoscopy"}
+{"s": "fibrosis", "p": "located_in", "o": "volume loss"}
+{"s": "fibrosis", "p": "located_in", "o": "lung"}
+{"s": "fibrosis", "p": "located_in", "o": "thoracic volume"}
+{"s": "obstructive atelectasis", "p": "requires", "o": "bronchoscopy"}
+{"s": "right heart border", "p": "strongly_suggests", "o": "congestive heart failure"}
+{"s": "right heart border", "p": "located_in", "o": "right atrium"}
+{"s": "right ventricular enlargement", "p": "located_in", "o": "right heart border"}
+{"s": "right ventricular enlargement", "p": "suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "right ventricular enlargement", "p": "suggests", "o": "left-to-right cardiac shunts"}
+{"s": "left ventricle", "p": "located_in", "o": "chest"}
+{"s": "left ventricle", "p": "located_in", "o": "heart"}
+{"s": "left ventricle", "p": "located_in", "o": "thoracic cavity"}
+{"s": "left ventricle", "p": "located_in", "o": "chest radiograph"}
+{"s": "left ventricle", "p": "located_in", "o": "cardiothoracic ratio"}
+{"s": "left ventricle", "p": "located_in", "o": "cardiac silhouette"}
+{"s": "left ventricle", "p": "located_in", "o": "left mid-clavicular line"}
+{"s": "left ventricle", "p": "located_in", "o": "left heart border"}
+{"s": "left ventricle", "p": "located_in", "o": "cardiac apex"}
+{"s": "left ventricle", "p": "located_in", "o": "left ventricular enlargement"}
+{"s": "left ventricle", "p": "strongly_suggests", "o": "congestive heart failure"}
+{"s": "left ventricle", "p": "strongly_suggests", "o": "pulmonary vascular redistribution"}
+{"s": "left ventricle", "p": "strongly_suggests", "o": "pleural effusion"}
+{"s": "left ventricle", "p": "strongly_suggests", "o": "pulmonary edema"}
+{"s": "left ventricle", "p": "suggests", "o": "congestive heart failure"}
+{"s": "left ventricle", "p": "suggests", "o": "pulmonary vascular redistribution"}
+{"s": "left ventricle", "p": "suggests", "o": "pleural effusion"}
+{"s": "left ventricle", "p": "suggests", "o": "pulmonary edema"}
+{"s": "joint space narrowing", "p": "located_in", "o": "subchondral sclerosis"}
+{"s": "calcification of costal cartilages", "p": "located_in", "o": "generalized degenerative processes"}
+{"s": "aortic atherosclerosis", "p": "located_in", "o": "generalized degenerative processes"}
+{"s": "right ventricle", "p": "located_in", "o": "thoracic cavity"}
+{"s": "right atrium", "p": "located_in", "o": "right lower lobe"}
+{"s": "right atrium", "p": "located_in", "o": "left lower lobe"}
+{"s": "right atrium", "p": "located_in", "o": "left upper lobe"}
+{"s": "right atrium", "p": "located_in", "o": "right upper lobe"}
+{"s": "consolidation", "p": "located_in", "o": "left lower lobe"}
+{"s": "consolidation", "p": "located_in", "o": "left upper lobe"}
+{"s": "consolidation", "p": "located_in", "o": "right upper lobe"}
+{"s": "pleural effusion", "p": "located_in", "o": "left lower lobe"}
+{"s": "pleural effusion", "p": "located_in", "o": "left upper lobe"}
+{"s": "pleural effusion", "p": "located_in", "o": "right upper lobe"}
+{"s": "pleural effusion", "p": "requires", "o": "pulmonary embolism"}
+{"s": "right atrium", "p": "located_in", "o": "thoracic cavity"}
+{"s": "pulmonary edema", "p": "located_in", "o": "bilateral perihilar infiltrates"}
+{"s": "pulmonary edema", "p": "contradicts", "o": "pneumothorax"}
+{"s": "pulmonary edema", "p": "requires", "o": "investigation for parapneumonic process"}
+{"s": "pulmonary edema", "p": "requires", "o": "investigation for malignancy"}
+{"s": "pulmonary edema", "p": "requires", "o": "investigation for pulmonary embolism"}
+{"s": "pulmonary edema", "p": "confirmed_by", "o": "pleural effusion"}
+{"s": "pulmonary edema", "p": "absence_weakens", "o": "tension pneumothorax"}
+{"s": "indistinct vascular margins", "p": "strongly_suggests", "o": "vascular congestion"}
+{"s": "increased bronchovascular markings", "p": "located_in", "o": "lung periphery"}
+{"s": "consolidation", "p": "suggests", "o": "bronchopneumonia pattern"}
+{"s": "consolidation", "p": "suggests", "o": "airspace disease"}
+{"s": "consolidation", "p": "suggests", "o": "alveolar filling process"}
+{"s": "consolidation", "p": "suggests", "o": "acute respiratory distress syndrome"}
+{"s": "atelectasis", "p": "located_in", "o": "lung"}
+{"s": "atelectasis", "p": "requires", "o": "bronchoscopy"}
+{"s": "indistinct vascular margins", "p": "strongly_suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "indistinct vascular margins", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "interstitial fluid", "p": "located_in", "o": "lung"}
+{"s": "peribronchial cuffing", "p": "located_in", "o": "lung"}
+{"s": "interstitial fluid", "p": "located_in", "o": "interlobular septal thickening"}
+{"s": "interstitial fluid", "p": "located_in", "o": "fluid accumulation"}
+{"s": "interstitial fluid", "p": "located_in", "o": "lung bases"}
+{"s": "interstitial fluid", "p": "located_in", "o": "periphery"}
+{"s": "absence of  Increased Lung Markings", "p": "located_in", "o": "lateral hemithorax"}
+{"s": "absence of  Increased Lung Markings", "p": "suggests", "o": "pneumothorax"}
+{"s": "air bronchograms", "p": "suggests", "o": "airspace disease"}
+{"s": "absence of  Increased Lung Markings", "p": "strongly_suggests", "o": "age-related wear and tear"}
+{"s": "age-related wear and tear", "p": "located_in", "o": "elderly patients"}
+{"s": "nerve root compression", "p": "located_in", "o": "spine"}
+{"s": "degenerative changes", "p": "located_in", "o": "spine"}
+{"s": "absence of  Increased Lung Markings", "p": "suggests", "o": "chronic inflammation and fibrosis"}
+{"s": "absence of  Increased Lung Markings", "p": "suggests", "o": "post-infectious bronchiectasis"}
+{"s": "absence of  Increased Lung Markings", "p": "suggests", "o": "severe pneumonia"}
+{"s": "absence of  Increased Lung Markings", "p": "suggests", "o": "tuberculosis"}
+{"s": "absence of  Increased Lung Markings", "p": "contradicts", "o": "normal  Increased Lung Markings"}
+{"s": "absence of  Increased Lung Markings", "p": "located_in", "o": "lower lobe"}
+{"s": "absence of  Increased Lung Markings", "p": "located_in", "o": "upper lobes"}
+{"s": "lateral hemithorax", "p": "located_in", "o": "chest wall"}
+{"s": "consolidation", "p": "located_in", "o": "lateral hemithorax"}
+{"s": "lateral hemithorax", "p": "located_in", "o": "thoracic cavity"}
+{"s": "lateral hemithorax", "p": "located_in", "o": "pleural space"}
+{"s": "lateral hemithorax", "p": "located_in", "o": "pericardial space"}
+{"s": "visceral pleural line", "p": "located_in", "o": "lateral hemithorax"}
+{"s": "cardiogenic pulmonary edema", "p": "requires", "o": "bronchodilator therapy"}
+{"s": "right-sided pneumothorax", "p": "strongly_suggests", "o": "subcutaneous emphysema"}
+{"s": "right-sided pneumothorax", "p": "suggests", "o": "paraseptal bullae"}
+{"s": "subcutaneous emphysema", "p": "located_in", "o": "soft tissues of chest wall"}
+{"s": "pneumothorax", "p": "located_in", "o": "right side"}
+{"s": "pneumothorax", "p": "located_in", "o": "anterior chest wall"}
+{"s": "pneumothorax", "p": "suggests", "o": "tension pneumothorax"}
+{"s": "bullous disease", "p": "suggests", "o": "severe emphysema"}
+{"s": "bullous disease", "p": "contradicts", "o": "normal lung parenchyma"}
+{"s": "bullous disease", "p": "requires", "o": "alveolar wall destruction"}
+{"s": "bullous disease", "p": "absence_weakens", "o": "normal lung function"}
+{"s": "bullous disease", "p": "confirmed_by", "o": "chest radiograph"}
+{"s": "subcutaneous emphysema", "p": "requires", "o": "air tracking"}
+{"s": "subcutaneous emphysema", "p": "absence_weakens", "o": "normal subcutaneous tissue"}
+{"s": "severe degenerative disease", "p": "strongly_suggests", "o": "foraminal stenosis"}
+{"s": "severe degenerative disease", "p": "strongly_suggests", "o": "nerve root compression"}
+{"s": "calcification of costal cartilages", "p": "located_in", "o": "costal cartilages"}
+{"s": "aortic atherosclerosis", "p": "located_in", "o": "aorta"}
+{"s": "peribronchial thickening", "p": "located_in", "o": "bronchi"}
+{"s": "chronic obstructive pulmonary disease", "p": "located_in", "o": "pleural space"}
+{"s": "chronic smoking history", "p": "strongly_suggests", "o": "emphysema"}
+{"s": "emphysema", "p": "located_in", "o": "upper lobes"}
+{"s": "hyperinflation", "p": "located_in", "o": "upper lobes"}
+{"s": "emphysema", "p": "contradicts", "o": "idiopathic pulmonary fibrosis"}
+{"s": "emphysema", "p": "contradicts", "o": "connective tissue disease"}
+{"s": "emphysema", "p": "contradicts", "o": "chronic hypersensitivity pneumonitis"}
+{"s": "lung fields", "p": "located_in", "o": "thoracic cavity"}
+{"s": "mid-clavicular line", "p": "located_in", "o": "right lower lobe"}
+{"s": "mid-clavicular line", "p": "located_in", "o": "thoracic spine"}
+{"s": "mid-clavicular line", "p": "located_in", "o": "thoracic cavity"}
+{"s": "mid-clavicular line", "p": "located_in", "o": "chest"}
+{"s": "retrosternal airspace", "p": "located_in", "o": "lung fields"}
+{"s": "hyperinflation", "p": "requires", "o": "bronchodilator therapy"}
+{"s": "irregular septal lines", "p": "suggests", "o": "severe degenerative disease"}
+{"s": "irregular septal lines", "p": "contradicts", "o": "acute fractures"}
+{"s": "irregular septal lines", "p": "contradicts", "o": "infectious spondylitis"}
+{"s": "irregular septal lines", "p": "located_in", "o": "chest radiograph"}
+{"s": "irregular septal lines", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "reticulonodular opacities", "p": "located_in", "o": "all lung zones"}
+{"s": "reticulonodular opacities", "p": "suggests", "o": "active inflammation"}
+{"s": "reticulonodular opacities", "p": "suggests", "o": "chronic interstitial changes"}
+{"s": "bilateral reticulonodular opacities", "p": "located_in", "o": "lung fields"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "located_in", "o": "lung fields"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "suggests", "o": "active inflammation"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "suggests", "o": "chronic interstitial changes"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "suggests", "o": "interstitial involvement"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "suggests", "o": "interstitial disease"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "suggests", "o": "sarcoidosis"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "suggests", "o": "hypersensitivity pneumonitis"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "suggests", "o": "drug-induced pneumonitis"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "suggests", "o": "interstitial lung disease"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "suggests", "o": "fibrosis"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "suggests", "o": "idiopathic pulmonary fibrosis"}
+{"s": "diffuse bilateral reticulonodular opacities", "p": "suggests", "o": "connective tissue disease"}
+{"s": "joint space narrowing", "p": "located_in", "o": "joint"}
+{"s": "age-related wear and tear", "p": "located_in", "o": "joint"}
+{"s": "degenerative disease", "p": "located_in", "o": "spine"}
+{"s": "calcification", "p": "located_in", "o": "body"}
+{"s": "diffusely increased bronchovascular markings", "p": "located_in", "o": "lung"}
+{"s": "bilateral reticulonodular opacities", "p": "strongly_suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "bilateral reticulonodular opacities", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "advanced_fibrosis", "p": "strongly_suggests", "o": "interstitial_lung_disease"}
+{"s": "advanced_fibrosis", "p": "suggests", "o": "idiopathic_pulmonary_fibrosis"}
+{"s": "advanced_fibrosis", "p": "suggests", "o": "connective_tissue_disease"}
+{"s": "advanced_fibrosis", "p": "suggests", "o": "chronic_hypersensitivity_pneumonitis"}
+{"s": "advanced_fibrosis", "p": "contradicts", "o": "early_interstitial_disease"}
+{"s": "advanced_fibrosis", "p": "located_in", "o": "lung_fields"}
+{"s": "advanced_fibrosis", "p": "absence_weakens", "o": "preservation_of_lung_volumes"}
+{"s": "advanced_fibrosis", "p": "confirmed_by", "o": "interstitial_lung_disease_progression"}
+{"s": "advanced fibrosis", "p": "strongly_suggests", "o": "chronic inflammation and fibrosis"}
+{"s": "advanced fibrosis", "p": "suggests", "o": "chronic inflammation and fibrosis"}
+{"s": "pericardial space", "p": "located_in", "o": "dependent portion of pleural space"}
+{"s": "sarcoidosis", "p": "suggests", "o": "granulomatous disease"}
+{"s": "sarcoidosis", "p": "contradicts", "o": "idiopathic pulmonary fibrosis"}
+{"s": "osteoporosis", "p": "located_in", "o": "elderly patients"}
+{"s": "osteoporosis", "p": "absence_weakens", "o": "lung nodule"}
+{"s": "osteoporosis", "p": "confirmed_by", "o": "Rib Fracture s"}
+{"s": "osteoporosis", "p": "absence_weakens", "o": "pneumothorax or hemothorax"}
+{"s": "Kerley B lines", "p": "located_in", "o": "lung bases"}
+{"s": "hypersensitivity pneumonitis", "p": "strongly_suggests", "o": "chronic inflammation and fibrosis"}
+{"s": "hypersensitivity pneumonitis", "p": "suggests", "o": "chronic productive cough"}
+{"s": "hypersensitivity pneumonitis", "p": "suggests", "o": "recurrent respiratory infections"}
+{"s": "hypersensitivity pneumonitis", "p": "suggests", "o": "hemoptysis"}
+{"s": "hypersensitivity pneumonitis", "p": "contradicts", "o": "severe emphysema"}
+{"s": "hypersensitivity pneumonitis", "p": "located_in", "o": "thoracic cavity"}
+{"s": "hypersensitivity pneumonitis", "p": "located_in", "o": "pleural space"}
+{"s": "hypersensitivity pneumonitis", "p": "located_in", "o": "pericardial space"}
+{"s": "hypersensitivity pneumonitis", "p": "confirmed_by", "o": "chest radiograph"}
+{"s": "spiculated margins", "p": "suggests", "o": "chronic inflammation and fibrosis"}
+{"s": "spiculated margins", "p": "suggests", "o": "post-infectious bronchiectasis"}
+{"s": "spiculated margins", "p": "suggests", "o": "severe pneumonia"}
+{"s": "spiculated margins", "p": "suggests", "o": "tuberculosis"}
+{"s": "spiculated margins", "p": "suggests", "o": "chronic productive cough"}
+{"s": "spiculated margins", "p": "suggests", "o": "recurrent respiratory infections"}
+{"s": "spiculated margins", "p": "suggests", "o": "hemoptysis"}
+{"s": "spiculated margins", "p": "contradicts", "o": "normal lung parenchyma"}
+{"s": "spiculated margins", "p": "located_in", "o": "lung"}
+{"s": "irregular contours", "p": "located_in", "o": "lower lobes"}
+{"s": "irregular contours", "p": "strongly_suggests", "o": "malignancy"}
+{"s": "irregular contours", "p": "suggests", "o": "malignancy"}
+{"s": "irregular contours", "p": "contradicts", "o": "benign etiology"}
+{"s": "irregular contours", "p": "requires", "o": "further characterization"}
+{"s": "irregular contours", "p": "located_in", "o": "thoracic spine"}
+{"s": "irregular contours", "p": "suggests", "o": "scoliosis"}
+{"s": "scoliosis", "p": "strongly_suggests", "o": "idiopathic scoliosis"}
+{"s": "scoliosis", "p": "strongly_suggests", "o": "neuromuscular disease"}
+{"s": "scoliosis", "p": "strongly_suggests", "o": "congenital vertebral anomalies"}
+{"s": "scoliosis", "p": "contradicts", "o": "restrictive lung disease"}
+{"s": "kyphosis", "p": "located_in", "o": "thoracic spine"}
+{"s": "kyphosis", "p": "suggests", "o": "osteoporotic compression fractures"}
+{"s": "kyphosis", "p": "suggests", "o": "senile kyphosis"}
+{"s": "kyphosis", "p": "suggests", "o": "Scheuermann disease"}
+{"s": "kyphosis", "p": "contradicts", "o": "restrictive lung disease"}
+{"s": "osteophyte", "p": "located_in", "o": "thoracic spine"}
+{"s": "osteophyte", "p": "suggests", "o": "degenerative spondylosis"}
+{"s": "osteophyte", "p": "suggests", "o": "ankylosing spondylitis"}
+{"s": "osteophyte", "p": "contradicts", "o": "restrictive lung disease"}
+{"s": "diaphragmatic hernia", "p": "located_in", "o": "thoracic cavity"}
+{"s": "diaphragmatic hernia", "p": "suggests", "o": "Morgagni hernia"}
+{"s": "diaphragmatic hernia", "p": "suggests", "o": "Bochdalek hernia"}
+{"s": "diaphragmatic hernia", "p": "suggests", "o": "hiatal hernia"}
+{"s": "irregular contours", "p": "located_in", "o": "thoracic cavity"}
+{"s": "irregular contours", "p": "suggests", "o": "fluid collection"}
+{"s": "irregular contours", "p": "contradicts", "o": "sharp borders"}
+{"s": "irregular contours", "p": "suggests", "o": "mediastinal shift"}
+{"s": "irregular contours", "p": "suggests", "o": "chronic inflammation"}
+{"s": "irregular contours", "p": "suggests", "o": "fibrosis"}
+{"s": "calcification of costal cartilages", "p": "suggests", "o": "generalized degenerative processes"}
+{"s": "aortic atherosclerosis", "p": "suggests", "o": "generalized degenerative processes"}
+{"s": "cardiomegaly", "p": "located_in", "o": "heart"}
+{"s": "diffuse calcification", "p": "located_in", "o": "lung fields"}
+{"s": "diffuse calcification", "p": "located_in", "o": "costal cartilages"}
+{"s": "diffuse calcification", "p": "located_in", "o": "aortic atherosclerosis"}
+{"s": "diffuse calcification", "p": "strongly_suggests", "o": "generalized degenerative processes"}
+{"s": "laminated calcification", "p": "strongly_suggests", "o": "benign granuloma"}
+{"s": "laminated calcification", "p": "suggests", "o": "granuloma"}
+{"s": "granuloma", "p": "located_in", "o": "both lung fields"}
+{"s": "granuloma", "p": "confirmed_by", "o": "popcorn pattern"}
+{"s": "granuloma", "p": "confirmed_by", "o": "target pattern"}
+{"s": "granuloma", "p": "contradicts", "o": "malignancy"}
+{"s": "granuloma", "p": "absence_weakens", "o": "calcified malignancies"}
+{"s": "granuloma", "p": "located_in", "o": "upper lobe"}
+{"s": "granuloma", "p": "located_in", "o": "hilar lymph node"}
+{"s": "granuloma", "p": "located_in", "o": "thoracic spine"}
+{"s": "granuloma", "p": "located_in", "o": "facet joint"}
+{"s": "granuloma", "p": "located_in", "o": "vertebral endplates"}
+{"s": "surrounding ring", "p": "located_in", "o": "joint space narrowing"}
+{"s": "surrounding ring", "p": "located_in", "o": "cross-section"}
+{"s": "pericardial effusion", "p": "located_in", "o": "chest radiograph"}
+{"s": "benign etiology", "p": "strongly_suggests", "o": "healed granulomas"}
+{"s": "benign etiology", "p": "suggests", "o": "prior tuberculosis"}
+{"s": "benign etiology", "p": "suggests", "o": "histoplasmosis exposure"}
+{"s": "benign etiology", "p": "located_in", "o": "upper lobe"}
+{"s": "benign etiology", "p": "confirmed_by", "o": "popcorn pattern"}
+{"s": "benign etiology", "p": "confirmed_by", "o": "target pattern"}
+{"s": "benign etiology", "p": "confirmed_by", "o": "eggshell pattern"}
+{"s": "benign etiology", "p": "absence_weakens", "o": "calcified malignancies"}
+{"s": "benign etiology", "p": "contradicts", "o": "chronic obstructive pulmonary disease"}
+{"s": "benign etiology", "p": "contradicts", "o": "left-to-right cardiac shunts"}
+{"s": "benign etiology", "p": "contradicts", "o": "severe pulmonary hypertension"}
+{"s": "benign etiology", "p": "contradicts", "o": "pulmonary hypertension"}
+{"s": "benign etiology", "p": "located_in", "o": "thoracic cavity"}
+{"s": "benign etiology", "p": "located_in", "o": "pleural space"}
+{"s": "benign etiology", "p": "located_in", "o": "pericardial space"}
+{"s": "upper lobe", "p": "located_in", "o": "lung fields"}
+{"s": "upper lobe", "p": "located_in", "o": "both lung fields"}
+{"s": "upper lobe", "p": "located_in", "o": "lung periphery"}
+{"s": "upper lobe", "p": "located_in", "o": "upper lobes"}
+{"s": "upper lobe", "p": "located_in", "o": "right lower lobe"}
+{"s": "upper lobe", "p": "located_in", "o": "left lower lobe"}
+{"s": "upper lobe", "p": "located_in", "o": "lower lobes"}
+{"s": "upper lobe", "p": "located_in", "o": "lower lung fields"}
+{"s": "upper lobe", "p": "located_in", "o": "lung bases"}
+{"s": "upper lobe", "p": "located_in", "o": "lung zones"}
+{"s": "upper lobe", "p": "located_in", "o": "all lung zones"}
+{"s": "upper lobe", "p": "located_in", "o": "both lung zones"}
+{"s": "upper lobe", "p": "located_in", "o": "hemithorax"}
+{"s": "upper lobe", "p": "located_in", "o": "lateral hemithorax"}
+{"s": "upper lobe", "p": "located_in", "o": "chest wall"}
+{"s": "upper lobe", "p": "located_in", "o": "visceral pleural line"}
+{"s": "upper lobe", "p": "located_in", "o": "pleural space"}
+{"s": "upper lobe", "p": "located_in", "o": "pleural effusion"}
+{"s": "upper lobe", "p": "located_in", "o": "costophrenic angle"}
+{"s": "upper lobe", "p": "located_in", "o": "lateral chest wall"}
+{"s": "pleura", "p": "located_in", "o": "thoracic cavity"}
+{"s": "pleura", "p": "located_in", "o": "pericardial space"}
+{"s": "degenerative changes", "p": "located_in", "o": "thoracic spine"}
+{"s": "degenerative changes", "p": "strongly_suggests", "o": "foraminal stenosis"}
+{"s": "degenerative changes", "p": "located_in", "o": "elderly patients"}
+{"s": "degenerative changes", "p": "located_in", "o": "age-related wear and tear"}
+{"s": "degenerative changes", "p": "located_in", "o": "costal cartilages"}
+{"s": "degenerative changes", "p": "located_in", "o": "aortic atherosclerosis"}
+{"s": "degenerative changes", "p": "located_in", "o": "foraminal stenosis"}
+{"s": "degenerative changes", "p": "located_in", "o": "nerve root compression"}
+{"s": "degenerative changes", "p": "requires", "o": "bronchoscopy"}
+{"s": "degenerative changes", "p": "confirmed_by", "o": "chest radiograph"}
+{"s": "degenerative changes", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "degenerative spondylosis", "p": "strongly_suggests", "o": "post-infectious bronchiectasis"}
+{"s": "degenerative spondylosis", "p": "strongly_suggests", "o": "severe pneumonia"}
+{"s": "degenerative spondylosis", "p": "strongly_suggests", "o": "tuberculosis"}
+{"s": "degenerative spondylosis", "p": "suggests", "o": "chronic inflammation and fibrosis"}
+{"s": "degenerative spondylosis", "p": "located_in", "o": "upper lobes"}
+{"s": "severe degenerative disease", "p": "strongly_suggests", "o": "foraminal stenosis with nerve root compression"}
+{"s": "confluent areas of consolidation", "p": "suggests", "o": "bronchopneumonia pattern"}
+{"s": "acute fractures", "p": "strongly_suggests", "o": "degenerative disease"}
+{"s": "calcification", "p": "located_in", "o": "anterior chest wall"}
+{"s": "coronary artery calcification", "p": "located_in", "o": "cardiac silhouette"}
+{"s": "costal cartilage calcification", "p": "located_in", "o": "anterior chest wall"}
+{"s": "dystrophic calcification", "p": "located_in", "o": "areas of prior tissue injury"}
+{"s": "dystrophic calcification", "p": "located_in", "o": "chronic inflammation"}
+{"s": "dystrophic calcification", "p": "located_in", "o": "necrosis"}
+{"s": "irregular pleural thickening", "p": "located_in", "o": "lateral chest wall"}
+{"s": "irregular pleural thickening", "p": "located_in", "o": "multiple rib spaces"}
+{"s": "cardiac apex displacement", "p": "located_in", "o": "right ventricle"}
+{"s": "bilateral increased markings", "p": "weakly_suggests", "o": "chronic infection or bronchiectasis"}
+{"s": "volume loss", "p": "located_in", "o": "affected region"}
+{"s": "linear atelectasis", "p": "located_in", "o": "lung bases"}
+{"s": "loss of normal anatomical borders", "p": "strongly_suggests", "o": "focal consolidation"}
+{"s": "loss of normal anatomical borders", "p": "located_in", "o": "increased opacity"}
+{"s": "atelectasis", "p": "suggests", "o": "obstructive atelectasis"}
+{"s": "pulmonary fibrosis", "p": "located_in", "o": "bilateral lower lobe"}
+{"s": "loss of normal anatomical borders", "p": "strongly_suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "loss of normal anatomical borders", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "loss of normal anatomical borders", "p": "suggests", "o": "right ventricular enlargement"}
+{"s": "loss of normal anatomical borders", "p": "suggests", "o": "upward cardiac apex displacement"}
+{"s": "compensatory hyperinflation", "p": "strongly_suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "compensatory hyperinflation", "p": "located_in", "o": "lung fields"}
+{"s": "compensatory hyperinflation", "p": "requires", "o": "bronchodilator therapy"}
+{"s": "compensatory hyperinflation", "p": "strongly_suggests", "o": "severe asthma exacerbation"}
+{"s": "compensatory hyperinflation", "p": "located_in", "o": "adjacent lung segments"}
+{"s": "compensatory hyperinflation", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "bilateral lower lobe", "p": "located_in", "o": "lower lobe"}
+{"s": "bilateral", "p": "located_in", "o": "lung fields"}
+{"s": "well-defined pulmonary vasculature", "p": "located_in", "o": "lung periphery"}
+{"s": "degenerative changes", "p": "suggests", "o": "vascular congestion"}
+{"s": "degenerative changes", "p": "suggests", "o": "airway inflammation"}
+{"s": "diffusely increased bronchovascular markings", "p": "suggests", "o": "airway inflammation"}
+{"s": "right ventricular enlargement", "p": "strongly_suggests", "o": "pulmonary hypertension"}
+{"s": "calcified lymph nodes", "p": "located_in", "o": "both lung fields"}
+{"s": "calcified lymph nodes", "p": "absence_weakens", "o": "calcified malignancies"}
+{"s": "calcified lymph nodes", "p": "located_in", "o": "costal cartilages"}
+{"s": "calcified lymph nodes", "p": "located_in", "o": "aortic atherosclerosis"}
+{"s": "calcified lymph nodes", "p": "located_in", "o": "pleural plaques"}
+{"s": "calcified lymph nodes", "p": "suggests", "o": "silicosis"}
+{"s": "calcified lymph nodes", "p": "suggests", "o": "sarcoidosis"}
+{"s": "calcified lymph nodes", "p": "located_in", "o": "thoracic cavity"}
+{"s": "vascular calcifications", "p": "located_in", "o": "lung fields"}
+{"s": "vascular calcifications", "p": "located_in", "o": "both lung fields"}
+{"s": "vascular calcifications", "p": "located_in", "o": "upper lobes"}
+{"s": "vascular calcifications", "p": "located_in", "o": "lower lobes"}
+{"s": "vascular calcifications", "p": "located_in", "o": "right lower lobe"}
+{"s": "vascular calcifications", "p": "located_in", "o": "left lower lobe"}
+{"s": "vascular calcifications", "p": "located_in", "o": "costal cartilages"}
+{"s": "vascular calcifications", "p": "located_in", "o": "aortic atherosclerosis"}
+{"s": "vascular calcifications", "p": "strongly_suggests", "o": "generalized degenerative processes"}
+{"s": "crowding of bronchial markings", "p": "suggests", "o": "volume loss"}
+{"s": "severe pulmonary hypertension", "p": "located_in", "o": "right ventricle"}
+{"s": "apical pleural thickening", "p": "located_in", "o": "lung periphery"}
+{"s": "apical pleural thickening", "p": "suggests", "o": "infectious pneumonia"}
+{"s": "apical pleural thickening", "p": "suggests", "o": "aspiration"}
+{"s": "apical pleural thickening", "p": "suggests", "o": "pulmonary hemorrhage"}
+{"s": "apical pleural thickening", "p": "suggests", "o": "organizing pneumonia"}
+{"s": "apical pleural thickening", "p": "strongly_suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "apical pleural thickening", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "diffuse bilateral pleural thickening", "p": "strongly_suggests", "o": "asbestos exposure"}
+{"s": "diffuse bilateral pleural thickening", "p": "requires", "o": "occupational history"}
+{"s": "diffuse bilateral pleural thickening", "p": "suggests", "o": "asbestos exposure"}
+{"s": "diffuse bilateral pleural thickening", "p": "contradicts", "o": "pleural plaque"}
+{"s": "diffuse bilateral pleural thickening", "p": "contradicts", "o": "loculated effusion"}
+{"s": "diffuse bilateral pleural thickening", "p": "contradicts", "o": "pleural-based tumor"}
+{"s": "diffuse bilateral pleural thickening", "p": "contradicts", "o": "malignant mesothelioma"}
+{"s": "diffuse bilateral pleural thickening", "p": "contradicts", "o": "chronic pleuritis"}
+{"s": "diffuse bilateral pleural thickening", "p": "contradicts", "o": "prior tuberculosis"}
+{"s": "diffuse bilateral pleural thickening", "p": "contradicts", "o": "pleural thickening"}
+{"s": "diffuse bilateral pleural thickening", "p": "located_in", "o": "pleural space"}
+{"s": "diffuse bilateral pleural thickening", "p": "located_in", "o": "pericardial space"}
+{"s": "focal pleural thickening", "p": "located_in", "o": "right lower lobe"}
+{"s": "focal pleural thickening", "p": "suggests", "o": "infectious pneumonia"}
+{"s": "focal pleural thickening", "p": "suggests", "o": "aspiration"}
+{"s": "focal pleural thickening", "p": "suggests", "o": "pulmonary hemorrhage"}
+{"s": "focal pleural thickening", "p": "suggests", "o": "organizing pneumonia"}
+{"s": "focal pleural thickening", "p": "strongly_suggests", "o": "congestive heart failure"}
+{"s": "focal pleural thickening", "p": "contradicts", "o": "acute cardiopulmonary disease"}
+{"s": "focal pleural thickening", "p": "contradicts", "o": "pneumonia"}
+{"s": "focal pleural thickening", "p": "contradicts", "o": "congestive heart failure"}
+{"s": "focal pleural thickening", "p": "contradicts", "o": "pneumothorax"}
+{"s": "focal pleural thickening", "p": "located_in", "o": "lower lobes"}
+{"s": "focal pleural thickening", "p": "located_in", "o": "pleural space"}
+{"s": "focal pleural thickening", "p": "located_in", "o": "chest wall"}
+{"s": "focal pleural thickening", "p": "located_in", "o": "lateral chest wall"}
+{"s": "wedge-shaped deformity", "p": "located_in", "o": "thoracic spine"}
+{"s": "osteophyte", "p": "located_in", "o": "anterior vertebral bodies"}
+{"s": "wedge-shaped deformity", "p": "located_in", "o": "thoracic cavity"}
+{"s": "osteoporosis", "p": "strongly_suggests", "o": "vertebral compression fracture"}
+{"s": "sternal fracture", "p": "strongly_suggests", "o": "cardiac or great vessel injury"}
+{"s": "sternal fracture", "p": "located_in", "o": "chest"}
+{"s": "sternal fracture", "p": "requires", "o": "bronchoscopy"}
+{"s": "sternal fracture", "p": "contradicts", "o": "idiopathic scoliosis"}
+{"s": "sternal fracture", "p": "contradicts", "o": "neuromuscular disease"}
+{"s": "sternal fracture", "p": "contradicts", "o": "congenital vertebral anomalies"}
+{"s": "sternal fracture", "p": "contradicts", "o": "osteoporotic compression fractures"}
+{"s": "sternal fracture", "p": "contradicts", "o": "Scheuermann disease"}
+{"s": "sternal fracture", "p": "contradicts", "o": "ankylosing spondylitis"}
+{"s": "sternal fracture", "p": "contradicts", "o": "diaphragmatic hernia"}
+{"s": "sternal fracture", "p": "contradicts", "o": "traumatic diaphragmatic rupture"}
+{"s": "sternal fracture", "p": "contradicts", "o": "bronchial wall thickening"}
+{"s": "sternal fracture", "p": "contradicts", "o": "abnormal cardiac silhouette"}
+{"s": "sternal fracture", "p": "contradicts", "o": "tetralogy of Fallot"}
+{"s": "sternal fracture", "p": "contradicts", "o": "pericardial effusion"}
+{"s": "sternal fracture", "p": "contradicts", "o": "left atrial enlargement"}
+{"s": "sternal fracture", "p": "contradicts", "o": "enlarged left atrium"}
+{"s": "sternal fracture", "p": "contradicts", "o": "pulmonary artery enlargement"}
+{"s": "sternal fracture", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "sternal fracture", "p": "contradicts", "o": "chronic obstructive pulmonary disease"}
+{"s": "sternal fracture", "p": "contradicts", "o": "left-to-right cardiac shunts"}
+{"s": "peribronchial thickening", "p": "located_in", "o": "bronchovascular markings"}
+{"s": "exuberant callus", "p": "strongly_suggests", "o": "lung nodule"}
+{"s": "lung nodule", "p": "located_in", "o": "thoracic cavity"}
+{"s": "Rib Fracture ", "p": "located_in", "o": "rib"}
+{"s": "Rib Fracture ", "p": "strongly_suggests", "o": "direct trauma"}
+{"s": "Rib Fracture ", "p": "strongly_suggests", "o": "fall"}
+{"s": "Rib Fracture ", "p": "strongly_suggests", "o": "severe coughing"}
+{"s": "Rib Fracture ", "p": "strongly_suggests", "o": "osteoporosis"}
+{"s": "Rib Fracture ", "p": "requires", "o": "bronchoscopy"}
+{"s": "Rib Fracture ", "p": "weakly_suggests", "o": "hepatic injury"}
+{"s": "Rib Fracture ", "p": "weakly_suggests", "o": "splenic injury"}
+{"s": "Rib Fracture ", "p": "contradicts", "o": "healing fracture"}
+{"s": "Rib Fracture ", "p": "contradicts", "o": "callus formation"}
+{"s": "Rib Fracture ", "p": "contradicts", "o": "bridging of the fracture gap"}
+{"s": "Rib Fracture ", "p": "absence_weakens", "o": "lung function"}
+{"s": "Rib Fracture ", "p": "confirmed_by", "o": "chest radiograph"}
+{"s": "Rib Fracture ", "p": "strongly_suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "Rib Fracture ", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "Rib Fracture ", "p": "suggests", "o": "pulmonary hypertension"}
+{"s": "Rib Fracture ", "p": "suggests", "o": "right ventricular enlargement"}
+{"s": "Rib Fracture ", "p": "suggests", "o": "upward cardiac apex displacement"}
+{"s": "cardiogenic pulmonary edema", "p": "located_in", "o": "bilateral perihilar infiltrates"}
+{"s": "osteoporotic compression fractures", "p": "strongly_suggests", "o": "osteoporosis"}
+{"s": "osteoporotic compression fractures", "p": "located_in", "o": "thoracic spine"}
+{"s": "osteoporotic compression fractures", "p": "contradicts", "o": "acute fracture"}
+{"s": "osteoporotic compression fractures", "p": "contradicts", "o": "pathologic fracture"}
+{"s": "osteoporotic compression fractures", "p": "contradicts", "o": "lytic bone lesion"}
+{"s": "osteoporotic compression fractures", "p": "contradicts", "o": "malignancy"}
+{"s": "osteoporotic compression fractures", "p": "contradicts", "o": "metastatic disease"}
+{"s": "osteoporotic compression fractures", "p": "contradicts", "o": "cardiac or great vessel injury"}
+{"s": "osteoporotic compression fractures", "p": "contradicts", "o": "blunt chest trauma"}
+{"s": "osteoporotic compression fractures", "p": "contradicts", "o": "fall"}
+{"s": "osteoporotic compression fractures", "p": "contradicts", "o": "severe coughing"}
+{"s": "osteoporotic compression fractures", "p": "contradicts", "o": "direct trauma"}
+{"s": "osteoporotic compression fractures", "p": "contradicts", "o": "pneumothorax"}
+{"s": "osteoporotic compression fractures", "p": "strongly_suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "osteoporotic compression fractures", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "osteoporotic compression fractures", "p": "strongly_suggests", "o": "pulmonary hypertension"}
+{"s": "vertebral compression fracture", "p": "located_in", "o": "anterior height loss"}
+{"s": "osteoporosis", "p": "strongly_suggests", "o": "multiple consecutive Rib Fracture s"}
+{"s": "cardiogenic pulmonary edema", "p": "suggests", "o": "cardiomegaly"}
+{"s": "diaphragmatic hernia", "p": "requires", "o": "mechanical support"}
+{"s": "diaphragmatic hernia", "p": "strongly_suggests", "o": "traumatic diaphragmatic rupture"}
+{"s": "diaphragmatic hernia", "p": "contradicts", "o": "normal diaphragm"}
+{"s": "diaphragmatic hernia", "p": "confirmed_by", "o": "chest radiograph"}
+{"s": "traumatic diaphragmatic rupture", "p": "requires", "o": "abdominal imaging"}
+{"s": "traumatic diaphragmatic rupture", "p": "strongly_suggests", "o": "liver or spleen herniation"}
+{"s": "traumatic diaphragmatic rupture", "p": "contradicts", "o": "intact diaphragm"}
+{"s": "traumatic diaphragmatic rupture", "p": "confirmed_by", "o": "chest radiograph"}
+{"s": "morgagni hernia", "p": "strongly_suggests", "o": "left-to-right cardiac shunts"}
+{"s": "morgagni hernia", "p": "strongly_suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "morgagni hernia", "p": "contradicts", "o": "severe pulmonary hypertension"}
+{"s": "morgagni hernia", "p": "located_in", "o": "thoracic cavity"}
+{"s": "right cardiophrenic angle mass", "p": "located_in", "o": "costophrenic angle"}
+{"s": "right cardiophrenic angle mass", "p": "contradicts", "o": "acute cardiopulmonary disease"}
+{"s": "right cardiophrenic angle mass", "p": "contradicts", "o": "pneumonia"}
+{"s": "right cardiophrenic angle mass", "p": "contradicts", "o": "congestive heart failure"}
+{"s": "right cardiophrenic angle mass", "p": "contradicts", "o": "pneumothorax"}
+{"s": "blunting of the costophrenic angle", "p": "located_in", "o": "costophrenic angle"}
+{"s": "right cardiophrenic angle mass", "p": "located_in", "o": "thoracic cavity"}
+{"s": "upper lobe vessels", "p": "located_in", "o": "lower lobe vessels"}
+{"s": "bowel", "p": "located_in", "o": "thoracic spine"}
+{"s": "hypersensitivity reactions", "p": "strongly_suggests", "o": "thickening of bronchial walls"}
+{"s": "hypersensitivity reactions", "p": "suggests", "o": "abnormal cardiac silhouette"}
+{"s": "hypersensitivity reactions", "p": "contradicts", "o": "absence of abnormal cardiac silhouette"}
+{"s": "thickening of bronchial walls", "p": "located_in", "o": "both lung fields"}
+{"s": "abnormal cardiac silhouette", "p": "located_in", "o": "chest radiograph"}
+{"s": "pulmonary artery enlargement", "p": "strongly_suggests", "o": "chronic pulmonary embolism"}
+{"s": "pulmonary artery enlargement", "p": "suggests", "o": "caliber discrepancy between hilar and peripheral vessels"}
+{"s": "pulmonary artery enlargement", "p": "contradicts", "o": "absence of caliber discrepancy between hilar and peripheral vessels"}
+{"s": "dilated central pulmonary arteries", "p": "located_in", "o": "hilar and peripheral vessels"}
+{"s": "chronic pulmonary embolism", "p": "requires", "o": "echocardiography"}
+{"s": "pulmonary artery enlargement", "p": "confirmed_by", "o": "echocardiography"}
+{"s": "hypersensitivity reactions", "p": "located_in", "o": "upper lobes"}
+{"s": "hypersensitivity reactions", "p": "contradicts", "o": "severe emphysema"}
+{"s": "diffuse bronchial wall thickening", "p": "located_in", "o": "both lung fields"}
+{"s": "peribronchial cuffing", "p": "located_in", "o": "both lung fields"}
+{"s": "abnormal cardiac silhouette", "p": "suggests", "o": "congestive heart failure"}
+{"s": "abnormal cardiac silhouette", "p": "strongly_suggests", "o": "tetralogy of Fallot"}
+{"s": "abnormal cardiac silhouette", "p": "suggests", "o": "pericardial effusion"}
+{"s": "abnormal cardiac silhouette", "p": "located_in", "o": "pericardium"}
+{"s": "pulmonary artery enlargement", "p": "located_in", "o": "hilar and peripheral vessels"}
+{"s": "osteophyte formation", "p": "suggests", "o": "ankylosing spondylitis"}
+{"s": "osteophyte formation", "p": "located_in", "o": "anterior vertebral bodies"}
+{"s": "osteophyte formation", "p": "requires", "o": "echocardiography"}
+{"s": "vertebral compression fracture", "p": "suggests", "o": "Scheuermann disease"}
+{"s": "vertebral compression fracture", "p": "located_in", "o": "thoracic spine"}
+{"s": "abnormal cardiac silhouette", "p": "strongly_suggests", "o": "pericardial effusion"}
+{"s": "unusual configuration", "p": "located_in", "o": "lung fields"}
+{"s": "unusual configuration", "p": "suggests", "o": "infectious pneumonia"}
+{"s": "unusual configuration", "p": "suggests", "o": "aspiration"}
+{"s": "unusual configuration", "p": "suggests", "o": "pulmonary hemorrhage"}
+{"s": "unusual configuration", "p": "suggests", "o": "organizing pneumonia"}
+{"s": "unusual configuration", "p": "located_in", "o": "lower lobes"}
+{"s": "unusual configuration", "p": "located_in", "o": "right lower lobe"}
+{"s": "unusual configuration", "p": "located_in", "o": "pleural effusion"}
+{"s": "unusual configuration", "p": "requires", "o": "investigation"}
+{"s": "hilar vessels", "p": "located_in", "o": "lung periphery"}
+{"s": "hilar vessels", "p": "located_in", "o": "thoracic spine"}
+{"s": "hilar vessels", "p": "located_in", "o": "thoracic cavity"}
+{"s": "left heart border", "p": "located_in", "o": "chest radiograph"}
+{"s": "pneumothorax", "p": "located_in", "o": "lateral chest wall"}
+{"s": "emphysema", "p": "strongly_suggests", "o": "chronic obstructive pulmonary disease"}
+{"s": "left heart border", "p": "strongly_suggests", "o": "left atrial enlargement"}
+{"s": "left heart border", "p": "suggests", "o": "mitral valve disease"}
+{"s": "left heart border", "p": "located_in", "o": "left heart"}
+{"s": "left heart border", "p": "located_in", "o": "cardiac silhouette"}
+{"s": "left heart border", "p": "located_in", "o": "heart"}
+{"s": "left heart border", "p": "located_in", "o": "chest"}
+{"s": "left heart border", "p": "located_in", "o": "thorax"}
+{"s": "left heart border", "p": "contradicts", "o": "normal cardiac silhouette"}
+{"s": "left heart border", "p": "contradicts", "o": "normal cardiac contour"}
+{"s": "left heart border", "p": "contradicts", "o": "normal cardiac configuration"}
+{"s": "left heart border", "p": "contradicts", "o": "normal cardiac enlargement"}
+{"s": "left heart border", "p": "contradicts", "o": "normal left heart border"}
+{"s": "left heart border", "p": "contradicts", "o": "normal left atrial size"}
+{"s": "left heart border", "p": "contradicts", "o": "normal left atrium"}
+{"s": "left heart border", "p": "contradicts", "o": "normal right heart border"}
+{"s": "left heart border", "p": "contradicts", "o": "normal right atrium"}
+{"s": "left heart border", "p": "contradicts", "o": "normal right ventricle"}
+{"s": "left heart border", "p": "contradicts", "o": "normal right ventricular hypertrophy"}
+{"s": "left heart border", "p": "contradicts", "o": "normal tetralogy of Fallot"}
+{"s": "left heart border", "p": "contradicts", "o": "normal pericardial effusion"}
+{"s": "left heart border", "p": "contradicts", "o": "normal pericardium"}
+{"s": "left heart border", "p": "strongly_suggests", "o": "right ventricular enlargement"}
+{"s": "pulmonary artery segment", "p": "located_in", "o": "lung periphery"}
+{"s": "pulmonary artery segment", "p": "located_in", "o": "thoracic spine"}
+{"s": "pulmonary artery segment", "p": "strongly_suggests", "o": "pulmonary hypertension"}
+{"s": "pulmonary artery segment", "p": "suggests", "o": "chronic pulmonary embolism"}
+{"s": "osteophyte", "p": "strongly_suggests", "o": "degenerative spondylosis"}
+{"s": "osteophyte", "p": "suggests", "o": "chronic spinal stress"}
+{"s": "diaphragmatic hernia", "p": "suggests", "o": "diaphragmatic rupture"}
+{"s": "diffuse bronchial wall thickening", "p": "located_in", "o": "lung fields"}
+{"s": "diffuse bronchial wall thickening", "p": "suggests", "o": "chronic bronchitis"}
+{"s": "diffuse bronchial wall thickening", "p": "suggests", "o": "asthma"}
+{"s": "diffuse bronchial wall thickening", "p": "suggests", "o": "bronchiectasis"}
+{"s": "prominent main pulmonary artery segment", "p": "located_in", "o": "left heart border"}
+{"s": "prominent main pulmonary artery segment", "p": "suggests", "o": "pulmonary artery enlargement"}
+{"s": "prominent main pulmonary artery segment", "p": "suggests", "o": "pulmonary hypertension"}
+{"s": "Cardiac shadow enlargement", "p": "suggests", "o": "cardiomegaly"}
+{"s": "Cardiac shadow enlargement", "p": "requires", "o": "echocardiography"}
+{"s": "Normal cardiac shadow", "p": "contradicts", "o": "cardiomegaly"}
+{"s": "Cardiac shadow", "p": "confirmed_by", "o": "chest radiograph"}
+{"s": "Increased cardiothoracic ratio", "p": "strongly_suggests", "o": "cardiomegaly"}
+{"s": "Increased cardiothoracic ratio", "p": "requires", "o": "echocardiography"}
+{"s": "Normal cardiothoracic ratio", "p": "contradicts", "o": "cardiomegaly"}
+{"s": "Cardiothoracic ratio", "p": "confirmed_by", "o": "chest radiograph"}
+{"s": "Soft tissue calcification", "p": "suggests", "o": "calcinosis"}
+{"s": "Calcinosis", "p": "confirmed_by", "o": "radiographic imaging"}
+{"s": "Calcinosis", "p": "located_in", "o": "soft tissues"}
+{"s": "Absence of soft tissue calcification", "p": "contradicts", "o": "calcinosis"}
+{"s": "Cutaneous calcification", "p": "located_in", "o": "skin"}
+{"s": "Calcinosis cutis", "p": "confirmed_by", "o": "radiographic imaging"}
+{"s": "Absence of skin calcification", "p": "contradicts", "o": "calcinosis cutis"}
+{"s": "Normal cardiac shadow", "p": "weakly_suggests", "o": "normal cardiac size"}
+{"s": "Normal examination", "p": "absence_weakens", "o": "pathological condition"}
+{"s": "Normal cardiothoracic ratio", "p": "contradicts", "o": "cardiomegaly"}
+{"s": "Normal chest radiograph", "p": "contradicts", "o": "cardiomegaly"}
+{"s": "Normal chest radiograph", "p": "contradicts", "o": "calcinosis"}
+{"s": "Normal chest radiograph", "p": "contradicts", "o": "pulmonary edema"}
+{"s": "Normal chest radiograph", "p": "contradicts", "o": "pleural effusion"}
+{"s": "Normal chest radiograph", "p": "contradicts", "o": "pneumothorax"}
+{"s": "Normal chest radiograph", "p": "contradicts", "o": "lobar consolidation"}
+{"s": "Normal chest radiograph", "p": "absence_weakens", "o": "acute cardiopulmonary disease"}
+{"s": "Normal chest radiograph", "p": "weakly_suggests", "o": "normal cardiopulmonary status"}
+{"s": "Normal chest radiograph", "p": "confirmed_by", "o": "radiographic interpretation"}
+{"s": "Normal chest radiograph", "p": "requires", "o": "adequate inspiratory effort"}
+{"s": "Clear lung fields", "p": "absence_weakens", "o": "congestive heart failure"}
+{"s": "Normal cardiac silhouette", "p": "weakly_suggests", "o": "normal cardiac size"}
+{"s": "No soft tissue calcification", "p": "contradicts", "o": "calcinosis"}
+{"s": "Normal examination", "p": "absence_weakens", "o": "structural abnormality"}
+{"s": "Autoimmune connective tissue disease", "p": "weakly_suggests", "o": "calcinosis cutis"}
+{"s": "Absence of dermal calcification", "p": "contradicts", "o": "calcinosis cutis"}
+{"s": "Cutaneous calcified nodules", "p": "strongly_suggests", "o": "calcinosis cutis"}
+{"s": "Calcinosis cutis", "p": "located_in", "o": "skin"}
+{"s": "Calcinosis cutis", "p": "confirmed_by", "o": "skin biopsy"}
+{"s": "pulmonary nodule", "p": "requires", "o": "follow-up CT"}
+{"s": "pulmonary mass", "p": "strongly_suggests", "o": "primary lung cancer"}
+{"s": "pulmonary mass", "p": "requires", "o": "biopsy"}
+{"s": "parenchymal lesion", "p": "suggests", "o": "infectious etiology"}
+{"s": "parenchymal lesion", "p": "suggests", "o": "neoplastic process"}
+{"s": "focal opacity", "p": "suggests", "o": "consolidation"}
+{"s": "focal opacity", "p": "suggests", "o": "atelectasis"}
+{"s": "solitary pulmonary nodule", "p": "requires", "o": "size assessment"}
+{"s": "solitary pulmonary nodule", "p": "suggests", "o": "malignancy"}

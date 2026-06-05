@@ -1,0 +1,367 @@
+{
+  "uid": "3962",
+  "gt_labels": "normal",
+  "predicted_classes": [
+    "normal"
+  ],
+  "kg_classes": [
+    "Normal"
+  ],
+  "conflict_resolution": "no_conflict",
+  "is_uncertain": true,
+  "uncertainty_reason": "normal_prob=0.697 (<0.73) with elevated disease scores: Degenerative Change=0.480, Lesion=0.383, Calcified Granuloma=0.373",
+  "per_class_traversal": {
+    "Normal": {
+      "seeds_used": [
+        "normal examination",
+        "clear lung fields",
+        "normal cardiac silhouette",
+        "normal cardiothoracic ratio",
+        "Normal chest radiograph",
+        "Normal cardiac shadow"
+      ],
+      "seeds_missing": [],
+      "triplets": [
+        {
+          "s": "normal",
+          "p": "is_finding_of",
+          "o": "clear lung fields"
+        },
+        {
+          "s": "normal",
+          "p": "is_finding_of",
+          "o": "normal cardiac size"
+        },
+        {
+          "s": "normal",
+          "p": "is_finding_of",
+          "o": "normal mediastinal contours"
+        },
+        {
+          "s": "normal",
+          "p": "is_finding_of",
+          "o": "sharp and well-defined hemidiaphragms"
+        },
+        {
+          "s": "normal",
+          "p": "is_finding_of",
+          "o": "midline trachea"
+        },
+        {
+          "s": "normal",
+          "p": "is_finding_of",
+          "o": "no acute fracture"
+        },
+        {
+          "s": "normal",
+          "p": "is_finding_of",
+          "o": "no pleural effusion"
+        },
+        {
+          "s": "normal",
+          "p": "is_finding_of",
+          "o": "no pneumothorax"
+        },
+        {
+          "s": "normal",
+          "p": "is_finding_of",
+          "o": "no consolidation"
+        },
+        {
+          "s": "normal",
+          "p": "contradicts",
+          "o": "Cardiomegaly"
+        },
+        {
+          "s": "normal",
+          "p": "contradicts",
+          "o": "Pleural Effusion"
+        },
+        {
+          "s": "normal",
+          "p": "contradicts",
+          "o": "Pneumothorax"
+        },
+        {
+          "s": "normal",
+          "p": "contradicts",
+          "o": "Consolidation"
+        },
+        {
+          "s": "normal",
+          "p": "contradicts",
+          "o": "Edema"
+        },
+        {
+          "s": "normal",
+          "p": "contradicts",
+          "o": "Mass"
+        },
+        {
+          "s": "normal",
+          "p": "contradicts",
+          "o": "Emphysema"
+        },
+        {
+          "s": "clear lung fields",
+          "p": "contradicts",
+          "o": "acute cardiopulmonary disease"
+        },
+        {
+          "s": "clear lung fields",
+          "p": "contradicts",
+          "o": "pneumonia"
+        },
+        {
+          "s": "clear lung fields",
+          "p": "contradicts",
+          "o": "congestive heart failure"
+        },
+        {
+          "s": "clear lung fields",
+          "p": "contradicts",
+          "o": "pneumothorax"
+        },
+        {
+          "s": "clear lung fields",
+          "p": "is_finding_of",
+          "o": "well-defined pulmonary vasculature"
+        },
+        {
+          "s": "clear lung fields",
+          "p": "is_finding_of",
+          "o": "normal cardiothoracic ratio"
+        },
+        {
+          "s": "normal cardiac silhouette",
+          "p": "contradicts",
+          "o": "cardiomegaly"
+        },
+        {
+          "s": "normal cardiac silhouette",
+          "p": "contradicts",
+          "o": "pericardial effusion"
+        },
+        {
+          "s": "normal cardiac silhouette",
+          "p": "is_finding_of",
+          "o": "normal cardiothoracic ratio"
+        },
+        {
+          "s": "normal cardiothoracic ratio",
+          "p": "contradicts",
+          "o": "cardiomegaly"
+        },
+        {
+          "s": "normal cardiothoracic ratio",
+          "p": "contradicts",
+          "o": "congestive heart failure"
+        },
+        {
+          "s": "normal mediastinal contours",
+          "p": "contradicts",
+          "o": "mediastinal widening"
+        },
+        {
+          "s": "normal mediastinal contours",
+          "p": "contradicts",
+          "o": "aortic aneurysm"
+        },
+        {
+          "s": "normal examination",
+          "p": "contradicts",
+          "o": "acute cardiopulmonary disease"
+        }
+      ],
+      "triplet_count": 30,
+      "leaf_paths": [
+        "normal  --is_finding_of-->  clear lung fields",
+        "normal  --is_finding_of-->  normal cardiac size",
+        "normal  --is_finding_of-->  normal mediastinal contours",
+        "normal  --is_finding_of-->  sharp and well-defined hemidiaphragms",
+        "normal  --is_finding_of-->  midline trachea",
+        "normal  --is_finding_of-->  no acute fracture",
+        "normal  --is_finding_of-->  no pleural effusion",
+        "normal  --is_finding_of-->  no pneumothorax",
+        "normal  --is_finding_of-->  no consolidation",
+        "normal  --contradicts-->  Cardiomegaly",
+        "normal  --contradicts-->  Pleural Effusion",
+        "normal  --contradicts-->  Pneumothorax",
+        "normal  --contradicts-->  Consolidation",
+        "normal  --contradicts-->  Edema",
+        "normal  --contradicts-->  Mass",
+        "normal  --contradicts-->  Emphysema",
+        "clear lung fields  --contradicts-->  acute cardiopulmonary disease",
+        "clear lung fields  --contradicts-->  pneumonia",
+        "clear lung fields  --contradicts-->  congestive heart failure",
+        "clear lung fields  --contradicts-->  pneumothorax",
+        "clear lung fields  --is_finding_of-->  well-defined pulmonary vasculature",
+        "clear lung fields  --is_finding_of-->  normal cardiothoracic ratio",
+        "normal cardiac silhouette  --contradicts-->  cardiomegaly",
+        "normal cardiac silhouette  --contradicts-->  pericardial effusion",
+        "normal cardiac silhouette  --is_finding_of-->  normal cardiothoracic ratio",
+        "normal cardiothoracic ratio  --contradicts-->  cardiomegaly",
+        "normal cardiothoracic ratio  --contradicts-->  congestive heart failure",
+        "normal mediastinal contours  --contradicts-->  mediastinal widening",
+        "normal mediastinal contours  --contradicts-->  aortic aneurysm",
+        "normal examination  --contradicts-->  acute cardiopulmonary disease"
+      ]
+    }
+  },
+  "merged_triplets": [
+    {
+      "s": "normal",
+      "p": "contradicts",
+      "o": "Cardiomegaly"
+    },
+    {
+      "s": "normal",
+      "p": "contradicts",
+      "o": "Pleural Effusion"
+    },
+    {
+      "s": "normal",
+      "p": "contradicts",
+      "o": "Pneumothorax"
+    },
+    {
+      "s": "normal",
+      "p": "contradicts",
+      "o": "Consolidation"
+    },
+    {
+      "s": "normal",
+      "p": "contradicts",
+      "o": "Edema"
+    },
+    {
+      "s": "normal",
+      "p": "contradicts",
+      "o": "Mass"
+    },
+    {
+      "s": "normal",
+      "p": "contradicts",
+      "o": "Emphysema"
+    },
+    {
+      "s": "clear lung fields",
+      "p": "contradicts",
+      "o": "acute cardiopulmonary disease"
+    },
+    {
+      "s": "clear lung fields",
+      "p": "contradicts",
+      "o": "pneumonia"
+    },
+    {
+      "s": "clear lung fields",
+      "p": "contradicts",
+      "o": "congestive heart failure"
+    },
+    {
+      "s": "clear lung fields",
+      "p": "contradicts",
+      "o": "pneumothorax"
+    },
+    {
+      "s": "normal cardiac silhouette",
+      "p": "contradicts",
+      "o": "cardiomegaly"
+    },
+    {
+      "s": "normal cardiac silhouette",
+      "p": "contradicts",
+      "o": "pericardial effusion"
+    },
+    {
+      "s": "normal cardiothoracic ratio",
+      "p": "contradicts",
+      "o": "cardiomegaly"
+    },
+    {
+      "s": "normal cardiothoracic ratio",
+      "p": "contradicts",
+      "o": "congestive heart failure"
+    },
+    {
+      "s": "normal mediastinal contours",
+      "p": "contradicts",
+      "o": "mediastinal widening"
+    },
+    {
+      "s": "normal mediastinal contours",
+      "p": "contradicts",
+      "o": "aortic aneurysm"
+    },
+    {
+      "s": "normal examination",
+      "p": "contradicts",
+      "o": "acute cardiopulmonary disease"
+    },
+    {
+      "s": "normal",
+      "p": "is_finding_of",
+      "o": "clear lung fields"
+    },
+    {
+      "s": "normal",
+      "p": "is_finding_of",
+      "o": "normal cardiac size"
+    },
+    {
+      "s": "normal",
+      "p": "is_finding_of",
+      "o": "normal mediastinal contours"
+    },
+    {
+      "s": "normal",
+      "p": "is_finding_of",
+      "o": "sharp and well-defined hemidiaphragms"
+    },
+    {
+      "s": "normal",
+      "p": "is_finding_of",
+      "o": "midline trachea"
+    },
+    {
+      "s": "normal",
+      "p": "is_finding_of",
+      "o": "no acute fracture"
+    },
+    {
+      "s": "normal",
+      "p": "is_finding_of",
+      "o": "no pleural effusion"
+    },
+    {
+      "s": "normal",
+      "p": "is_finding_of",
+      "o": "no pneumothorax"
+    },
+    {
+      "s": "normal",
+      "p": "is_finding_of",
+      "o": "no consolidation"
+    },
+    {
+      "s": "clear lung fields",
+      "p": "is_finding_of",
+      "o": "well-defined pulmonary vasculature"
+    },
+    {
+      "s": "clear lung fields",
+      "p": "is_finding_of",
+      "o": "normal cardiothoracic ratio"
+    },
+    {
+      "s": "normal cardiac silhouette",
+      "p": "is_finding_of",
+      "o": "normal cardiothoracic ratio"
+    }
+  ],
+  "merged_count": 30,
+  "top_k_per_class": 30,
+  "leaf_traversal": true,
+  "acyclic": true
+}

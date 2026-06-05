@@ -1,0 +1,48 @@
+# Medical Knowledge Graph Triplet Extraction
+
+Extract ONLY explicit medical relationships from the radiology text below.
+
+## Output Format
+Output ONLY triplets in this exact format, one per line:
+(subject, relation, object)
+
+If no valid triplets exist, output: None
+
+## Allowed Relations
+Use these relations EXACTLY (lowercase with underscores):
+- is_finding_of
+- is_symptom_of
+- suggests
+- strongly_suggests
+- weakly_suggests
+- contradicts
+- requires
+- absence_weakens
+- confirmed_by
+- located_in
+
+## Rules
+1. Extract ONLY relationships explicitly stated in the text
+2. Use exact phrases from the text - do NOT invent entities
+3. Subject must be the query_concept OR appear exactly in text
+4. Object must be an exact phrase from the text
+5. Relation must be from the allowed list
+
+## Example
+Text: "Consolidation in right lower lobe suggests pneumonia. X-ray confirms it."
+Output:
+(consolidation, located_in, right lower lobe)
+(consolidation, suggests, pneumonia)
+(x-ray, confirmed_by, pneumonia)
+
+---
+
+## Now Extract
+
+Query Concept: {query_concept}
+Allowed Relations: {relation_definitions}
+
+TEXT TO ANALYZE:
+{content}
+
+OUTPUT TRIPLETS (one per line, or "None" if no valid triplets):
